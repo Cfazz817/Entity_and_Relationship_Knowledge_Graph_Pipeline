@@ -6,6 +6,7 @@ dist/
 wheels/
 important_chats/
 images/
+pdfs/
 *.egg-info
 
 # Virtual environments
