@@ -1,0 +1,71 @@
+# Entity_and_Relationship_Knowlegde_Graph_Pipeline
+
+Here is a step-by-step breakdown of how the entity extraction pipeline works in this project:
+
+## 1. PDF Ingestion (`pdf_ingest.py`)
+- The process starts with a PDF document. You run a script (like `pdf_ingest.py`) which takes the path to a PDF file.
+- It calls `ingest_pdf`, which parses the PDF, breaks it down into smaller, manageable "chunks" of text (`DocumentChunk`), and saves these chunks into the database.
+
+## 2. Pipeline Execution (`main.py`)
+- The main pipeline is kicked off by running `main.py`.
+- **Cleanup:** It starts by calling `reset_stuck_runs()`. This looks for any extraction runs that got stuck in a "running" state for more than 2 hours (perhaps due to a crash) and marks them as "failed".
+- **Batching:** It queries the database for a batch of document chunks to process (currently set to process up to 10 chunks at a time).
+- **Concurrency:** It processes these chunks at the same time using a `ThreadPoolExecutor` with 5 concurrent workers to speed things up.
+
+## 3. Chunk Processing (`pipeline.py`)
+For each chunk, the `KnowledgePipeline` executes the following steps:
+- **Initialization:** It creates an `ExtractionRun` record in the database with a "running" status to track the current operation.
+- **Context Awareness:** If the chunk is not the first one, it fetches the text from the immediately preceding chunk. This helps the AI maintain context across chunk boundaries.
+- **AI Extraction:** It passes the chunk text (and previous context) to the `GeminiExtractor`, which uses an LLM to identify Entities and the Relationships between them.
+- **Entity Resolution & Storage:**
+  - For every entity the AI finds, it calls `resolve_entity` to ensure we don't create duplicate entities if the same thing is mentioned multiple times. 
+  - It records an `EntityMention` tying the entity to the exact text characters (the quote/evidence) in the chunk.
+- **Relationship Resolution & Storage:**
+  - For every relationship found between two entities, it ensures both entities exist.
+  - It calls `resolve_relationship` and saves a `RelationshipAssertion`, including the confidence score and the exact text evidence that supports the relationship.
+- **Completion:** Finally, the transaction is committed to the database, and the `ExtractionRun` is marked as "completed". If anything goes wrong, it rolls back the database changes and marks the run as "failed" with the error message.
+
+---
+
+# How to Use This Pipeline (Getting Started)
+
+Follow these steps to set up the project and run the pipeline from scratch. This project uses `uv` for dependency management.
+
+### Step 1: Install Dependencies
+Ensure you have Python 3.12+ and `uv` installed. Then, create the virtual environment and install the dependencies:
+```bash
+uv sync
+```
+*(Alternatively, if you prefer pip: `pip install -e .`)*
+
+### Step 2: Configure Environment Variables
+Create a file named `.env` in the root of your project directory and add your database and API credentials. Here is the required template:
+```env
+DATABASE_URL=postgresql+psycopg://postgres:<YOUR_PASSWORD>@localhost:5432/knowledge_graph
+GEMINI_API_KEY=<YOUR_GEMINI_API_KEY>
+GEMINI_MODEL=gemini-3.7-flash
+```
+*Note: Make sure your PostgreSQL database is running and the database specified (e.g., `knowledge_graph`) exists.*
+
+### Step 3: Initialize the Database
+Before running the pipeline, you need to set up your database tables. Run the Alembic migrations:
+```bash
+alembic upgrade head
+```
+
+### Step 4: Ingest a PDF
+To process a PDF, you first need to break it down and load it into your database.
+1. Open `pdf_ingest.py` in your editor.
+2. Update the `pdf_path` variable to point to the absolute path of the PDF you want to ingest.
+3. Run the ingestion script:
+```bash
+python pdf_ingest.py
+```
+
+### Step 5: Run the Extraction Pipeline
+Once the chunks are stored in your database, you can kick off the AI extraction.
+1. Run the main script:
+```bash
+python app/main.py
+```
+2. The script will pick up batches of un-processed text chunks, process them concurrently using the Gemini model, and print out the number of entities and relationships extracted for each chunk.
