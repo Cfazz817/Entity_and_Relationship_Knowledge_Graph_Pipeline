@@ -17,8 +17,8 @@ class GeminiExtractor(BaseExtractor):
         )
 
         self.model = settings.gemini_model
-        # Use gemini-embedding-001 for embeddings
-        self.embedding_model = "models/gemini-embedding-001"  # "models/gemini-embedding-2"
+        # Use gemini-embedding-001 / gemini-embedding-001 for embeddings
+        self.embedding_model = "models/gemini-embedding-2"  # "models/gemini-embedding-001"
 
     @property
     def model_name(self) -> str:

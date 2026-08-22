@@ -10,15 +10,17 @@ def main():
         # 2. Define the path to your PDF
         # Replace with your actual PDF path
         pdf_path = Path(
-            "/home/fazzin8r/dev/entity_pipeline/pdfs/Rulers of Evil, Frederick Tupper Saussy.pdf")
+            "/home/fazzin8r/dev/entity_pipeline/pdfs/The Vatican`s Holocaust by Avro Manhattan pdf.pdf")
 
         # 3. Call the ingestion function
         print(f"Ingesting {pdf_path}...")
         document = ingest_pdf(
             session=session,
             path=pdf_path,
-            title="Rulers of Evil",  # Optional metadata
-            author="Frederick Tupper Saussy III"           # Optional metadata
+            title="The Vatican's Holocaust",
+            author="Avro Manhattan",
+            start_page=19,   # Starts right at Chapter 1 (skips ToC)
+            end_page=250     # Stops right before the Index/Bibliography
         )
 
         print(f"Successfully ingested document ID: {document.id}")

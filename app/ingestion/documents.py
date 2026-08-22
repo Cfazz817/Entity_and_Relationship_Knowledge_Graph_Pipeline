@@ -38,6 +38,8 @@ def ingest_pdf(
     publication_date: str | None = None,
     source_url: str | None = None,
     max_chars: int = 6000,
+    start_page: int | None = None,  # NEW
+    end_page: int | None = None,    # NEW
 ) -> Document:
     """
     Parse and persist a complete PDF.
@@ -108,6 +110,16 @@ def ingest_pdf(
     # ---------------------------------------------------------
 
     pages = extract_pdf_pages(pdf_path)
+
+    filtered_pages = []
+    for page in pages:
+        if start_page is not None and page.page_number < start_page:
+            continue
+        if end_page is not None and page.page_number > end_page:
+            continue
+        filtered_pages.append(page)
+
+    pages = filtered_pages
 
     # ---------------------------------------------------------
     # Create or reuse Source.

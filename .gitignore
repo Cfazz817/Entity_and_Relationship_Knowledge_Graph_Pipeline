@@ -4,6 +4,8 @@ __pycache__/
 build/
 dist/
 wheels/
+
+# Folders, etc
 important_chats/
 images/
 pdfs/
@@ -12,3 +14,8 @@ pdfs/
 # Virtual environments
 .venv
 .env
+
+# Extras
+scripts/sync_db_to_debian.sh
+notes/skip_pages_idea.md
+scripts/sync.log
