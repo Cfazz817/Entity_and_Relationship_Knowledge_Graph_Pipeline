@@ -1,0 +1,423 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 18548
+Total Entity Mentions: 41184
+Total Relationship Assertions: 7027
+
+--- Top 100 Most Mentioned Entities ---
+- Vatican (Institution): 427 mentions
+- Rome (Location): 354 mentions
+- CIA (Institution): 318 mentions
+- Jesuits (Institution): 207 mentions
+- Catholic Church (Institution): 198 mentions
+- Italy (Location): 184 mentions
+- United States (Location): 182 mentions
+- France (Location): 150 mentions
+- Germany (Location): 140 mentions
+- Hitler (Person): 135 mentions
+- New York (Location): 113 mentions
+- America (Location): 107 mentions
+- Russia (Location): 106 mentions
+- Barack Obama (Person): 103 mentions
+- Croatia (Location): 98 mentions
+- England (Location): 95 mentions
+- Roman Catholic Church (Institution): 95 mentions
+- Pius XII (Person): 93 mentions
+- Ustashi (Institution): 93 mentions
+- London (Location): 92 mentions
+- FBI (Institution): 89 mentions
+- Society of Jesus (Institution): 80 mentions
+- Spain (Location): 71 mentions
+- Europe (Location): 70 mentions
+- Holy See (Institution): 70 mentions
+- Mussolini (Person): 70 mentions
+- Congress (Institution): 69 mentions
+- Wikipedia (Institution): 68 mentions
+- New York Times (Institution): 65 mentions
+- Lorenzo Ricci (Person): 64 mentions
+- Johnny Cirucci (Person): 64 mentions
+- John Paul II (Person): 64 mentions
+- Paris (Location): 62 mentions
+- Washington (Location): 60 mentions
+- pope (Person): 57 mentions
+- White House (Institution): 56 mentions
+- P2 (Institution): 55 mentions
+- Zagreb (Location): 55 mentions
+- Yugoslavia (Location): 53 mentions
+- Bill Clinton (Person): 53 mentions
+- Pope Pius XII (Person): 53 mentions
+- Pavelic (Person): 51 mentions
+- Sindona (Person): 51 mentions
+- The Guardian (Institution): 49 mentions
+- USA (Location): 48 mentions
+- IOR (Institution): 48 mentions
+- Washington, DC (Location): 47 mentions
+- Austria (Location): 47 mentions
+- NATO (Institution): 46 mentions
+- Central Intelligence Agency (Institution): 46 mentions
+- Jesus Christ (Person): 45 mentions
+- Obama (Person): 45 mentions
+- Church (Institution): 45 mentions
+- Poland (Location): 44 mentions
+- Adolf Hitler (Person): 44 mentions
+- Kinsey (Person): 43 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Israel (Location): 43 mentions
+- Opus Dei (Institution): 43 mentions
+- Argentina (Location): 43 mentions
+- Jesus (Person): 42 mentions
+- Michele Sindona (Person): 42 mentions
+- Turkey (Location): 42 mentions
+- YouTube (Institution): 41 mentions
+- Gelli (Person): 41 mentions
+- Soviet Union (Institution): 41 mentions
+- Pius XI (Person): 41 mentions
+- Milan (Location): 41 mentions
+- California (Location): 40 mentions
+- Gladio (Institution): 40 mentions
+- US (Location): 40 mentions
+- The Vatican (Institution): 40 mentions
+- CNN (Institution): 40 mentions
+- Daily Mail (Institution): 40 mentions
+- Pope Francis (Person): 39 mentions
+- Louis Pasteur (Person): 38 mentions
+- Georgetown (Institution): 38 mentions
+- World War II (Event): 38 mentions
+- Pentagon (Institution): 38 mentions
+- Sicily (Location): 37 mentions
+- Calvi (Person): 36 mentions
+- Australia (Location): 36 mentions
+- Vatican Bank (Institution): 36 mentions
+- BBC (Institution): 35 mentions
+- United States government (Institution): 35 mentions
+- Associated Press (Institution): 35 mentions
+- George Washington (Person): 35 mentions
+- Papacy (Institution): 34 mentions
+- John Carroll (Person): 34 mentions
+- John F. Kennedy (Person): 34 mentions
+- South America (Location): 34 mentions
+- Licio Gelli (Person): 34 mentions
+- Maryland (Location): 34 mentions
+- Chicago (Location): 34 mentions
+- Belgium (Location): 33 mentions
+- Pope John Paul II (Person): 33 mentions
+- Stepinac (Person): 33 mentions
+- Washington Post (Institution): 33 mentions
+- Ante Pavelic (Person): 33 mentions
+- Ukraine (Location): 32 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Nathaniel I. Berlin ] --(Member Of)--> [ United States Navy ]
+    Evidence: "Berlin was inducted into the United States Navy"
+
+[ Nathaniel I. Berlin ] --(Employee Of)--> [ Defense Department, Weapons Project ]
+    Evidence: "Medical Officer in the Secret Service in the secret Defense Department, Weapons Project from 1954 to 1956."
+
+[ Nathaniel I. Berlin ] --(Employee Of)--> [ Neuberger Medical Research Laboratory ]
+    Evidence: "Right after his time at the “Neuberger Medical Research Laboratory”, Berlin"
+
+[ Anthony Fauci ] --(Employee Of)--> [ Fort Detrick ]
+    Evidence: "Fauci at the Biological Warfare facility, Fort Detrick"
+
+[ Fort Detrick ] --(Lives In)--> [ Maryland ]
+    Evidence: "Fort Detrick in Mary-land"
+
+[ Del Bigtree ] --(Spouse Of)--> [ Lee Nestor ]
+    Evidence: "his name is “Del Big-tree”, his wife is “Lee Nest-or”"
+
+[ Gordon Zubrod ] --(Employee Of)--> [ National Institutes of Health ]
+    Evidence: "From 1954 to 1961, he was the clinical director of the National Institutes of Health"
+
+[ Richard Michael “Mike” DeWine ] --(Lives In)--> [ Ohio ]
+    Evidence: "Governor of Ohio, Richard Michael “Mike” DeWine"
+
+[ Gordon Zubrod ] --(Employee Of)--> [ National Cancer Institute ]
+    Evidence: "from 1961 to 1974, he was scientific director of the National Cancer Institute"
+
+[ Judy Mikovits ] --(Colleague Of)--> [ Anthony Fauci ]
+    Evidence: "Judy Mikovits, a Catholic626 who worked with Fauci at the Biological Warfare facility, Fort Detrick"
+
+[ Jack Groverland ] --(Parent Of)--> [ Del Bigtree ]
+    Evidence: "his father is “Jack Grove-r-land”"
+
+[ Judy Mikovits ] --(Employee Of)--> [ Fort Detrick ]
+    Evidence: "Judy Mikovits... who worked with Fauci at the Biological Warfare facility, Fort Detrick"
+
+[ Alex Jones ] --(Colleague Of)--> [ Andrew Kaufman ]
+    Evidence: "“Alex Jones” has made the shocking move of conscripting my friend Andrew Kaufman to cohost several shows."
+
+[ Del Bigtree ] --(Employee Of)--> [ Highwire ]
+    Evidence: "“The Hydroxychloroquine (HCQ) Scandal” by Del Bigtree of the Highwire"
+
+[ Alec Zeck ] --(Member Of)--> [ Health Freedom for Humanity ]
+    Evidence: "Alec Zeck of the Health Freedom for Humanity podcast"
+
+[ Lester ] --(Collaborator Of)--> [ Parker ]
+    Evidence: "Lester and Parker613"
+
+[ M. L. Johnson ] --(Works For)--> [ New Biology ]
+    Evidence: "Dr. M. L. Johnson PhD, who wrote an article for the periodical New Biology"
+
+[ Gordon Zubrod ] --(Member Of)--> [ Army Medical Corps ]
+    Evidence: "Gordon Zubrod was even less so because it was his “training”, not his experience. He preferred drugs and that’s the perfect recipe for a Rockefeller killer pretending to be a healer. 
+ 
+During World War II, while serving in the Army Medical Corps, he was part of a team"
+
+[ Cancer History Project ] --(Employer Of)--> [ Johns Hopkins University ]
+    Evidence: "The Cancer History Project (funded by the Johns Hopkins University"
+
+[ Rod Floyd ] --(Employee Of)--> [ Palmer College of Chiropractic ]
+    Evidence: "Dr. Rod Floyd, Associate Professor and Faculty-
+Clinician with the Palmer College of Chiropractic"
+
+[ Tim Brown ] --(Works For)--> [ Freedom Outpost ]
+    Evidence: "Freedom Outpost, in October 2015, offered the following from writer 
+Tim Brown"
+
+[ Colant ] --(Parent Of)--> [ Isabella ]
+    Evidence: "Their daughter Isabella, 20"
+
+[ Isabella ] --(Student Of)--> [ St. Edwards University ]
+    Evidence: "Isabella, 20, is currently a student at St. Edwards University"
+
+[ Robert Boyce ] --(Employee Of)--> [ New York Police Department ]
+    Evidence: "New York Police Department Chief of Detectives Robert Boyce"
+
+[ Scarpelli ] --(Spouse Of)--> [ Colant ]
+    Evidence: "Scarpelli and Colant also sent both their children"
+
+[ Joseph ] --(Student Of)--> [ University of Miami ]
+    Evidence: "Joseph, 19, attends the University of Miami"
+
+[ Scarpelli ] --(Parent Of)--> [ Joseph ]
+    Evidence: "their son, Joseph, 19"
+
+[ St. Edwards University ] --(Lives In)--> [ Austin, Texas ]
+    Evidence: "St. Edwards University in Austin, Texas"
+
+[ Scarpelli ] --(Parent Of)--> [ Isabella ]
+    Evidence: "Their daughter Isabella, 20"
+
+[ Colant ] --(Parent Of)--> [ Joseph ]
+    Evidence: "their son, Joseph, 19"
+
+[ Joseph C. Scarpelli ] --(Parent Of)--> [ Glenn Scarpelli ]
+    Evidence: "Scarpelli’s father, Joseph C. Scarpelli"
+
+[ Glenn Scarpelli ] --(Spouse Of)--> [ Patricia Colant ]
+    Evidence: "Glenn Scarpelli, 53, and his wife, Patricia Colant, 50"
+
+[ Patricia Scarpelli ] --(Parent Of)--> [ Isabella ]
+    Evidence: "they strangely left their two children (Joseph, 19, and Isabella, 20) behind"
+
+[ Glenn Scarpelli ] --(Parent Of)--> [ Joseph ]
+    Evidence: "they strangely left their two children (Joseph, 19, and Isabella, 20) behind"
+
+[ Glenn Scarpelli ] --(Spouse Of)--> [ Patricia Scarpelli ]
+    Evidence: "holistic doctor, Glenn Scarpelli, 53, and his wife Patricia, 50"
+
+[ Patricia Scarpelli ] --(Parent Of)--> [ Joseph ]
+    Evidence: "they strangely left their two children (Joseph, 19, and Isabella, 20) behind"
+
+[ Glenn Scarpelli ] --(Parent Of)--> [ Isabella ]
+    Evidence: "they strangely left their two children (Joseph, 19, and Isabella, 20) behind"
+
+[ Jennifer Daniels ] --(Lives In)--> [ Panama ]
+    Evidence: "Jennifer Daniels now lives outside the United States [in Panama]"
+
+[ Jennifer Daniels ] --(Attended)--> [ Harvard/Radcliffe College ]
+    Evidence: "She attended Harvard/Radcliffe College."
+
+[ Jennifer Daniels ] --(Graduate Of)--> [ Nottingham High School ]
+    Evidence: "Dr. Jennifer Daniels graduated from Nottingham High School in Syracuse, NY in 1975."
+
+[ Jennifer Daniels ] --(Attended)--> [ The University of Pennsylvania School of Medicine ]
+    Evidence: "Jennifer entered The University of Pennsylvania School of Medicine"
+
+[ Jennifer Daniels ] --(Attended)--> [ The Wharton School ]
+    Evidence: "completed her studies at The Wharton School."
+
+[ John Vliet Lindsay ] --(Member Of)--> [ Scroll and Key ]
+    Evidence: "successive members of Yale’s “Scroll and Key” society: [...] John Vliet Lindsay"
+
+[ Robert Ferdinand Wagner II ] --(Member Of)--> [ Scroll and Key ]
+    Evidence: "successive members of Yale’s “Scroll and Key” society: Robert Ferdinand Wagner II"
+
+[ Lawrence Valenstein ] --(Founder Of)--> [ Grey Medical Advertising Company ]
+    Evidence: "“Grey Medical Advertising Company” ... was, of course, started by two Jews: Lawrence Valenstein and Arthur Fatt."
+
+[ Arthur Fatt ] --(Founder Of)--> [ Grey Medical Advertising Company ]
+    Evidence: "“Grey Medical Advertising Company” ... was, of course, started by two Jews: Lawrence Valenstein and Arthur Fatt."
+
+[ Irene Piatt ] --(Leader Of)--> [ New York State Commission on Quality of Care for the Mentally Disabled ]
+    Evidence: "Irene Piatt, acting chair of the New York State Commission on Quality of Care for the Mentally Disabled."
+
+[ Dennis O'Leary ] --(Works For)--> [ George Washington University Medical Center ]
+    Evidence: "Dr. Dennis O’Leary of the George Washington University Medical Center"
+
+[ Daniel Ruge ] --(Employer Of)--> [ Reagan ]
+    Evidence: "After giving President Reagan a routine physical examination, Dr. Daniel Ruge said that"
+
+[ William ] --(Attended)--> [ St. Catherine’s Female Academy ]
+    Evidence: "Before Marquette, William was educated at a Catholic school with an identity crisis: St. Catherine’s Female Academy"
+
+[ William Lutz ] --(Student Of)--> [ Jesuits ]
+    Evidence: "William Lutz is a professionally-trained “linguist”. Who trained him? — the Jesuits"
+
+[ Jesuits ] --(Member Of)--> [ Marquette University ]
+    Evidence: "the Jesuits of Marquette University"
+
+[ Mordechai Feingold ] --(Works For)--> [ MIT ]
+    Evidence: "MIT’s Mordechai Feingoldxciv"
+
+[ Mordechai Feingold ] --(Works For)--> [ Virginia Tech ]
+    Evidence: "Professor of Science and Technology Studies at Virginia Tech"
+
+[ Cardinal Pierre de Bérulle ] --(Works For)--> [ Henry IV of Navarre ]
+    Evidence: "Cardinal Pierre 
+ de Bérulle, the Chaplain to formerly-Protestant King Henry IV of 
+ Navarre."
+
+[ Cardinal Giovanni Francesco di Bagno ] --(Lives In)--> [ Rome ]
+    Evidence: "Cardinal Giovanni Francesco (“Francis”) di Bagno, the “Papal Nuncio” 
+ (Ambassador for the sovereign city-state of Rome)"
+
+[ Galileo ] --(Works For)--> [ Collegio Romano ]
+    Evidence: "Professor “Galileo” 
+ at the Jesuit Collegio Romano"
+
+[ René Descartes ] --(Lives In)--> [ Poitou region ]
+    Evidence: "Descartes and his family were devout Catholics though they inhabited the Protestant Huguenot Poitou region of France."
+
+[ René Descartes ] --(Attended)--> [ Collège Royal Henry-Le-Grand ]
+    Evidence: "He was sent to the Jesuit Collège Royal Henry-Le-Grand to receive Jesuit"
+
+[ Francis Ruscetti ] --(Works For)--> [ Fort Detrick ]
+    Evidence: "It’s where Roman Catholics like Anthony Fauci, Francis Ruscetti and Judy Mikovits committed criminal acts against the American people on behalf of the Vatican"
+
+[ Judy Mikovits ] --(Works For)--> [ Fort Detrick ]
+    Evidence: "It’s where Roman Catholics like Anthony Fauci, Francis Ruscetti and Judy Mikovits committed criminal acts against the American people on behalf of the Vatican"
+
+[ Anthony Fauci ] --(Works For)--> [ Fort Detrick ]
+    Evidence: "It’s where Roman Catholics like Anthony Fauci, Francis Ruscetti and Judy Mikovits committed criminal acts against the American people on behalf of the Vatican"
+
+[ Richard Milhous Nixon ] --(Employer Of)--> [ National Cancer Act ]
+    Evidence: "Richard Milhous Nixon “declared war on cancer” by signing the “National Cancer Act”"
+
+[ Frederick T. Frelinghuysen ] --(Founder Of)--> [ Bull’s Blood secret society ]
+    Evidence: "Bull’s Blood secret society — at Rutgers University — known as Lodge 443, established in 1834 by Frederick T. Frelinghuysen"
+
+[ William A. Newell ] --(Founder Of)--> [ Bull’s Blood secret society ]
+    Evidence: "Bull’s Blood secret society — at Rutgers University — known as Lodge 443, established in 1834 by Frederick T. Frelinghuysen, William A. Newell"
+
+[ Joseph Philo Bradley ] --(Founder Of)--> [ Bull’s Blood secret society ]
+    Evidence: "Bull’s Blood secret society — at Rutgers University — known as Lodge 443, established in 1834 by Frederick T. Frelinghuysen, William A. Newell and Joseph Philo Bradley"
+
+[ David Stafford ] --(Employee Of)--> [ Sumner County Board of Education ]
+    Evidence: "He is a school administrator for the Sumner County Board of Education."
+
+[ David Stafford ] --(Member Of)--> [ Grand Lodge of Tennessee ]
+    Evidence: "Sumner County Chairman for the Grand Lodge of Tennessee."
+
+[ David Stafford ] --(Member Of)--> [ York Rite Bodies ]
+    Evidence: "all three York Rite Bodies"
+
+[ David Stafford ] --(Graduate Of)--> [ Tennessee State University ]
+    Evidence: "an M.Ed. and Ed.S. in Administration from Tennessee State University"
+
+[ David Stafford ] --(Graduate Of)--> [ Middle Tennessee State University ]
+    Evidence: "He has a B.S. in Interdisciplinary Studies from Middle Tennessee State University"
+
+[ David Stafford ] --(Member Of)--> [ Tennessee Lodge of Research ]
+    Evidence: "and the Tennessee Lodge of Research."
+
+[ David Stafford ] --(Member Of)--> [ Tennessee Lodge of Research ]
+    Evidence: "David Stafford, Tennessee Lodge of Research565"
+
+[ David Stafford ] --(Member Of)--> [ Bethpage Lodge #521 ]
+    Evidence: "David E. Stafford 32° is a Past Master and current Secretary of Bethpage Lodge #521"
+
+[ David Stafford ] --(Member Of)--> [ Scottish Rite Valley of Nashville ]
+    Evidence: "He is a member of the Scottish Rite Valley of Nashville"
+
+[ Bernard Flexner ] --(Founder Of)--> [ Council on Foreign Relations ]
+    Evidence: "Bernard Flexner later became a founding member of the Council on 
+Foreign Relations"
+
+[ John Heath ] --(Leader Of)--> [ Phi Beta Kappa ]
+    Evidence: "with John Heath as its first President."
+
+[ Woodrow Wilson ] --(Employer Of)--> [ Brandeis ]
+    Evidence: "After Woodrow Wilson appointed Brandeis to the Supreme Court"
+
+[ Brandeis ] --(Member Of)--> [ Phi Beta Kappa ]
+    Evidence: "how Brandeis was a 
+member of Phi Beta Kappa"
+
+[ Williamsburg ] --(Lives In)--> [ Virginia ]
+    Evidence: "Williamsburg, Virginia"
+
+[ Bernard Flexner ] --(Lives In)--> [ New York ]
+    Evidence: "Bernard Flexner, who was then an attorney in New York"
+
+[ Bernard Flexner ] --(Member Of)--> [ Rockefeller foundation ]
+    Evidence: "and a trustee of the Rockefeller Foundation"
+
+[ Simon ] --(Sibling Of)--> [ Bernard Flexner ]
+    Evidence: "with 
+his brother Simon."
+
+[ Neil Gorsuch ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "Neil Gorsuch"
+
+[ Clarence Thomas ] --(Employee Of)--> [ Monsanto ]
+    Evidence: "Clarence Thomas: Opus Dei Catholic, Monsanto lawyer"
+
+[ Louis Brandies ] --(Leader Of)--> [ Zionist Organization of America ]
+    Evidence: "The president of the Zionist Organization of America, Louis Brandies"
+
+[ Brett Kavanaugh ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "Brett Kavanaugh: devout Catholic"
+
+[ John Roberts ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "John Roberts, Chief Justice"
+
+[ Flexner ] --(Works For)--> [ Johns Hopkins University ]
+    Evidence: "Flexner spent much of his time at Johns Hopkins University"
+
+[ Samuel Alito ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "Samuel Alito: Opus Dei Catholic"
+
+[ Sonia Sotomayor ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "Sonia Sotomayor: far-Left Hispanic Catholic"
+
+[ Elena Kagan ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "Elena Kagan: far-Left Jew"
+
+[ Clarence Thomas ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "Clarence Thomas: Opus Dei Catholic, Monsanto lawyer"
+
+[ Stephen Breyer ] --(Member Of)--> [ Supreme Court ]
+    Evidence: "Stephen Breyer: Jew, Phi Beta Kappa, Stanford 1959"
+
+[ Richard Ely ] --(Subordinate Of)--> [ Woodrow Wilson ]
+    Evidence: "Richard Ely, who became the evil genius of Woodrow Wilson’s education"
+
+[ Daniel Gilman ] --(Founder Of)--> [ Peabody Fund ]
+    Evidence: "Daniel Gilman incorporated the Peabody Fund"
+
+[ Daniel Gilman ] --(Founder Of)--> [ John Slater Fund ]
+    Evidence: "Daniel Gilman incorporated [...] the John Slater Fund"
+
+[ Daniel Gilman ] --(Teacher Of)--> [ Richard Ely ]
+    Evidence: "Gilman also taught Richard Ely"
+
+[ Ignatius Loyola ] --(Founder Of)--> [ Jesuit order ]
+    Evidence: "the founder of the Jesuit Order, Ignatius of Loyola"
+
+[ The Russell Trust Association ] --(Owner Of)--> [ The Skull and Bones ]
+    Evidence: "Skull and Bones’ corporate name is The Russell Trust Association, which finances Skull and Bones"
+
+=========================================================
+

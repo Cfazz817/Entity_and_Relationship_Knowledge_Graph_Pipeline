@@ -1,0 +1,423 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 21147
+Total Entity Mentions: 47222
+Total Relationship Assertions: 8112
+
+--- Top 100 Most Mentioned Entities ---
+- Vatican (Institution): 460 mentions
+- Rome (Location): 449 mentions
+- CIA (Institution): 327 mentions
+- Jesuits (Institution): 231 mentions
+- Catholic Church (Institution): 226 mentions
+- United States (Location): 211 mentions
+- Italy (Location): 197 mentions
+- France (Location): 173 mentions
+- Germany (Location): 165 mentions
+- Hitler (Person): 139 mentions
+- New York (Location): 130 mentions
+- America (Location): 121 mentions
+- Roman Catholic Church (Institution): 118 mentions
+- England (Location): 116 mentions
+- London (Location): 109 mentions
+- Russia (Location): 109 mentions
+- Barack Obama (Person): 106 mentions
+- Croatia (Location): 101 mentions
+- FBI (Institution): 97 mentions
+- Pius XII (Person): 95 mentions
+- Ustashi (Institution): 93 mentions
+- Society of Jesus (Institution): 82 mentions
+- Europe (Location): 80 mentions
+- Spain (Location): 79 mentions
+- Wikipedia (Institution): 77 mentions
+- Congress (Institution): 74 mentions
+- New York Times (Institution): 74 mentions
+- Holy See (Institution): 73 mentions
+- Church (Institution): 72 mentions
+- Mussolini (Person): 71 mentions
+- pope (Person): 71 mentions
+- Paris (Location): 71 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Washington (Location): 65 mentions
+- John Paul II (Person): 64 mentions
+- Johnny Cirucci (Person): 64 mentions
+- Jesus Christ (Person): 61 mentions
+- Luther (Person): 59 mentions
+- Bill Clinton (Person): 57 mentions
+- White House (Institution): 57 mentions
+- Jesus (Person): 56 mentions
+- P2 (Institution): 55 mentions
+- Martin Luther (Person): 55 mentions
+- Zagreb (Location): 55 mentions
+- Pope Pius XII (Person): 54 mentions
+- World War II (Event): 54 mentions
+- California (Location): 53 mentions
+- Yugoslavia (Location): 53 mentions
+- The Guardian (Institution): 52 mentions
+- United States government (Institution): 52 mentions
+- Pavelic (Person): 51 mentions
+- Austria (Location): 51 mentions
+- Sindona (Person): 51 mentions
+- Washington, DC (Location): 50 mentions
+- Central Intelligence Agency (Institution): 49 mentions
+- IOR (Institution): 48 mentions
+- USA (Location): 48 mentions
+- Poland (Location): 47 mentions
+- Ireland (Location): 47 mentions
+- Papacy (Institution): 47 mentions
+- Australia (Location): 47 mentions
+- Adolf Hitler (Person): 46 mentions
+- Anthony Fauci (Person): 46 mentions
+- Obama (Person): 46 mentions
+- NATO (Institution): 46 mentions
+- Israel (Location): 45 mentions
+- Georgetown (Institution): 45 mentions
+- CNN (Institution): 44 mentions
+- Opus Dei (Institution): 44 mentions
+- Turkey (Location): 44 mentions
+- Argentina (Location): 43 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- The Vatican (Institution): 43 mentions
+- Kinsey (Person): 43 mentions
+- Donald Trump (Person): 43 mentions
+- Soviet Union (Institution): 42 mentions
+- Michele Sindona (Person): 42 mentions
+- YouTube (Institution): 42 mentions
+- US (Location): 42 mentions
+- Milan (Location): 42 mentions
+- Pius XI (Person): 42 mentions
+- Daily Mail (Institution): 41 mentions
+- Gelli (Person): 41 mentions
+- Pentagon (Institution): 40 mentions
+- Gladio (Institution): 40 mentions
+- BBC (Institution): 40 mentions
+- Chicago (Location): 39 mentions
+- Washington Post (Institution): 39 mentions
+- Pope Francis (Person): 39 mentions
+- Louis Pasteur (Person): 38 mentions
+- China (Location): 38 mentions
+- John F. Kennedy (Person): 38 mentions
+- South America (Location): 37 mentions
+- Philadelphia (Location): 37 mentions
+- Sicily (Location): 37 mentions
+- George Washington (Person): 37 mentions
+- Maryland (Location): 37 mentions
+- Boston (Location): 37 mentions
+- Calvi (Person): 36 mentions
+- Vatican Bank (Institution): 36 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Herr von Berlepsch ] --(Employee Of)--> [ Wartburg Castle ]
+    Evidence: "the custodian Herr von Berlepsch"
+
+[ Albert Dürer ] --(Supporter Of)--> [ Luther ]
+    Evidence: "Albert Dürer, a Nuremberg painter and ardent supporter"
+
+[ Albert Dürer ] --(Lives In)--> [ Nuremberg ]
+    Evidence: "Albert Dürer, a Nuremberg painter"
+
+[ Frederick ] --(Owner Of)--> [ Wartburg Castle ]
+    Evidence: "Frederick was lord of the castle"
+
+[ Martin Luther ] --(Member Of)--> [ Holy Mother Church ]
+    Evidence: "estranged member, rotten and cut off from the body of our Holy Mother Church"
+
+[ Charles ] --(Supporter Of)--> [ Rome ]
+    Evidence: "Charles did to ingratiate himself with the source of his power and authority: Rome"
+
+[ Charles ] --(Employer Of)--> [ Edict of Worms ]
+    Evidence: "Charles had the Diet’s edict penned ... had them sign off on the official Edict of Worms157"
+
+[ John IV of Armagnac ] --(Leader Of)--> [ French forces ]
+    Evidence: "French forces under John IV of Armagnac"
+
+[ Ludwig of the Palatinate ] --(Member Of)--> [ House of Wittelsbach ]
+    Evidence: "Louis V of the House of Wittelsbach"
+
+[ Fritz ] --(Subordinate Of)--> [ Frederick III of Saxony ]
+    Evidence: "the Elector permitted his jester, Fritz"
+
+[ Frederick III of Saxony ] --(Mentor Of)--> [ Luther ]
+    Evidence: "Luther’s benefactor, 
+Elector Frederick III of Saxony."
+
+[ Christ ] --(Interacted With)--> [ Annas ]
+    Evidence: "When Christ stood before Annas"
+
+[ Richard von Greiffenklau zu Vollrads ] --(Employee Of)--> [ Archbishop of Trier ]
+    Evidence: "an official of the Archbishop of Trier, Richard von Greiffenklau zu Vollrads"
+
+[ Johann Eck ] --(Opponent Of)--> [ Andreas Osinader ]
+    Evidence: "Maier would go on to fight, not just Martin Luther, but to specifically attack the Jews through his battle with another Reformer, Andreas Oslander."
+
+[ Justas Jonas ] --(Friend Of)--> [ Luther ]
+    Evidence: "Luther had his jurist friend Justas Jonas with him"
+
+[ Spalatin ] --(Employee Of)--> [ Frederick ]
+    Evidence: "Frederick’s chaplain, Georg “Spalatin” Burkhardt"
+
+[ Martin Bucer ] --(Employee Of)--> [ Franz von Sickingen ]
+    Evidence: "Sickingen’s chaplain, Martin Bucer"
+
+[ Martin Bucer ] --(Interacted With)--> [ Luther ]
+    Evidence: "Bucer who had once met Luther, intercepted his caravan at Oppenheim on April 15."
+
+[ Nicholas von Amsdorf ] --(Colleague Of)--> [ Martin Luther ]
+    Evidence: "At least four colleagues of Luther, the most notable being Nicholas von Amsdorf"
+
+[ Justas Jonas ] --(Friend Of)--> [ Martin Luther ]
+    Evidence: "Luther’s jurist friend from Wittenberg Justas Jonas"
+
+[ Duke Johann ] --(Sibling Of)--> [ Frederick the Wise ]
+    Evidence: "the brother of the very powerful Saxon elector Frederick the Wise, Duke Johann"
+
+[ Karl V ] --(Grandchild Of)--> [ Maximilian ]
+    Evidence: "Karl V was young but he had learned from his deceased grandfather Maximilian"
+
+[ Martin Luther ] --(Friend Of)--> [ Spalatin ]
+    Evidence: "He wrote his friend Spalatin"
+
+[ Girolamo Aleandro ] --(Subordinate Of)--> [ Holy Roman Emperor ]
+    Evidence: "the Confessor of Charles, Girolamo Aleandro"
+
+[ Holy Roman Emperor ] --(Employer Of)--> [ Diet at Worms ]
+    Evidence: "He then cordially invited the Doctor of Wittenberg to attend the upcoming Diet at Wormslvii"
+
+[ Holy Roman Emperor ] --(Adversary Of)--> [ Pope Leo de Medici ]
+    Evidence: "Although Charles was Fidei defensor, the relationship he had with Pope Leo de Medici was a rocky one."
+
+[ Pope Leo ] --(Superior Of)--> [ Frederick ]
+    Evidence: "Pope Leo repeatedly pressured the Elector of Saxony"
+
+[ Pope Clement XIV ] --(Leader Of)--> [ Jesuits ]
+    Evidence: "When the Jesuits were disbanded in 1773 by Pope Clement XIV"
+
+[ Pope Clement XIV ] --(Leader Of)--> [ Jesuits ]
+    Evidence: "Pope Clement XIV (later poisoned) Catherine / Sophie"
+
+[ Girolamo Aleandro ] --(Lives In)--> [ Germany ]
+    Evidence: "The Papal nuncio (ambassador) to what was then “Germany” was Girolamo Aleandro"
+
+[ Leo X ] --(Adversary Of)--> [ Luther ]
+    Evidence: "In January of 1521, Medici Pope Leo X excommunicated Martin Luther."
+
+[ Franz von Sickingen ] --(Associate Of)--> [ Ulrich von Hutten ]
+    Evidence: "two of Germany’s Humanist noblemen — Franz von Sickingen and Ulrich von Hutten"
+
+[ Silvestro Mazzolini da Prierio ] --(Lives In)--> [ Rome ]
+    Evidence: "From Rome, a Dominican priest named Silvestro Mazzolini da Prierio"
+
+[ Johannes Bugenhagen ] --(Lives In)--> [ Wittenberg ]
+    Evidence: "He would eventually relocate to Wittenberg"
+
+[ Silvestro Mazzolini da Prierio ] --(Opponent Of)--> [ Martin Luther ]
+    Evidence: "began firing off a deluge of works against Luther"
+
+[ Erasmus ] --(Friend Of)--> [ Luther ]
+    Evidence: "After reading the Babylonian Captivity Luther’s Dutch friend Erasmus"
+
+[ Alexander Hislop ] --(Collaborator Of)--> [ Babylon ]
+    Evidence: "Alexander Hislop’s The Two Babylons which traced the Roman mass to Babylonian facsimiles."
+
+[ Giovani de Medici ] --(Opponent Of)--> [ Luther ]
+    Evidence: "In response, in June of 1520, Giovani de Medici (Pope Leo X) penned the Bull Exsurge Domine,li which parsed out 41 of Luther’s 95 Theses as heretical"
+
+[ Luther ] --(Member Of)--> [ Bohemian Brethren ]
+    Evidence: "Luther’s connection with the Bohemian Brethren"
+
+[ Dominicans ] --(Enemy Of)--> [ Luther ]
+    Evidence: "made the order which ran the Inquisition — the Dominicans — his arch enemy"
+
+[ Carlstadt ] --(Mentor Of)--> [ Luther ]
+    Evidence: "combat his mentor"
+
+[ John Eck ] --(Friend Of)--> [ Martin Luther ]
+    Evidence: "Eck’s attack was galling to Luther because he was an old 
+friend"
+
+[ John Eck ] --(Employee Of)--> [ University of Ingolstadt ]
+    Evidence: "a professor from the University of Ingolstadtxlvii, John Eck 
+by name."
+
+[ Melanchthon ] --(Colleague Of)--> [ Luther ]
+    Evidence: "Prominent among the faculty were Carlstadt... and Melanchthon"
+
+[ Carlstadt ] --(Colleague Of)--> [ Luther ]
+    Evidence: "Prominent among the faculty were Carlstadt... and Melanchthon... The former was 
+Luther’s senior and had conferred on him the doctor’s hood."
+
+[ David ] --(Friend Of)--> [ Jonathan ]
+    Evidence: "compared his love for Luther to the love David had for Jonathan"
+
+[ Staupitz ] --(Member Of)--> [ Reformed Congregation ]
+    Evidence: "seventeen years as vicar-general of the Reformed Congregation, Staupitz resigned"
+
+[ Staupitz ] --(Employee Of)--> [ Cardinal Lang ]
+    Evidence: "Staupitz accepted the invitation of Cardinal Lang to become a preacher and adviser at his court"
+
+[ Staupitz ] --(Member Of)--> [ St. Peter’s Benedictine monastery ]
+    Evidence: "leave the Augustinian order and to join St. Peter’s Benedictine monastery in Salzburg"
+
+[ Johann von Staupitz ] --(Mentor Of)--> [ Martin Luther ]
+    Evidence: "von Staupitz released him from his Augustinian vows"
+
+[ Desiderius Erasmus ] --(Friend Of)--> [ Martin Luther ]
+    Evidence: "the falling out of another friend; Desiderius Erasmus"
+
+[ von Staupitz ] --(Superior Of)--> [ Luther ]
+    Evidence: "Staupitz answered, “I have often tried, but I am not equal to him in ability and command of Scripture.”"
+
+[ Cajetan ] --(Interacted With)--> [ Luther ]
+    Evidence: "As the two met, Luther did as he was expected and prostrated himself on the floor before the Dominican Cardinal"
+
+[ Johann von Staupitz ] --(Mentor Of)--> [ Luther ]
+    Evidence: "Staupitz thought well of Luther and, in some respects, was a mentor to the upstart monk."
+
+[ Thomas de Vio ] --(Member Of)--> [ Dominican order ]
+    Evidence: "He belonged to the Dominican order"
+
+[ Thomas de Vio ] --(Lives In)--> [ Gaeta ]
+    Evidence: "Cardinal Cajetan, cited the doctor of Wittenberg to appear before him at Augsburg. The man before whom Luther was now about to appear was born (1469) at Gaeta"
+
+[ Gaeta ] --(Subordinate Of)--> [ Neapolitan kingdom ]
+    Evidence: "Gaeta, a frontier town of the Neapolitan kingdom"
+
+[ Thomas de Vio ] --(Member Of)--> [ Sacred College ]
+    Evidence: "made him one of the most distinguished members of the Sacred College."
+
+[ George Spalatin ] --(Employee Of)--> [ Frederick ]
+    Evidence: "role as the intermediary between the professor and the prince. Frederick was eager... in response to the plea transmitted by Spalatin"
+
+[ Johann von Laasphe ] --(Teacher Of)--> [ Luther ]
+    Evidence: "Lassphe was the clergyman who ordained Martin Luther just one year prior."
+
+[ Johann von Laasphe ] --(Teacher Of)--> [ George Spalatin ]
+    Evidence: "In 1508, he was ordained into the priesthood by Bishop Johann von Laasphe."
+
+[ Duke John ] --(Sibling Of)--> [ Frederick of Saxony ]
+    Evidence: "his brother Duke John"
+
+[ Luther ] --(Employer Of)--> [ University ]
+    Evidence: "his beloved university"
+
+[ Dr. Luther ] --(Interacted With)--> [ Albrecht von Brandenburg ]
+    Evidence: "the Theses were sent in a Latin letter to the new Archbishop of Mainz, himself, Albrecht von Brandenburg"
+
+[ Douglas Linder ] --(Employee Of)--> [ University of Missouri-Kansas City ]
+    Evidence: "University of Missouri-Kansas City Professor Douglas Linder"
+
+[ Konrad Koch ] --(Employee Of)--> [ University of Leipzig ]
+    Evidence: "the Rector at the University of Leipzig, Konrad Koch"
+
+[ Albert ] --(Employer Of)--> [ the Fuggers ]
+    Evidence: "Indulgences were issued in order to repay the debts, and the Fuggers supervised the collection. Knowing the role they would ultimately play, Albert turned to them for the initial negotiations."
+
+[ Albert of Brandenburg ] --(Member Of)--> [ Hohenzollern ]
+    Evidence: "Albert of Brandenburg, of the house of Hohenzollern"
+
+[ Luther ] --(Employee Of)--> [ Frederick the Wise ]
+    Evidence: "Luther had attacked the use of indulgences by his own benefactor, Frederick the Wise"
+
+[ Frederick the Wise ] --(Leader Of)--> [ Wittenberg ]
+    Evidence: "prohibition of Frederick the Wise, but Tetzel was just over the border"
+
+[ Sixtus IV ] --(Employer Of)--> [ church of Saintes ]
+    Evidence: "church of Saintes, having procured a bull of indulgence from 
+Sixtus IV"
+
+[ Johannes Tetzel ] --(Lives In)--> [ Poland ]
+    Evidence: "Grand Inquisitor of Heresy to Poland"
+
+[ Pope Leo X ] --(Employer Of)--> [ Johannes Tetzel ]
+    Evidence: "Pope Leo X needed 
+capable, aggressive salesmen... men like Dominican friar 
+Johannes Tetzel."
+
+[ Dominicans ] --(Employer Of)--> [ Inquisition ]
+    Evidence: "The Dominicans had been running the Inquisition for over 400 
+years."
+
+[ Thomas E. Watson ] --(Lives In)--> [ Georgia ]
+    Evidence: "Hon. Thomas E. Watson, U.S. Senator from Georgia"
+
+[ Claude Wespence ] --(Leader Of)--> [ University of Paris ]
+    Evidence: "Claude Wespence was Rector of the University of Paris in the sixteenth century."
+
+[ Pope Boniface VIII ] --(Leader Of)--> [ Holy See ]
+    Evidence: "Another means of enormous income to the Holy See was 
+started by Pope Boniface VIII"
+
+[ Maximilian ] --(Leader Of)--> [ Germany ]
+    Evidence: "Germany, under the weak rule of Maximilian"
+
+[ Michelangelo ] --(Associate Of)--> [ de Medici ]
+    Evidence: "Michelangelo (who actually lived with the Medicis for several years)"
+
+[ Pope Leo ] --(Sibling Of)--> [ Guiliano ]
+    Evidence: "He is often quoted for saying to his brother Guiliano"
+
+[ Julius's brother ] --(Parent Of)--> [ Fabian ]
+    Evidence: "Julius’s brother legally adopted the 17-year old boy"
+
+[ Alfons de Borja ] --(Superior Of)--> [ Rodrigo ]
+    Evidence: "His nephew, Rodrigo (1431-1503) – who he himself elevated to the cardinalate"
+
+[ Cesare ] --(Sibling Of)--> [ Juan ]
+    Evidence: "Cesare (1475/6-1507)... killed his elder brother Juan"
+
+[ Rodrigo ] --(Parent Of)--> [ Lucrezia ]
+    Evidence: "Alexander’s children... Lucrezia (1480-1519)"
+
+[ Rodrigo ] --(Parent Of)--> [ Cesare ]
+    Evidence: "Alexander’s children... Cesare (1475/6-1507)"
+
+[ Pope John XI ] --(Child Of)--> [ Marozia ]
+    Evidence: "their son who became Pope John XI"
+
+[ Tony Bushby ] --(Collaborator Of)--> [ Voltaire ]
+    Evidence: "Bushby carries on in the footsteps of his forebearer “Voltaire”"
+
+[ Octavianus ] --(Child Of)--> [ Alberic II ]
+    Evidence: "Octavianus, the son of Alberic II"
+
+[ Sergius III ] --(Enemy Of)--> [ Pope Leo V ]
+    Evidence: "Sergius III (? – 911) was accused of ordering the murders of his predecessor Pope Leo V"
+
+[ Sergius III ] --(Enemy Of)--> [ Antipope Christopher ]
+    Evidence: "Sergius III (? – 911) was accused of ordering the murders of ... Antipope Christopher"
+
+[ King of Portugal ] --(Owner Of)--> [ Hanno ]
+    Evidence: "a white elephant called Hanno a gift from the King of Portugal."
+
+[ Niall Ferguson ] --(Works For)--> [ Harvard ]
+    Evidence: "~ Niall Ferguson, Harvard112"
+
+[ Lorenzo il Magnifico ] --(Leader Of)--> [ Province of Florentine ]
+    Evidence: "Lorenzo il Magnifico 
+(“Lorenzo the Magnificent”), ruler of the Province of Florentine"
+
+[ Lorenzo il Magnifico ] --(Parent Of)--> [ Giovanni de Medici ]
+    Evidence: "In 1488, Giovanni de Medici’s father, Lorenzo il Magnifico"
+
+[ Cosimo de' Medici ] --(Child Of)--> [ Giovanni di Bicci ]
+    Evidence: "Giovanni’s son Cosimo de´Medici"
+
+[ Lorenzo the Magnificent ] --(Grandchild Of)--> [ Cosimo de' Medici ]
+    Evidence: "Lorenzo the Magnificent, Cosimo’s"
+
+[ Giovanni di Lorenzo de’Medici ] --(Leader Of)--> [ Papal Seat ]
+    Evidence: "In Rome, a de Medici was sitting in the Papal Seat; Giovanni 
+di Lorenzo de´Medici (“Pope Leo X”)"
+
+[ Luther ] --(Lives In)--> [ Wittenberg ]
+    Evidence: "As an accredited Catholic Professor at University in Wittenberg, Luther had unprecedented access"
+
+[ Luther ] --(Lives In)--> [ Rome ]
+    Evidence: "Luther’s time in Rome was devastating"
+
+[ Luther ] --(Lives In)--> [ Rome ]
+    Evidence: "During his stay in Rome, Luther learned a little Hebrew"
+
+=========================================================
+

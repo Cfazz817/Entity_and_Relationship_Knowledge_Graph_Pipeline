@@ -1,0 +1,418 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 13232
+Total Entity Mentions: 28915
+Total Relationship Assertions: 4938
+
+--- Top 100 Most Mentioned Entities ---
+- Vatican (Institution): 358 mentions
+- Rome (Location): 277 mentions
+- CIA (Institution): 234 mentions
+- Italy (Location): 168 mentions
+- Catholic Church (Institution): 165 mentions
+- Hitler (Person): 131 mentions
+- Jesuits (Institution): 117 mentions
+- United States (Location): 113 mentions
+- France (Location): 113 mentions
+- Germany (Location): 111 mentions
+- Croatia (Location): 95 mentions
+- Ustashi (Institution): 93 mentions
+- Pius XII (Person): 91 mentions
+- Roman Catholic Church (Institution): 84 mentions
+- New York (Location): 82 mentions
+- London (Location): 72 mentions
+- Mussolini (Person): 69 mentions
+- Holy See (Institution): 68 mentions
+- England (Location): 66 mentions
+- Society of Jesus (Institution): 65 mentions
+- Lorenzo Ricci (Person): 64 mentions
+- Spain (Location): 62 mentions
+- John Paul II (Person): 60 mentions
+- America (Location): 57 mentions
+- Zagreb (Location): 55 mentions
+- P2 (Institution): 55 mentions
+- Europe (Location): 53 mentions
+- Sindona (Person): 51 mentions
+- Pavelic (Person): 51 mentions
+- Yugoslavia (Location): 51 mentions
+- Pope Pius XII (Person): 50 mentions
+- Washington (Location): 49 mentions
+- IOR (Institution): 48 mentions
+- FBI (Institution): 45 mentions
+- Russia (Location): 45 mentions
+- USA (Location): 45 mentions
+- Paris (Location): 44 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Kinsey (Person): 43 mentions
+- Austria (Location): 43 mentions
+- New York Times (Institution): 43 mentions
+- Barack Obama (Person): 43 mentions
+- Opus Dei (Institution): 42 mentions
+- Michele Sindona (Person): 42 mentions
+- Gelli (Person): 41 mentions
+- pope (Person): 40 mentions
+- Milan (Location): 40 mentions
+- Turkey (Location): 40 mentions
+- Gladio (Institution): 40 mentions
+- The Vatican (Institution): 40 mentions
+- Argentina (Location): 39 mentions
+- Pius XI (Person): 39 mentions
+- Congress (Institution): 39 mentions
+- Central Intelligence Agency (Institution): 38 mentions
+- The Guardian (Institution): 38 mentions
+- Sicily (Location): 37 mentions
+- Vatican Bank (Institution): 36 mentions
+- NATO (Institution): 36 mentions
+- Church (Institution): 36 mentions
+- Calvi (Person): 36 mentions
+- Jesus Christ (Person): 34 mentions
+- Licio Gelli (Person): 34 mentions
+- Wikipedia (Institution): 33 mentions
+- Ante Pavelic (Person): 33 mentions
+- Stepinac (Person): 33 mentions
+- Poland (Location): 33 mentions
+- Adolf Hitler (Person): 33 mentions
+- White House (Institution): 32 mentions
+- Belgium (Location): 31 mentions
+- Franz von Papen (Person): 31 mentions
+- Papacy (Institution): 31 mentions
+- BBC (Institution): 31 mentions
+- Australia (Location): 30 mentions
+- Johnny Cirucci (Person): 30 mentions
+- South America (Location): 29 mentions
+- Daily Mail (Institution): 29 mentions
+- Afghanistan (Location): 29 mentions
+- Washington, DC (Location): 28 mentions
+- Archbishop Stepinac (Person): 28 mentions
+- Munich (Location): 28 mentions
+- John Carroll (Person): 28 mentions
+- Chicago (Location): 28 mentions
+- Pope John Paul II (Person): 27 mentions
+- Portugal (Location): 27 mentions
+- Roberto Calvi (Person): 27 mentions
+- Associated Press (Institution): 27 mentions
+- Mafia (Institution): 27 mentions
+- Alfred Kinsey (Person): 27 mentions
+- Great Britain (Institution): 26 mentions
+- World War II (Event): 25 mentions
+- Boston (Location): 24 mentions
+- Bill Clinton (Person): 24 mentions
+- Mgr. Stepinac (Person): 24 mentions
+- Maryland (Location): 24 mentions
+- Jesus (Person): 24 mentions
+- Soviet Union (Institution): 23 mentions
+- OSS (Institution): 23 mentions
+- Libya (Location): 22 mentions
+- State Department (Institution): 22 mentions
+- Philadelphia (Location): 22 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Lindsey ] --(Parent Of)--> [ Robin ]
+    Evidence: "Lindsey’s two daughters, Robin and Jenny"
+
+[ Lindsey ] --(Parent Of)--> [ Jenny ]
+    Evidence: "Lindsey’s two daughters, Robin and Jenny"
+
+[ Jenny ] --(Attended)--> [ Gonzaga University ]
+    Evidence: "having attended Gonzaga from 1982 to 1985"
+
+[ Ernest Sandeen ] --(Employer Of)--> [ The Roots of Fundamentalism ]
+    Evidence: "The Roots of Fundamentalism, Ernest Sandeen"
+
+[ Carol C. Carlson ] --(Collaborator Of)--> [ Hal Lindsey ]
+    Evidence: "Carol C. Carlson, a woman who ghost-wrote books for both of them including Lindsey’s watershed work"
+
+[ Carol C. Carlson ] --(Collaborator Of)--> [ David Jeremiah ]
+    Evidence: "Carol C. Carlson, a woman who ghost-wrote books for both of them"
+
+[ Cyrus I. Scofield ] --(Spouse Of)--> [ Leontine Cerre ]
+    Evidence: "In 1866 he married a Roman Catholic girl named Leontine Cerre."
+
+[ James H. Brookes ] --(Mentor Of)--> [ Cyrus I. Scofield ]
+    Evidence: "James H. Brookes (1830-1897), Scofield’s mentor"
+
+[ Leontine Cerre ] --(Parent Of)--> [ Helene ]
+    Evidence: "They had two girls, Abigail and Helene."
+
+[ Cyrus I. Scofield ] --(Member Of)--> [ 7th Tennessee infantry ]
+    Evidence: "where he served in the 7th Tennessee infantry for a year."
+
+[ Niagara-on-the-Lake ] --(Subordinate Of)--> [ Ontario ]
+    Evidence: "Niagara-on-the-Lake, Ontario"
+
+[ Edward Irving ] --(Collaborator Of)--> [ Lacunza ]
+    Evidence: "In 1828, “Glory and Majesty” was translated into English by a radical cultist London preacher named Edward Irving. Lacunza’s views"
+
+[ Cyrus I. Scofield ] --(Parent Of)--> [ Abigail ]
+    Evidence: "They had two girls, Abigail and Helene."
+
+[ Port Glasgow ] --(Subordinate Of)--> [ Scotland ]
+    Evidence: "Port Glasgow, Scotland"
+
+[ Irving's church ] --(Employer Of)--> [ The Morning Watch ]
+    Evidence: "The Morning Watch, a periodical put out by Irving’s church"
+
+[ Edward Irving ] --(Leader Of)--> [ Irving's church ]
+    Evidence: "Irving’s church"
+
+[ James H. Brookes ] --(Leader Of)--> [ Niagara Bible Conferences ]
+    Evidence: "James H. Brookes (1830-1897), Scofield’s mentor and a key leader in the Niagara Bible Conferences."
+
+[ Cyrus I. Scofield ] --(Member Of)--> [ Confederate Army ]
+    Evidence: "enlist in the Confederate Army in 1861"
+
+[ Cyrus I. Scofield ] --(Parent Of)--> [ Helene ]
+    Evidence: "They had two girls, Abigail and Helene."
+
+[ Margaret MacDonald ] --(Lives In)--> [ Port Glasgow ]
+    Evidence: "Margaret MacDonald from Port Glasgow, Scotland"
+
+[ Leontine Cerre ] --(Parent Of)--> [ Abigail ]
+    Evidence: "They had two girls, Abigail and Helene."
+
+[ Anne Chamberlain ] --(Works For)--> [ Idaho Observer ]
+    Evidence: "Anne Chamberlain of the Idaho Observer wrote a phenomenal column"
+
+[ Tammuz ] --(Child Of)--> [ Semiramis ]
+    Evidence: "Her son Tammuz"
+
+[ Pope Gregory XIII ] --(Leader Of)--> [ Company ]
+    Evidence: "Pope Gregory XIII then called on his own church version of the “Gestapo”, the Jesuits for a fix."
+
+[ Christopher Clavius ] --(Member Of)--> [ Company ]
+    Evidence: "Pope Gregory XIII then called on his own church version of the “Gestapo”, the Jesuits for a fix.  They then provided a Jesuit, Christopher Clavius, S.J546"
+
+[ Karl Rahner ] --(Mentor Of)--> [ Joseph Cardinal Ratzinger ]
+    Evidence: "Joseph Cardinal Ratzinger and his mentor, “Progressive” Jesuit (read: 
+“Communist”) theologian Karl Rahner"
+
+[ Georges Lemaître ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Lemaître was educated by Jesuits then trained to be a Jesuit priest"
+
+[ Paul Steidl ] --(Critic Of)--> [ Big Bang theory ]
+    Evidence: "Paul Steidl, an astronomer, has noted: [N]o astronomers would ever think of the big bang as the creation event of Genesis."
+
+[ Teilhard ] --(Member Of)--> [ French army ]
+    Evidence: "Teilhard was mustered into the French army in December 1914"
+
+[ Arthur Smith Woodward ] --(Employee Of)--> [ British Museum ]
+    Evidence: "keeper of paleontology at the British Museum Arthur Smith Woodward"
+
+[ Pierre Teilhard de Chardin ] --(Collaborator Of)--> [ Charles Dawson ]
+    Evidence: "Charles Dawson had someone standing behind him, orchestrating the hoax: Pierre Teilhard de Chardin."
+
+[ Pierre Teilhard de Chardin ] --(Member Of)--> [ Jesuits ]
+    Evidence: "PIERRE TEILHARD DE CHARDIN was a Jesuit priest"
+
+[ Paul Crowley ] --(Works For)--> [ Santa Clara University ]
+    Evidence: "Rev. Paul Crowley, a Jesuit at Santa Clara University"
+
+[ David Gibson ] --(Works For)--> [ Religion News Service ]
+    Evidence: "David Gibson, Religion News Service"
+
+[ Tadeusz Brosossoski ] --(Leader Of)--> [ Jesuits ]
+    Evidence: "Polish Superior General Tadeusz Brosossoski"
+
+[ Adam Weishaupt ] --(Founder Of)--> [ Illuminati ]
+    Evidence: "Jesuit Adam Weishaupt’s Illuminati"
+
+[ Napoleon ] --(Interacted With)--> [ Clemens von Metternich ]
+    Evidence: "Napoleon met with Austria’s foreign minister, Count Clemens von Metternich"
+
+[ Clemens von Metternich ] --(Works For)--> [ Austria ]
+    Evidence: "Austria’s foreign minister, Count Clemens von Metternich"
+
+[ Gaspard de Coligny ] --(Leader Of)--> [ Huguenots ]
+    Evidence: "Admiral Gaspard de Coligny, the military and political leader of the Huguenots."
+
+[ Catherine de Medici ] --(Parent Of)--> [ Charles IX ]
+    Evidence: "Catherine de’ Medici, the mother of King Charles IX"
+
+[ Margaret ] --(Spouse Of)--> [ Henry III of Navarre ]
+    Evidence: "the wedding of the king’s sister Margaret to the Protestant Henry III of Navarre"
+
+[ Barnaba Niccolò Maria Luigi Chiaramonti ] --(Adversary Of)--> [ Bonaparte ]
+    Evidence: "He took the name Pius VII and was imprisoned by Bonaparte"
+
+[ Antoine de Bourbon ] --(Parent Of)--> [ Charles IX ]
+    Evidence: "the mother of the boy kings [Francis II, Charles IX and Henry III], Catherine de Medici"
+
+[ Antoine de Bourbon ] --(Parent Of)--> [ Henry III ]
+    Evidence: "the mother of the boy kings [Francis II, Charles IX and Henry III], Catherine de Medici"
+
+[ Pius VI ] --(Interacted With)--> [ Bonaparte ]
+    Evidence: "In 1804, Pius VI was “invited” by Bonaparte to crown him emperor which the Pope did on November 2nd of that same year."
+
+[ Emmanuel Joseph Sieyès ] --(Student Of)--> [ Jesuits ]
+    Evidence: "Emmanuel Joseph Sieyès got his primary education from the Jesuits"
+
+[ Antoine de Bourbon ] --(Parent Of)--> [ Francis II ]
+    Evidence: "the mother of the boy kings [Francis II, Charles IX and Henry III], Catherine de Medici"
+
+[ Francis de Sale ] --(Employee Of)--> [ Catholic Church ]
+    Evidence: "Francis de Sale was the 16th century Bishop of Geneva for the Catholic Church"
+
+[ Lycée Louis-le-Grand ] --(Subordinate Of)--> [ Jesuit order ]
+    Evidence: "Lycée Louis-le-Grand, then known as the Collège de Clermont; a Jesuit institution."
+
+[ Francis de Sale ] --(Attended)--> [ Lycée Louis-le-Grand ]
+    Evidence: "De Sale was educated at the prestigious Lycée Louis-le-Grand, then known as the Collège de Clermont; a Jesuit institution."
+
+[ Jacques Lusseyran ] --(Founder Of)--> [ Volontaires de la Liberté ]
+    Evidence: "student Jacques Lusseyran founded the resistance group Volontaires de la Liberté"
+
+[ Giovanni Vincenzo Antonio Ganganelli ] --(Superior Of)--> [ Pope Clement XIII ]
+    Evidence: "After Carlo della Torre di Rezzonico (Clement XIII) died, his successor, Giovanni Vincenzo Antonio Ganganelli"
+
+[ Gianluca Mezzofiore ] --(Works For)--> [ International Business Times ]
+    Evidence: "Gianluca Mezzofiore, International Business Times"
+
+[ Pope Clement XIV ] --(Leader Of)--> [ Society of Jesus ]
+    Evidence: "Pope Clement XIV signed an act ordering the Suppression of the Society of Jesus"
+
+[ Society of Jesus ] --(Subordinate Of)--> [ France ]
+    Evidence: "France was a key battleground for the Company"
+
+[ General of the Jesuits ] --(Leader Of)--> [ Society of Jesus ]
+    Evidence: "The General of the Jesuits"
+
+[ General Charles Tristan ] --(Associate Of)--> [ Napoleon Bonaparte ]
+    Evidence: "Napoleon Bonaparte’s companion in exile and executor of his papers, General Charles Tristan, the Comte de Montholon"
+
+[ Robert Breckinridge ] --(Employee Of)--> [ Secreta Monita ]
+    Evidence: "Secreta Monita’s editor, Robert Breckinridge"
+
+[ Bill Clinton ] --(Supporter Of)--> [ Blair's foundation ]
+    Evidence: "Clinton was on-hand to help launch Blair’s foundation."
+
+[ Eileen ] --(Spouse Of)--> [ Ian Paisley ]
+    Evidence: "His death was announced by his wife, Eileen"
+
+[ Victor Pinchuk ] --(Supporter Of)--> [ Blair's foundation ]
+    Evidence: "Blair’s foundation was partially bankrolled by Jewish Ukrainian steel magnate Victor Pinchuk"
+
+[ Victor Pinchuk ] --(Friend Of)--> [ Bill Clinton ]
+    Evidence: "Victor Pinchuk, a good friend of Jesuit-educated Bill Clinton"
+
+[ Hugh Shelton ] --(Member Of)--> [ Joint Chiefs of Staff ]
+    Evidence: "General Hugh Shelton, chairman of the Joint Chiefs of Staff"
+
+[ Robert Breckinridge ] --(Colleague Of)--> [ Secreta Monita ]
+    Evidence: "Secreta Monita and its English 
+translator Robert Breckinridge"
+
+[ Charles Didier ] --(Collaborator Of)--> [ Rome Souterraine ]
+    Evidence: "Rome Souterraine (“Subterranean Rome”) by 
+Charles Didier"
+
+[ Pope Paul III ] --(Founder Of)--> [ Society of Jesus ]
+    Evidence: "He was given an audience with Pope Paul III who made it 
+official."
+
+[ Loyola ] --(Interacted With)--> [ Benedictine Monks at Montserrat ]
+    Evidence: "Loyola set off to visit the Benedictine Monks at
+Montserrat"
+
+[ Loyola ] --(Founder Of)--> [ Society of Jesus ]
+    Evidence: "Loyola named his community “the Society of Jesus”"
+
+[ Horace White ] --(Works For)--> [ Perseus Digital Library ]
+    Evidence: "edited by Horace White, Perseus Digital Library"
+
+[ Andrew Tremlett ] --(Works For)--> [ Westminster Abbey ]
+    Evidence: "The Reverend Andrew 
+Tremlett, Canon in Residence, Westminster Abbey"
+
+[ Father Columbière ] --(Subordinate Of)--> [ James II ]
+    Evidence: "During the reign of James II, it schemed and intrigued incessantly through its representatives Father St. Germain2 and his successor Father Columbière.3"
+
+[ George Bate ] --(Employer Of)--> [ Charles I ]
+    Evidence: "George Bate, physician to secret Catholic Charles I"
+
+[ Father St. Germain ] --(Subordinate Of)--> [ James II ]
+    Evidence: "During the reign of James II, it schemed and intrigued incessantly through its representatives Father St. Germain2 and his successor Father Columbière.3"
+
+[ Cromwell ] --(Parent Of)--> [ Elizabeth ]
+    Evidence: "Oliver Cromwell’s daughter, Elizabeth"
+
+[ George Bate ] --(Employee Of)--> [ Cromwell ]
+    Evidence: "uncovered Cromwell’s healer as his killer—George Bate"
+
+[ Thomas Fairfax ] --(Leader Of)--> [ Parliamentarian New Model Army ]
+    Evidence: "the Parliamentarian New Model Army under Thomas Fairfax and Oliver Cromwell"
+
+[ Oliver Cromwell ] --(Leader Of)--> [ Parliamentarian New Model Army ]
+    Evidence: "the Parliamentarian New Model Army under Thomas Fairfax and Oliver Cromwell"
+
+[ John Pym ] --(Founder Of)--> [ Grand Remonstrance ]
+    Evidence: "drafted by John Pym and his circle"
+
+[ Marie de' Medici ] --(Parent Of)--> [ Henrietta Maria of France ]
+    Evidence: "Henrietta Maria of France, daughter of Marie de’ Medici"
+
+[ Charles I ] --(Spouse Of)--> [ Henrietta Maria of France ]
+    Evidence: "James and Charles arranged to marry a different Catholic royal, Henrietta Maria of France"
+
+[ John Pym ] --(Opponent Of)--> [ Charles I ]
+    Evidence: "the Grand Remonstrance to the King, drafted by John Pym and his circle, which detailed Charles I’s abuses"
+
+[ James I ] --(Associate Of)--> [ Maria Anna ]
+    Evidence: "James and Charles arranged to marry a different Catholic royal"
+
+[ Pilgrims ] --(Interacted With)--> [ Mayflower ]
+    Evidence: "the Pilgrims probably brought the Geneva Bible with them on the Mayflower."
+
+[ Pilgrims ] --(Supporter Of)--> [ Geneva Bible ]
+    Evidence: "the Pilgrims probably brought the Geneva Bible with them on the Mayflower."
+
+[ James I ] --(Parent Of)--> [ Charles I ]
+    Evidence: "He and his father James I arranged for him to marry Catholic “Infanta”"
+
+[ Puritans ] --(Lives In)--> [ New England ]
+    Evidence: "Puritans who colonized New England"
+
+[ William Laud ] --(Opponent Of)--> [ Geneva Bible ]
+    Evidence: "King Charles I and Archbishop William Laud forbade its printing in England."
+
+[ Puritans ] --(Supporter Of)--> [ Geneva Bible ]
+    Evidence: "It was the Geneva Bible (rather than the King James Bible) that was preferred by the Puritans"
+
+[ Charles I ] --(Spouse Of)--> [ Maria Anna ]
+    Evidence: "He and his father James I arranged for him to marry Catholic “Infanta” (heiress to a Spanish or Portugese throne) Maria Anna."
+
+[ Charles I ] --(Opponent Of)--> [ Geneva Bible ]
+    Evidence: "King Charles I and Archbishop William Laud forbade its printing in England."
+
+[ Anne of Bohemia ] --(Child Of)--> [ Charles IV ]
+    Evidence: "Anne of Bohemia, was daughter of the Holy Roman Empower, Charles IV."
+
+[ Anne of Bohemia ] --(Spouse Of)--> [ Richard II ]
+    Evidence: "King Richard II’s first wife, Anne of Bohemia"
+
+[ William Tyndale ] --(Friend Of)--> [ Henry Phillips ]
+    Evidence: "betrayed by his friend Henry Phillips"
+
+[ Crixus ] --(Member Of)--> [ Third Servile War ]
+    Evidence: "pitted Crixus, Oenomaus and Spartacus against the finest army in the world... Third Servile War"
+
+[ King John ] --(Leader Of)--> [ England ]
+    Evidence: "the lords of England attempted an unheard-of thing in 1215; they forced the monarch of their time—King John—to limit his power"
+
+[ Oenomaus ] --(Member Of)--> [ Third Servile War ]
+    Evidence: "pitted Crixus, Oenomaus and Spartacus against the finest army in the world... Third Servile War"
+
+[ Pope Innocent III ] --(Supporter Of)--> [ King John ]
+    Evidence: "Encouraged by the pope, King John brought in foreign mercenaries to fight the barons"
+
+[ Pope Innocent III ] --(Critic Of)--> [ Magna Carta ]
+    Evidence: "That vital document was denounced immediately by Pope Innocent III (1198-1216), who “pronounced it null and void"
+
+[ Spartacus ] --(Member Of)--> [ Third Servile War ]
+    Evidence: "pitted Crixus, Oenomaus and Spartacus against the finest army in the world... Third Servile War"
+
+[ Martin Luther ] --(Employee Of)--> [ All Saints Cathedral ]
+    Evidence: "renegade priest named Martin Luther nailed 95 theses to All Saints Cathedral"
+
+=========================================================
+

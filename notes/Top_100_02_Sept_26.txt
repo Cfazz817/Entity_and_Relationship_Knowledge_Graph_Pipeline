@@ -1,0 +1,421 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 22340
+Total Entity Mentions: 50919
+Total Relationship Assertions: 8789
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 545 mentions
+- Vatican (Institution): 475 mentions
+- CIA (Institution): 336 mentions
+- Jesuits (Institution): 255 mentions
+- Catholic Church (Institution): 235 mentions
+- United States (Location): 224 mentions
+- Italy (Location): 213 mentions
+- France (Location): 210 mentions
+- Germany (Location): 181 mentions
+- England (Location): 175 mentions
+- Hitler (Person): 140 mentions
+- America (Location): 133 mentions
+- New York (Location): 132 mentions
+- Roman Catholic Church (Institution): 129 mentions
+- Barack Obama (Person): 125 mentions
+- London (Location): 124 mentions
+- Russia (Location): 112 mentions
+- Luther (Person): 107 mentions
+- FBI (Institution): 107 mentions
+- Croatia (Location): 102 mentions
+- Pius XII (Person): 96 mentions
+- Ustashi (Institution): 93 mentions
+- Society of Jesus (Institution): 92 mentions
+- Paris (Location): 89 mentions
+- Spain (Location): 87 mentions
+- Europe (Location): 85 mentions
+- Martin Luther (Person): 80 mentions
+- pope (Person): 80 mentions
+- Wikipedia (Institution): 79 mentions
+- Congress (Institution): 76 mentions
+- Holy See (Institution): 76 mentions
+- Church (Institution): 75 mentions
+- New York Times (Institution): 74 mentions
+- Mussolini (Person): 71 mentions
+- Washington (Location): 71 mentions
+- Jesus Christ (Person): 70 mentions
+- Papacy (Institution): 68 mentions
+- John Paul II (Person): 66 mentions
+- Johnny Cirucci (Person): 65 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 64 mentions
+- Jesus (Person): 60 mentions
+- White House (Institution): 60 mentions
+- Bill Clinton (Person): 59 mentions
+- World War II (Event): 56 mentions
+- California (Location): 56 mentions
+- Zagreb (Location): 55 mentions
+- P2 (Institution): 55 mentions
+- Pope Pius XII (Person): 55 mentions
+- United States government (Institution): 53 mentions
+- Austria (Location): 53 mentions
+- Yugoslavia (Location): 53 mentions
+- Washington, DC (Location): 52 mentions
+- The Guardian (Institution): 52 mentions
+- Adolf Hitler (Person): 52 mentions
+- Georgetown (Institution): 51 mentions
+- Pavelic (Person): 51 mentions
+- Sindona (Person): 51 mentions
+- Ireland (Location): 49 mentions
+- USA (Location): 49 mentions
+- Obama (Person): 48 mentions
+- IOR (Institution): 48 mentions
+- The Vatican (Institution): 48 mentions
+- Poland (Location): 47 mentions
+- Australia (Location): 47 mentions
+- Chicago (Location): 47 mentions
+- CNN (Institution): 46 mentions
+- Israel (Location): 46 mentions
+- Anthony Fauci (Person): 46 mentions
+- NATO (Institution): 46 mentions
+- Opus Dei (Institution): 46 mentions
+- Soviet Union (Institution): 45 mentions
+- Pope Francis (Person): 45 mentions
+- Maryland (Location): 45 mentions
+- US (Location): 44 mentions
+- Milan (Location): 44 mentions
+- Turkey (Location): 44 mentions
+- George Washington (Person): 44 mentions
+- Donald Trump (Person): 43 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Kinsey (Person): 43 mentions
+- Argentina (Location): 43 mentions
+- Michele Sindona (Person): 42 mentions
+- Pentagon (Institution): 42 mentions
+- Pius XI (Person): 42 mentions
+- YouTube (Institution): 42 mentions
+- John F. Kennedy (Person): 41 mentions
+- Daily Mail (Institution): 41 mentions
+- Gelli (Person): 41 mentions
+- China (Location): 40 mentions
+- BBC (Institution): 40 mentions
+- Gladio (Institution): 40 mentions
+- Philadelphia (Location): 39 mentions
+- Washington Post (Institution): 39 mentions
+- South America (Location): 39 mentions
+- Louis Pasteur (Person): 38 mentions
+- John Carroll (Person): 38 mentions
+- Christ (Person): 38 mentions
+- Franklin Roosevelt (Person): 38 mentions
+- Afghanistan (Location): 37 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Cicero ] --(Interacted With)--> [ Senate ]
+    Evidence: "Once again he appeared before the Senate, but this time to plead his own cause."
+
+[ Cicero ] --(Member Of)--> [ Senate ]
+    Evidence: "Cicero, in his Second Oration before the Senate, had this to say"
+
+[ Cicero ] --(Interacted With)--> [ Sulla ]
+    Evidence: "Cicero did not save his client. But he did live to argue the cause of honest government and to talk with Sulla, the Dictator"
+
+[ Scaevola ] --(Mentor Of)--> [ Marcus Tullius Cicero ]
+    Evidence: "He consulted with his great friend and mentor, Scaevola"
+
+[ Marcus Tullius Cicero ] --(Student Of)--> [ Scaevola ]
+    Evidence: "Young Marcus Tullius Cicero, then a student of law under old Scaevola"
+
+[ Millard Fillmore Caldwell ] --(Attended)--> [ 22nd Annual Meeting of the Association of American Physicians and Surgeons ]
+    Evidence: "In 1964... Millard Fillmore Caldwell (1897-1984) addressed the 22nd Annual Meeting of the Association of American Physicians and Surgeons."
+
+[ Jesuit White Pope ] --(Leader Of)--> [ Roman Senate ]
+    Evidence: "Jesuit White Pope addressed his Roman Senate"
+
+[ John Bauman ] --(Founder Of)--> [ Pacific Institute for Community Organization ]
+    Evidence: "Bauman founded PICO (Pacific Institute for Community 
+Organization), in 1971/72"
+
+[ John Aeschbury ] --(Member Of)--> [ United Church of Christ ]
+    Evidence: "Reverend” John Aeschbury of the United 
+Church of Christ"
+
+[ Glenn Beck ] --(Employer Of)--> [ the Blaze ]
+    Evidence: "Glenn Beck/The Blaze"
+
+[ Carney ] --(Member Of)--> [ Company ]
+    Evidence: "James Francis Carney was the ultimate Jesuit"
+
+[ Carney ] --(Enemy Of)--> [ Gustavo Alvarez Martinez ]
+    Evidence: "General Gustavo Alvarez Martinez, whom he had often denounced in public."
+
+[ the Sacred Congregation for the Propagation of the Faith ] --(Opponent Of)--> [ Jesuits ]
+    Evidence: "In 1645, “the Sacred Congregation for the Propagation of the Faith” ruled against the Jesuits"
+
+[ Dominicans ] --(Interacted With)--> [ Clement XI ]
+    Evidence: "Dominicans who complained to Clement XI."
+
+[ Juan Luis Segundo ] --(Member Of)--> [ Jesuits ]
+    Evidence: "fellow Jesuit Juan Luis Segundo"
+
+[ Carney ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Carney was only one of several Jesuits"
+
+[ John MacCoon ] --(Member Of)--> [ Jesuits ]
+    Evidence: "tax evasion was a Jesuit from New Orleans named John MacCoon"
+
+[ James Francis Carney ] --(Member Of)--> [ Jesuits ]
+    Evidence: "James Francis Carney, S.J."
+
+[ James Francis Carney ] --(Lives In)--> [ Chicago ]
+    Evidence: "Carney was Chicago born and bred"
+
+[ Jon Sobrino ] --(Member Of)--> [ Society of Jesus ]
+    Evidence: "Latin American Jesuits such as Jon Sobrino"
+
+[ Gustavo Gutierrez ] --(Member Of)--> [ Society of Jesus ]
+    Evidence: "a Peruvian Jesuit, Father Gustavo Gutierrez"
+
+[ Fernando Cardenal ] --(Member Of)--> [ Society of Jesus ]
+    Evidence: "Latin American Jesuits such as [...] Fernando Cardenal"
+
+[ Juan Luis Segundo ] --(Member Of)--> [ Society of Jesus ]
+    Evidence: "Latin American Jesuits such as [...] Juan Luis Segundo"
+
+[ Arthur F. McGovern ] --(Employer Of)--> [ Marxism: An American Christian Perspective publication ]
+    Evidence: "In 1980, he published a book on the subject — Marxism: An American Christian Perspective"
+
+[ Karl Marx ] --(Student Of)--> [ Jesuits ]
+    Evidence: "Jesuit students like Karl Marx."
+
+[ Father Luigi Taparelli D’Azeglio ] --(Mentor Of)--> [ Pope Leo XIII ]
+    Evidence: "Jesuit theologian and mentor to Pope Leo XIII, Father Luigi Taparelli D’Azeglio."
+
+[ Galluzzo ] --(Founder Of)--> [ Gamaliel Foundation ]
+    Evidence: "Galluzzo ran the so-called “Gamaliel Foundation”"
+
+[ Wilton D. Gregory ] --(Leader Of)--> [ Archdiocese of Atlanta ]
+    Evidence: "Archbishop Gregory, who now leads the Archdiocese of Atlanta"
+
+[ Gamaliel the Elder ] --(Teacher Of)--> [ Apostle Paul ]
+    Evidence: "Gamaliel the Elder, the renown rabbinical scholar who taught the Apostle Paul"
+
+[ Barack Obama ] --(Attended)--> [ Holy Ghost Catholic Church ]
+    Evidence: "Mr. Obama went to Holy Ghost Catholic Church in South Holland, Ill."
+
+[ Gerald Kellman ] --(Employer Of)--> [ Barack Obama ]
+    Evidence: "the recent Catholic convert who had hired him, Gerald Kellman"
+
+[ Barack Obama ] --(Employee Of)--> [ Gerald Kellman ]
+    Evidence: "the recent Catholic convert who had hired him, Gerald Kellman"
+
+[ Barack Obama ] --(Lives In)--> [ Chicago ]
+    Evidence: "The future president arrived in Chicago"
+
+[ Gregory Galluzzo ] --(Mentor Of)--> [ Barack Obama ]
+    Evidence: "said one of his mentors at the time, Gregory Galluzzo"
+
+[ Joseph L. Bernardin ] --(Lives In)--> [ Chicago ]
+    Evidence: "Cardinal Joseph L. Bernardin, the archbishop of Chicago"
+
+[ Gregory Galluzzo ] --(Associate Of)--> [ Saul Alinsky ]
+    Evidence: "Gregory Galluzzo, a former Jesuit priest and disciple of the organizer Saul Alinsky."
+
+[ Phyllis Schlafly ] --(Founder Of)--> [ Eagle Forum ]
+    Evidence: "[Phyllis Schlafly’s] EAGLE FORUM"
+
+[ Steve Lefemine ] --(Leader Of)--> [ Christians for Life ]
+    Evidence: "Columbia, South Carolina Christians for Life Director Steve Lefemine"
+
+[ Barack Hussein Obama ] --(Employee Of)--> [ Developing Communities Project ]
+    Evidence: "In 1985, they found one in Mr. Obama, a fledgling community organizer in New York who answered a want ad for a job with the Developing Communities Project."
+
+[ Karl Heinrich Marx ] --(Child Of)--> [ Marx's father ]
+    Evidence: "Marx’s father"
+
+[ Karl Heinrich Marx ] --(Collaborator Of)--> [ Engels ]
+    Evidence: "Marx and Engels fleshed out their “science of socialism”"
+
+[ Karl Heinrich Marx ] --(Attended)--> [ Friedrich-Wilhelm Gymnasium ]
+    Evidence: "spent five years, from 1830 to 1835, at the Jesuit high school in Trier"
+
+[ Catholic Church ] --(Employer Of)--> [ Barack Obama ]
+    Evidence: "the Catholic Church was paying Barack Obama"
+
+[ Karl Heinrich Marx ] --(Attended)--> [ Jesuit high school in Trier ]
+    Evidence: "spent five years, from 1830 to 1835, at the Jesuit high school in Trier"
+
+[ Andrew Lyke ] --(Employee Of)--> [ Chicago Archdiocese’s Office for Black Catholics ]
+    Evidence: "Andrew Lyke, a participant in the meeting who is now the director of the Chicago Archdiocese’s Office for Black Catholics."
+
+[ Jesuits of Rome ] --(Mentor Of)--> [ Barack Obama ]
+    Evidence: "It was they who taught Barack Obama how to be a good “community organizer”."
+
+[ Ronnie Floyd ] --(Leader Of)--> [ Southern Baptist Convention ]
+    Evidence: "Southern Baptist 
+Convention President Ronnie Floyd"
+
+[ Nick ] --(Interacted With)--> [ Pope Francis ]
+    Evidence: "When Nick met with Pope Francis, he gave the Vicar of Christ a copy of his book, Reset."
+
+[ Ronnie Floyd ] --(Leader Of)--> [ Southern Baptist Convention ]
+    Evidence: "Southern Baptist Convention President Ronnie Floyd"
+
+[ Joel Houston ] --(Member Of)--> [ Hillsong United ]
+    Evidence: "Joel Houston of Hillsong United"
+
+[ Hall ] --(Colleague Of)--> [ Bergoglio ]
+    Evidence: "Hall also noted that he and Bergoglio would be praying together on Friday."
+
+[ Samuel Rodriquez ] --(Leader Of)--> [ National Hispanic Christian Leadership Conference ]
+    Evidence: "National Hispanic Christian Leadership Conference President Samuel Rodriquez"
+
+[ David ] --(Lives In)--> [ Jerusalem ]
+    Evidence: "King David ruled for thirtythree years in Jerusalem"
+
+[ Robert Macoy ] --(Employer Of)--> [ General History of Freemasonry ]
+    Evidence: "General History of Freemasonry, by Robert Macoy"
+
+[ Hall ] --(Interacted With)--> [ Pope Francis ]
+    Evidence: "Hall announced that Jorge Bergoglio, also known as Pope Francis, will be delivering a video message"
+
+[ Hall ] --(Lives In)--> [ Rome ]
+    Evidence: "Hall traveled to Rome on Thursday to meet with the Roman Catholic leader"
+
+[ Nick Hall ] --(Founder Of)--> [ PULSE Movement ]
+    Evidence: "Nick Hall, founder the PULSE Movement"
+
+[ Mike Coppola ] --(Member Of)--> [ St. Rose church ]
+    Evidence: "St. Rose parishioner Mike Coppola"
+
+[ Medjugorje ] --(Lives In)--> [ Croatia ]
+    Evidence: "Medjugorje (a reported Marian apparition in Croatia)"
+
+[ Robert Weiss ] --(Member Of)--> [ St. Rose of Lima parochial school ]
+    Evidence: "Parish Monsignor Robert Weiss at St. Rose."
+
+[ Adam Lanza ] --(Associate Of)--> [ Sandy Hook Elementary School Shooting ]
+    Evidence: "Adam Lanza burst into Sandy Hook Elementary and killed 20 children and 6 adults"
+
+[ Imran Yousuf ] --(Employee Of)--> [ Pulse nightclub ]
+    Evidence: "Imran Yousuf, a bouncer at the Pulse nightclub"
+
+[ Omar Mateen ] --(Member Of)--> [ ISIL ]
+    Evidence: "Mateen was a supposed member of “ISIL” (Islamic State of Iraq and the Levant)."
+
+[ Hank Hughes ] --(Employee Of)--> [ National Transportation Safety Board ]
+    Evidence: "National Transportation Safety Board senior investigator Hank Hughes"
+
+[ Hosty ] --(Employee Of)--> [ FBI ]
+    Evidence: "It was not unusual for agents to leave their name... for persons they were attempting to contact"
+
+[ Marina ] --(Spouse Of)--> [ Oswald ]
+    Evidence: "Oswald’s wife, Marina"
+
+[ Henry Wade ] --(Employee Of)--> [ FBI ]
+    Evidence: "Henry Wade, a former FBI man"
+
+[ Hosty ] --(Employee Of)--> [ FBI ]
+    Evidence: "FBI Agent Hosty"
+
+[ Michael Schroeder ] --(Member Of)--> [ Branch Davidians ]
+    Evidence: "Michael SCHROEDER, a 
+Branch Davidian"
+
+[ James Brien Comey, Jr. ] --(Employee Of)--> [ Lockheed Martin ]
+    Evidence: "serving as counsel for Lockheed Martin"
+
+[ James Brien Comey, Jr. ] --(Employee Of)--> [ Bridgewater Associates ]
+    Evidence: "working hedge funds for Bridgewater Associates"
+
+[ Bill Clinton ] --(Attended)--> [ Georgetown SFS ]
+    Evidence: "Bill Clinton (Georgetown SFS ’68)"
+
+[ James Brien Comey, Jr. ] --(Leader Of)--> [ FBI ]
+    Evidence: "The current director of the FBI, James Brien Comey, Jr."
+
+[ Syzperski ] --(Employee Of)--> [ NSA ]
+    Evidence: "The reason we picked him was because he was chief of finance at NSA"
+
+[ Charles Joseph Bonaparte ] --(Founder Of)--> [ Federal Bureau of Investigation ]
+    Evidence: "The United States Federal Bureau of Investigation was founded by... Charles Joseph Bonaparte"
+
+[ Charles Joseph Bonaparte ] --(Leader Of)--> [ Enoch Pratt Library ]
+    Evidence: "[Bonaparte] was the president of the famous Enoch Pratt Library"
+
+[ Charles Joseph Bonaparte ] --(Friend Of)--> [ Cardinal Gibbons ]
+    Evidence: "[Bonaparte] was... a great friend of Cardinal Gibbons"
+
+[ Ann-Margret ] --(Graduate Of)--> [ New Trier High School ]
+    Evidence: "alumni also include ... actress Ann-Margret"
+
+[ Charlton Heston ] --(Graduate Of)--> [ New Trier High School ]
+    Evidence: "alumni also include ... actors Charlton Heston"
+
+[ Robertazzi ] --(Employee Of)--> [ NSA ]
+    Evidence: "like Robertazzi, retired from NSA"
+
+[ Rock Hudson ] --(Graduate Of)--> [ New Trier High School ]
+    Evidence: "alumni also include ... Rock Hudson"
+
+[ Ray Syzperski ] --(Employee Of)--> [ NSA ]
+    Evidence: "Ray Syzperski — another founding member who, like Robertazzi, retired from NSA"
+
+[ Donald Rumsfeld ] --(Graduate Of)--> [ New Trier High School ]
+    Evidence: "He’s not that school’s most illustrious graduate; alumni also include former Defense Secretary Donald Rumsfeld"
+
+[ Bruce Dern ] --(Graduate Of)--> [ New Trier High School ]
+    Evidence: "alumni also include ... Bruce Dern"
+
+[ James Comey ] --(Leader Of)--> [ FBI ]
+    Evidence: "today’s FBI Director James Comey"
+
+[ Richard "Dickie" George ] --(Employee Of)--> [ NSA ]
+    Evidence: "former technical director of the NSA’s information assurance directorate, Richard “Dickie” George"
+
+[ Joint Staff ] --(Subordinate Of)--> [ Joint Chiefs of Staff ]
+    Evidence: "Joint Staff, which works for the Joint Chiefs of Staff"
+
+[ Michael S. Rogers ] --(Employee Of)--> [ Joint Staff ]
+    Evidence: "Rogers joined the military’s Joint Staff"
+
+[ Michael S. Rogers ] --(Leader Of)--> [ NSA ]
+    Evidence: "military man heading the NSA; Admiral Michael S. Rogers"
+
+[ David Howell Petraeus ] --(Leader Of)--> [ United States Central Command ]
+    Evidence: "former Commander of United States Central
+Command (“CentCom”)"
+
+[ David Howell Petraeus ] --(Leader Of)--> [ International Security Assistance Force, Afghanistan ]
+    Evidence: "former Commander of the International
+Security Assistance Force, Afghanistan"
+
+[ David Howell Petraeus ] --(Leader Of)--> [ Central Intelligence Agency ]
+    Evidence: "former Director of the
+Central Intelligence Agency"
+
+[ David Howell Petraeus ] --(Attended)--> [ Edmund Walsh School of Foreign Service ]
+    Evidence: "he went through the Edmund Walsh School of
+Foreign Service at Georgetown in 1994-95"
+
+[ Edmund Walsh ] --(Collaborator Of)--> [ Wlodimir Led3chowski ]
+    Evidence: "He was in the Soviet Union in 1922, working hand-in-iron-
+glove with Jesuit Superior General Wlodimir Ledóchowski"
+
+[ Keith Alexander ] --(Employee Of)--> [ National Security Agency ]
+    Evidence: "Catholics to head the NSA like Air Force General Michael Hayden and Army General Keith Alexander"
+
+[ Keith Alexander ] --(Graduate Of)--> [ Jesuit Boston College ]
+    Evidence: "Keith Alexander’s MS from Jesuit Boston College."
+
+[ Keith Alexander ] --(Attended)--> [ West Point ]
+    Evidence: "In Keith Alexander’s class at West Point"
+
+[ Ralph Julian Canine ] --(Employee Of)--> [ National Security Agency ]
+    Evidence: "The first director was Army General Ralph Julian Canine."
+
+[ Martin Dempsey ] --(Attended)--> [ West Point ]
+    Evidence: "In Keith Alexander’s class at West Point were two other Machine notables — former Chairman of the Joint Chiefs of Staff Martin Dempsey"
+
+[ Michael Hayden ] --(Employee Of)--> [ National Security Agency ]
+    Evidence: "Catholics to head the NSA like Air Force General Michael Hayden"
+
+=========================================================
+

@@ -1,0 +1,462 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 25336
+Total Entity Mentions: 60844
+Total Relationship Assertions: 10538
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 788 mentions
+- Vatican (Institution): 595 mentions
+- CIA (Institution): 353 mentions
+- France (Location): 335 mentions
+- Catholic Church (Institution): 327 mentions
+- Jesuits (Institution): 315 mentions
+- Italy (Location): 270 mentions
+- England (Location): 245 mentions
+- United States (Location): 236 mentions
+- Germany (Location): 209 mentions
+- Paris (Location): 150 mentions
+- Hitler (Person): 145 mentions
+- America (Location): 143 mentions
+- Luther (Person): 143 mentions
+- Roman Catholic Church (Institution): 143 mentions
+- London (Location): 140 mentions
+- New York (Location): 137 mentions
+- Spain (Location): 130 mentions
+- Barack Obama (Person): 128 mentions
+- Europe (Location): 126 mentions
+- Papacy (Institution): 125 mentions
+- Church (Institution): 122 mentions
+- Russia (Location): 121 mentions
+- Pius XII (Person): 115 mentions
+- FBI (Institution): 112 mentions
+- Jesus Christ (Person): 107 mentions
+- pope (Person): 104 mentions
+- Croatia (Location): 104 mentions
+- Society of Jesus (Institution): 103 mentions
+- US (Location): 102 mentions
+- Martin Luther (Person): 96 mentions
+- Ustashi (Institution): 93 mentions
+- Paul (Person): 90 mentions
+- Washington (Location): 89 mentions
+- Wikipedia (Institution): 87 mentions
+- Christ (Person): 86 mentions
+- Pope Pius XII (Person): 83 mentions
+- Holy See (Institution): 79 mentions
+- Congress (Institution): 79 mentions
+- New York Times (Institution): 75 mentions
+- Diem (Person): 75 mentions
+- Mussolini (Person): 73 mentions
+- Jesus (Person): 73 mentions
+- Inquisition (Institution): 69 mentions
+- Henry (Person): 68 mentions
+- Ireland (Location): 67 mentions
+- Mary (Person): 67 mentions
+- John Paul II (Person): 67 mentions
+- Vietnam (Location): 67 mentions
+- Johnny Cirucci (Person): 66 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 65 mentions
+- Florence (Location): 64 mentions
+- White House (Institution): 64 mentions
+- John (Person): 63 mentions
+- World War II (Event): 63 mentions
+- Daniel (Person): 62 mentions
+- Bill Clinton (Person): 62 mentions
+- Washington, DC (Location): 59 mentions
+- Austria (Location): 59 mentions
+- Poland (Location): 58 mentions
+- California (Location): 57 mentions
+- Israel (Location): 56 mentions
+- Zagreb (Location): 55 mentions
+- P2 (Institution): 55 mentions
+- United States government (Institution): 54 mentions
+- The Guardian (Institution): 54 mentions
+- Adolf Hitler (Person): 54 mentions
+- Yugoslavia (Location): 54 mentions
+- Jerusalem (Location): 53 mentions
+- God (Person): 53 mentions
+- The Vatican (Institution): 52 mentions
+- Opus Dei (Institution): 52 mentions
+- Georgetown (Institution): 52 mentions
+- Pavelic (Person): 51 mentions
+- Roman Empire (Institution): 51 mentions
+- Milan (Location): 51 mentions
+- Sindona (Person): 51 mentions
+- Portugal (Location): 50 mentions
+- Donald Trump (Person): 50 mentions
+- USA (Location): 49 mentions
+- CNN (Institution): 49 mentions
+- Turkey (Location): 49 mentions
+- Babylon (Location): 48 mentions
+- China (Location): 48 mentions
+- IOR (Institution): 48 mentions
+- Obama (Person): 48 mentions
+- John F. Kennedy (Person): 47 mentions
+- Australia (Location): 47 mentions
+- Hungary (Location): 47 mentions
+- Soviet Union (Institution): 47 mentions
+- Chicago (Location): 47 mentions
+- South Vietnam (Location): 47 mentions
+- Pope Francis (Person): 47 mentions
+- Constantine (Person): 46 mentions
+- Henry VIII (Person): 46 mentions
+- NATO (Institution): 46 mentions
+- Anthony Fauci (Person): 46 mentions
+- Maryland (Location): 46 mentions
+- Pentagon (Institution): 45 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Ezra ] --(Associate Of)--> [ Nehemiah ]
+    Evidence: "before Ezra and Nehemiah passed to their rest"
+
+[ Manasseh ] --(Lives In)--> [ Jerusalem ]
+    Evidence: "Manasseh filled Jerusalem with the blood of the faithful"
+
+[ Henry VIII ] --(Lives In)--> [ England ]
+    Evidence: "England, where Henry VIII. made himself head of the Church in these lands."
+
+[ William of Orange ] --(Leader Of)--> [ England ]
+    Evidence: "placed William of Orange on the throne"
+
+[ Pentecost ] --(Founder Of)--> [ Christian Church ]
+    Evidence: "Pentecost formed the Church"
+
+[ Professor Birks ] --(Lives In)--> [ Cambridge ]
+    Evidence: "Professor Birks, of Cambridge"
+
+[ E. B. Elliott ] --(Member Of)--> [ Trinity College, Cambridge ]
+    Evidence: "Rev.
+E. B. Elliott and
+Professor
+Birks, both
+fellows of
+Trinity
+College,
+Cambridge"
+
+[ Birks ] --(Member Of)--> [ Trinity College, Cambridge ]
+    Evidence: "Rev.
+E. B. Elliott and
+Professor
+Birks, both
+fellows of
+Trinity
+College,
+Cambridge"
+
+[ Birks ] --(Lives In)--> [ Cambridge ]
+    Evidence: "Professor Birks, of Cambridge."
+
+[ Daniel ] --(Employer Of)--> [ book of Daniel ]
+    Evidence: "the author of the book of Daniel"
+
+[ Isaac Newton ] --(Colleague Of)--> [ Whiston ]
+    Evidence: "Whiston, his learned successor"
+
+[ Thomas Goodwin ] --(Lives In)--> [ London ]
+    Evidence: "Thomas Goodwin, of London"
+
+[ Dr. William Twisse ] --(Associate Of)--> [ Mede ]
+    Evidence: "Dr. William
+Twisse, the
+prolocutor, who wrote the preface to Mede's work"
+
+[ Westminster Assembly of Divines ] --(Associate Of)--> [ Presbyterian Church of Scotland ]
+    Evidence: "the Westminster Assembly of Divines drew up its most valuable Confession of
+FaitJi,
+a
+Confession
+subsequently
+accepted by
+the
+national Presbyterian Church of Scotland."
+
+[ John ] --(Associate Of)--> [ false prophet ]
+    Evidence: "John calls elsewhere " the false prophet," which acts for the revived head."
+
+[ Richard More ] --(Member Of)--> [ English Parliament ]
+    Evidence: "Richard More, one of the burgesses in the English Parliament"
+
+[ Joseph Mede ] --(Member Of)--> [ Christ's College ]
+    Evidence: "Joseph Mede was a fellow of Christ's College"
+
+[ Dr. Twisse ] --(Member Of)--> [ Westminster Assembly of Divines ]
+    Evidence: "Dr. Twisse, who was prolocutor in the Westminster Assembly of Divines"
+
+[ Pope Marcellus II. ] --(Lives In)--> [ Tuscany ]
+    Evidence: "Pope Marcellus II., who was born in Tuscany in 1542"
+
+[ Pope Marcellus II. ] --(Lives In)--> [ Rome ]
+    Evidence: "died in Rome in 1621"
+
+[ Bellarmine ] --(Member Of)--> [ Roman Church ]
+    Evidence: "Bellarmine was not only a man of great learning, but "the most powerful controversialist in defence of Popery that the Roman Church ever produced.""
+
+[ Ribera ] --(Lives In)--> [ Salamanca ]
+    Evidence: "Ribera was a Jesuit priest of Salamanca."
+
+[ Ribera ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Ribera was a Jesuit priest"
+
+[ Napoleon ] --(Interacted With)--> [ Papal States ]
+    Evidence: "Papal States were conquered by Napoleon"
+
+[ Zwingle ] --(Lives In)--> [ Zurich ]
+    Evidence: "Zwingle, thou lion of Zurich"
+
+[ Satan ] --(Employer Of)--> [ Loyola ]
+    Evidence: "Satan shall bring forth his Loyola"
+
+[ Rome ] --(Founder Of)--> [ Council of Trent ]
+    Evidence: "Rome shall erect her Council of Trent"
+
+[ Loyola ] --(Leader Of)--> [ Jesuits ]
+    Evidence: "Loyola his Jesuits"
+
+[ Mary ] --(Lives In)--> [ England ]
+    Evidence: "Mary of England"
+
+[ Philip ] --(Lives In)--> [ Spain ]
+    Evidence: "Philip of Spain"
+
+[ Ridley ] --(Colleague Of)--> [ John Bradford ]
+    Evidence: "" brother
+Bradford,"
+as
+Ridley called
+him."
+
+[ Cranmer ] --(Enemy Of)--> [ pope ]
+    Evidence: "as for the pope, I refuse him as
+Christ's enemy, and
+antichrist"
+
+[ Archbishop Cranmer ] --(Supporter Of)--> [ Christ ]
+    Evidence: "live with my master Christ for ever in joy"
+
+[ Gregory ] --(Critic Of)--> [ Antichrist ]
+    Evidence: "Gregory calls him the king of pride."
+
+[ Antichrist ] --(Opponent Of)--> [ Christ ]
+    Evidence: "he will do all things against Christ"
+
+[ Ridley ] --(Colleague Of)--> [ Latimer ]
+    Evidence: "In his second conference with Ridley he says"
+
+[ pope ] --(Leader Of)--> [ Roman Church ]
+    Evidence: "the head thereof, called the pope"
+
+[ Knox ] --(Lives In)--> [ Castle of St. Andrews ]
+    Evidence: "In the year 1547 Knox... came to the Castle of St. Andrews"
+
+[ Knox ] --(Colleague Of)--> [ John Rough ]
+    Evidence: "Here he took the part of a godly preacher named John Rough"
+
+[ John Knox ] --(Lives In)--> [ Scotland ]
+    Evidence: "So did John Knox in Scotland"
+
+[ John Knox ] --(Founder Of)--> [ History of the Reformation ]
+    Evidence: "Here is an old copy of Knox's " History of the Reformation.""
+
+[ John Calvin ] --(Interacted With)--> [ Charles V ]
+    Evidence: "Jo/in
+Calvin,
+that
+mighty
+theologian
+and
+reformer, ... letter
+to the emperor Charles V."
+
+[ Zwingle ] --(Lives In)--> [ Zurich ]
+    Evidence: "Zwingle, who was previously canon and priest of Zurich"
+
+[ Zwingle ] --(Founder Of)--> [ The Reformation ]
+    Evidence: "The Reformation begun in Switzerland by Zwingle"
+
+[ Melanchthon ] --(Colleague Of)--> [ Luther ]
+    Evidence: "Melanchthon lacked the bold spirit of Luther, but he shared most of his sentiments."
+
+[ Philip Melanchthon ] --(Works For)--> [ Wittemberg ]
+    Evidence: "professor of Greek at Wittemberg"
+
+[ Philip Melanchthon ] --(Founder Of)--> [ Confession of Augsburg ]
+    Evidence: "Melanchthon ... composed the celebrated Confession of Augsburg"
+
+[ Luther ] --(Associate Of)--> [ Spalatinus ]
+    Evidence: "Luther wrote to Spalatinus"
+
+[ Luther ] --(Interacted With)--> [ Spalatinus ]
+    Evidence: "Early in the year 1520, he wrote to Spalatinus thus"
+
+[ Bohemian Brethren ] --(Supporter Of)--> [ John Huss ]
+    Evidence: "The Bohemian brethren avowed the doctrines of John Huss"
+
+[ John Huss ] --(Colleague Of)--> [ Lord John de Clum ]
+    Evidence: "A letter of John Huss to the Lord John de Clum"
+
+[ Milton ] --(Supporter Of)--> [ Waldenses ]
+    Evidence: "Milton
+wrote
+of these
+Protestant
+sufferers
+his immortal
+sonnet"
+
+[ Leger ] --(Member Of)--> [ Waldensian valleys ]
+    Evidence: "the Waldensian pastor Leger"
+
+[ Vaudois ] --(Lives In)--> [ Alps ]
+    Evidence: "A remnant of the Vaudois escaping from the south of France took refuge in the Alps"
+
+[ Albigenses ] --(Lives In)--> [ France ]
+    Evidence: "In the sunny south of France, in Provence and Catalonia, lived the Albigenses."
+
+[ Church of Rome ] --(Enemy Of)--> [ Albigenses ]
+    Evidence: "Rome could not endure this testimony ; she drew her deadly sword and waged war against those who bore it."
+
+[ Albigenses ] --(Lives In)--> [ Provence ]
+    Evidence: "In the sunny south of France, in Provence and Catalonia, lived the Albigenses."
+
+[ Albigenses ] --(Lives In)--> [ Catalonia ]
+    Evidence: "In the sunny south of France, in Provence and Catalonia, lived the Albigenses."
+
+[ Innocent III ] --(Enemy Of)--> [ Albigenses ]
+    Evidence: "In the year 1208 the Albigenses were murderously persecuted. Innocent III. [...] employed the crusaders in this dreadful work."
+
+[ Andreas ] --(Lives In)--> [ Caesarea ]
+    Evidence: "Andreas, who was Bishop of Caesarea"
+
+[ Berengaud ] --(Member Of)--> [ Benedictines ]
+    Evidence: "He was a Benedictine monk"
+
+[ Venerable Bede ] --(Lives In)--> [ North of England ]
+    Evidence: "The Venerable Bede, who lived in the north of England at the close of the seventh century"
+
+[ Hippolytus ] --(Employer Of)--> [ Christ and Antichrist ]
+    Evidence: "Hippolytus gives the same solution in his treatise on " Christ and Antichrist.""
+
+[ Irenaeus ] --(Student Of)--> [ St. John ]
+    Evidence: "Irenaeus, the
+disciple of the disciple of St. John"
+
+[ Gregory VII ] --(Founder Of)--> [ Papacy ]
+    Evidence: "Gregory VII. (or Hildebrand), the founder of the Papal theocracy"
+
+[ Ribera ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Jesuit Ribera"
+
+[ Daniel ] --(Lives In)--> [ Babylon ]
+    Evidence: "Daniel dwelling in Babylon"
+
+[ Isaac Orobio ] --(Subordinate Of)--> [ Inquisition ]
+    Evidence: "account by Isaac Orobio of what he suffered when in their hands. It was towards evening, he says when he was brought to the place of torture in the Inquisition."
+
+[ earth-born beast ] --(Ally Of)--> [ ten-horned beast ]
+    Evidence: "The two beasts stand side by side ; they act together in everything."
+
+[ earth-born beast ] --(Ally Of)--> [ ten-horned beast ]
+    Evidence: "The earth-born beast is the " prophet " of the sea-born beast"
+
+[ Justinian ] --(Associate Of)--> [ Bishop of Rome ]
+    Evidence: "emperor Justinian, constituting the Bishop of Rome head of all the Churches in Christendom, A.D. 533"
+
+[ Goths ] --(Enemy Of)--> [ Roman Empire ]
+    Evidence: "The Goths overthrew the Roman empire in the fifth century"
+
+[ Caesars ] --(Leader Of)--> [ Rome ]
+    Evidence: "First the Caesars ruled in Rome"
+
+[ Adrian I ] --(Interacted With)--> [ Charlemagne ]
+    Evidence: "Pope Adrian I., who exhorts Charlemagne"
+
+[ Bishop John Jewell ] --(Lives In)--> [ Salisbury ]
+    Evidence: "Bishop John Jewell, of Salisbury"
+
+[ Marcellus ] --(Attended)--> [ Lateran Council ]
+    Evidence: "Marcellus, ad- dressing the pope at the Lateran Council"
+
+[ Bishop of Rome ] --(Leader Of)--> [ Church ]
+    Evidence: "Bishop of Rome attain supremacy in the Church"
+
+[ man of sin ] --(Enemy Of)--> [ Christ ]
+    Evidence: "the man of sin was to act and abide as the pretended vicar, but real antagonist, of Christ"
+
+[ Christ ] --(Subordinate Of)--> [ God ]
+    Evidence: "As Christ acts for God"
+
+[ man of sin ] --(Enemy Of)--> [ Satan ]
+    Evidence: "the man of sin acts for Satan"
+
+[ god of this world ] --(Superior Of)--> [ man of sin ]
+    Evidence: "He stands close to the " man of sin," too close to be seen by the worshipping multitude, directing and inspiring all his utterances and all his movements."
+
+[ Kaiser Wilhelm ] --(Lives In)--> [ Berlin ]
+    Evidence: "Kaiser Wilhelm, of Berlin"
+
+[ Gregory IX. ] --(Collaborator Of)--> [ Archbishop of Milan ]
+    Evidence: "Gregory IX., who writes to the Archbishop of Milan"
+
+[ Pope Damasus ] --(Leader Of)--> [ Roman Church ]
+    Evidence: "Pope Damasus... authorizes persecution of those who speak against any of the holy canons, and adds, " It is permitted neither to think nor to speak differently from the Roman Church.""
+
+[ Fox ] --(Employer Of)--> [ Acts and Monuments ]
+    Evidence: "Fox : "Acts and Monuments,""
+
+[ Boniface III ] --(Lives In)--> [ Rome ]
+    Evidence: "Bishop of Rome and the
+first pope was Boniface
+III.,
+A.D.
+607."
+
+[ Daniel ] --(Leader Of)--> [ Papacy ]
+    Evidence: "He told the whole story of the Papacy twenty-five centuries ago."
+
+[ Boniface VIII ] --(Leader Of)--> [ Papacy ]
+    Evidence: "What was the claim of Boniface VIII.? It was that THE POPE REPRESENTS GOD UPON EARTH."
+
+[ Romulus Augustulus ] --(Leader Of)--> [ Roman Empire ]
+    Evidence: "last emperor of Rome, Romulus Augustulus, A.D. 476"
+
+[ Daniel ] --(Lives In)--> [ Babylon ]
+    Evidence: "prophet, who was a statesman and a governor in Babylon"
+
+[ Dean Milman ] --(Associate Of)--> [ Church of Rome ]
+    Evidence: "Dean Milman's history of the Church of Rome"
+
+[ John ] --(Adversary Of)--> [ Domitian ]
+    Evidence: "John, the victim of [...] Domitian"
+
+[ John ] --(Adversary Of)--> [ Nero ]
+    Evidence: "John, the victim of Nero"
+
+[ Luther ] --(Leader Of)--> [ Luther's Protest ]
+    Evidence: "Luther’s Protest"
+
+[ Illuminati Unmasked ] --(Founder Of)--> [ Johnny ]
+    Evidence: "That was Illuminati Unmasked, published in 2015."
+
+[ Johnny's father ] --(Parent Of)--> [ Giovanni Augustino Cirucci ]
+    Evidence: "His abusive father left when he 
+was 20"
+
+[ Giovanni Augustino Cirucci ] --(Employee Of)--> [ Army ]
+    Evidence: "Giovanni Augustino “Johnny” Cirucci is a veteran of the Army and Marine Corps."
+
+[ Giovanni Augustino Cirucci ] --(Employee Of)--> [ Marine Corps ]
+    Evidence: "Giovanni Augustino “Johnny” Cirucci is a veteran of the Army and Marine Corps."
+
+[ Marie de Rabutin-Chantal ] --(Lives In)--> [ Rue Saint-Antoine ]
+    Evidence: "Mme de Sévigné 
+[Marie de Rabutin-Chantal] had stationed herself in the Rue Saint-
+Antoine."
+
+[ Le Roy ] --(Lives In)--> [ Saint-Denis ]
+    Evidence: "Le Roy, strange Governor of Pages ! was sent to Saint-Denis"
+
+=========================================================
+

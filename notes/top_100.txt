@@ -1,0 +1,425 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 11792
+Total Entity Mentions: 25778
+Total Relationship Assertions: 4358
+
+--- Top 100 Most Mentioned Entities ---
+- Vatican (Institution): 330 mentions
+- Rome (Location): 247 mentions
+- CIA (Institution): 204 mentions
+- Italy (Location): 162 mentions
+- Catholic Church (Institution): 149 mentions
+- Hitler (Person): 129 mentions
+- France (Location): 106 mentions
+- Germany (Location): 105 mentions
+- Jesuits (Institution): 96 mentions
+- United States (Location): 96 mentions
+- Croatia (Location): 94 mentions
+- Ustashi (Institution): 93 mentions
+- Pius XII (Person): 89 mentions
+- Roman Catholic Church (Institution): 79 mentions
+- New York (Location): 77 mentions
+- London (Location): 69 mentions
+- Mussolini (Person): 68 mentions
+- Holy See (Institution): 65 mentions
+- Lorenzo Ricci (Person): 64 mentions
+- John Paul II (Person): 60 mentions
+- England (Location): 59 mentions
+- Spain (Location): 58 mentions
+- P2 (Institution): 55 mentions
+- Zagreb (Location): 55 mentions
+- Society of Jesus (Institution): 53 mentions
+- Europe (Location): 52 mentions
+- Yugoslavia (Location): 51 mentions
+- Pavelic (Person): 51 mentions
+- Sindona (Person): 51 mentions
+- IOR (Institution): 48 mentions
+- Pope Pius XII (Person): 47 mentions
+- America (Location): 46 mentions
+- USA (Location): 44 mentions
+- Kinsey (Person): 43 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Michele Sindona (Person): 42 mentions
+- Gelli (Person): 41 mentions
+- Washington (Location): 41 mentions
+- Austria (Location): 41 mentions
+- Opus Dei (Institution): 40 mentions
+- Gladio (Institution): 40 mentions
+- Paris (Location): 40 mentions
+- Milan (Location): 40 mentions
+- Argentina (Location): 39 mentions
+- The Vatican (Institution): 39 mentions
+- Pius XI (Person): 38 mentions
+- Turkey (Location): 38 mentions
+- Giovanni Augustino “Johnny” Cirucci (Person): 37 mentions
+- Sicily (Location): 37 mentions
+- FBI (Institution): 36 mentions
+- Calvi (Person): 36 mentions
+- Russia (Location): 35 mentions
+- pope (Person): 35 mentions
+- New York Times (Institution): 35 mentions
+- Licio Gelli (Person): 34 mentions
+- Vatican Bank (Institution): 34 mentions
+- NATO (Institution): 34 mentions
+- Church (Institution): 34 mentions
+- Ante Pavelic (Person): 33 mentions
+- Stepinac (Person): 33 mentions
+- Poland (Location): 32 mentions
+- Belgium (Location): 31 mentions
+- Franz von Papen (Person): 31 mentions
+- Papacy (Institution): 31 mentions
+- The Guardian (Institution): 31 mentions
+- Jesus Christ (Person): 30 mentions
+- Australia (Location): 30 mentions
+- Wikipedia (Institution): 29 mentions
+- Adolf Hitler (Person): 29 mentions
+- Congress (Institution): 29 mentions
+- Archbishop Stepinac (Person): 28 mentions
+- Central Intelligence Agency (Institution): 28 mentions
+- BBC (Institution): 28 mentions
+- John Carroll (Person): 28 mentions
+- Munich (Location): 27 mentions
+- Roberto Calvi (Person): 27 mentions
+- Alfred Kinsey (Person): 27 mentions
+- Great Britain (Institution): 26 mentions
+- White House (Institution): 25 mentions
+- Mafia (Institution): 25 mentions
+- Portugal (Location): 25 mentions
+- Boston (Location): 24 mentions
+- Mgr. Stepinac (Person): 24 mentions
+- Afghanistan (Location): 24 mentions
+- South America (Location): 24 mentions
+- Daily Mail (Institution): 23 mentions
+- Maryland (Location): 23 mentions
+- Jesus (Person): 23 mentions
+- Washington, DC (Location): 22 mentions
+- Philadelphia (Location): 22 mentions
+- Sun-Tzu (Person): 21 mentions
+- The Church (Institution): 21 mentions
+- Palermo (Location): 21 mentions
+- Chicago (Location): 21 mentions
+- Soviet Union (Institution): 21 mentions
+- Paul VI (Institution): 21 mentions
+- Cain (Person): 21 mentions
+- Johnny Cirucci (Person): 20 mentions
+- Ante Pavelitch (Person): 20 mentions
+- George Pell (Person): 20 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Mgr. Dell'Acqua ] --(Subordinate Of)--> [ Mgr. Tardini ]
+    Evidence: "Mgr. Dell'Acqua, Mgr. Tardinfs deputy"
+
+[ Georges Oudard ] --(Member Of)--> [ Union Française ]
+    Evidence: "Georges Oudard, adviser to the Union Fran?aise"
+
+[ Geo London ] --(Collaborator Of)--> [ Ch. Pichon ]
+    Evidence: "Geo London and Ch. Pichon wrote in 1933"
+
+[ Bernardino Nogara ] --(Employee Of)--> [ Vatican ]
+    Evidence: "Signer Bernardino Nogara, the Vatican's financial administrator."
+
+[ Morgan's Bank ] --(Employer Of)--> [ Vatican ]
+    Evidence: "Morgan's Bank, the biggest bank in the world, which had become the Holy See's power of attorney in America"
+
+[ Prince Marc-Antonio Pacelli ] --(Niece/Nephew Of)--> [ Pope Pius XII ]
+    Evidence: "nephew of Pius XII, Prince Marc-Antonio Pacelli"
+
+[ Alberto Parini ] --(Member Of)--> [ Order of the Minorites of the Angelicum ]
+    Evidence: "Father of the Order of the Minorites of the Angelicum, named Alberto Parini"
+
+[ Alberto Parini ] --(Subordinate Of)--> [ Lamberto ]
+    Evidence: "macabre object had been entrusted to him that very day by Father Alberto"
+
+[ Lamberto ] --(Superior Of)--> [ Carthusian monastery of Pavia ]
+    Evidence: "Father Lamberto, Superior of the Carthusian"
+
+[ Franz von Papen ] --(Subordinate Of)--> [ John XXIII ]
+    Evidence: "Franz von Papen in his appointment as Privy Chamberlain to the Pope, clearly shows that His Holiness John XXIII"
+
+[ Pablo Aranjos ] --(Lives In)--> [ German Hospital ]
+    Evidence: "He died on 28 December 1959 in the German Hospital in Madrid."
+
+[ Pope Pius XII ] --(Interacted With)--> [ Government of Washington ]
+    Evidence: "Pope Pius XII had used his influence with the Government of Washington"
+
+[ Ante Pavelitch ] --(Lives In)--> [ Argentina ]
+    Evidence: "In 1957, a press item was indisputably to confinn the presence of the former crusader in Argentina"
+
+[ Deat ] --(Lives In)--> [ Rome ]
+    Evidence: "Deat was then at the 'Russicum' College... announced his presence in Rome"
+
+[ Darnand ] --(Associate Of)--> [ Father Bonfiglio ]
+    Evidence: "Darnand, Ex-chief of the Militia, had taken refuge at the home of Father Bonfiglio"
+
+[ Deat ] --(Lives In)--> [ Italy ]
+    Evidence: "Deat was in Italy"
+
+[ Helene ] --(Spouse Of)--> [ Marcel Deat ]
+    Evidence: "Helene, his wife"
+
+[ Madame Deat ] --(Spouse Of)--> [ Marcel Deat ]
+    Evidence: "explained Madame Deat"
+
+[ Briand ] --(Employee Of)--> [ Madame Deat ]
+    Evidence: "our chauffeur, Briand"
+
+[ Marcel Deat ] --(Lives In)--> [ Franciscan monastery ]
+    Evidence: "Deat found shelter in the Franciscan monastery."
+
+[ Helene ] --(Lives In)--> [ convent of the sisters of Divine Providence ]
+    Evidence: "Helene, his wife, was staying in the convent of the sisters of Divine Providence"
+
+[ Eberhard Stern ] --(Interacted With)--> [ Martin Bormann ]
+    Evidence: "'I met Bormann, on 16 January', asserts Stern"
+
+[ Darnand ] --(Subordinate Of)--> [ Pius XII ]
+    Evidence: "Darnand, protected by the Holy Father"
+
+[ Pius XII ] --(Employer Of)--> [ Marcel Deat ]
+    Evidence: "Pius XII, who hides him at Castel Gandolfo"
+
+[ Darnand ] --(Employee Of)--> [ Vatican ]
+    Evidence: "Darnand, protected by the Holy Father, avails himself of the Vatican's exchange services."
+
+[ Osservatore Romano ] --(Employer Of)--> [ Vatican ]
+    Evidence: "the Vatican's official newspaper"
+
+[ Winifred ] --(Child Of)--> [ von Neurath ]
+    Evidence: "his daughter Winifred"
+
+[ Winifred ] --(Spouse Of)--> [ von Mackensen ]
+    Evidence: "Winifred (widow of Baron von Mackensen"
+
+[ von Mackensen ] --(Lives In)--> [ Rome ]
+    Evidence: "Hitler's former Ambassador in Rome"
+
+[ Daab ] --(Member Of)--> [ Der Fiihrer regiment ]
+    Evidence: "the SS Daab, of the "Der Fiihrer" regiment"
+
+[ Ernst von Weiszaecker ] --(Member Of)--> [ SS ]
+    Evidence: "He was also a general of the SS"
+
+[ Ernst von Weiszaecker ] --(Employer Of)--> [ Vatican ]
+    Evidence: "Hitler's Ambassador to the Vatican"
+
+[ Ernst von Weiszaecker ] --(Employee Of)--> [ Ministry of Foreign Affairs ]
+    Evidence: "Former Nazi Secretary of State at the Ministry of Foreign Affairs"
+
+[ Pius XII ] --(Supporter Of)--> [ Oswald Pohl ]
+    Evidence: "The Holy Father, in his paternal love, sends to Oswald Pohl the apostolic blessing as a guarantee of the highest celestial consolation."
+
+[ Arthur Greiser ] --(Member Of)--> [ Nazi ]
+    Evidence: "Arthur Greiser, or any other of his emulators in extermination, was a member of the Nazi "community"."
+
+[ Church ] --(Supporter Of)--> [ Franz van Papen ]
+    Evidence: "the Church has weightily intervened in favour of Franz van Papen"
+
+[ Arthur Greiser ] --(Lives In)--> [ Poznan ]
+    Evidence: "Arthur Greiser, former Gauleiter and executioner of Poznan"
+
+[ Frank ] --(Lives In)--> [ Poland ]
+    Evidence: "Hans Frank, Governor of Poland"
+
+[ Doctor Alfred Seidl ] --(Employee Of)--> [ Frank ]
+    Evidence: "Doctor Alfred Seidl, Frank's lawyer"
+
+[ Father Lener ] --(Employee Of)--> [ Civilta Cattolica ]
+    Evidence: "Father Lener has concluded a series of articles in the Civilta Cattolica"
+
+[ Henri Danjou ] --(Employee Of)--> [ France-Soir ]
+    Evidence: "writes Henri Danjou in France-Soir"
+
+[ Cardinal Faulhaber ] --(Lives In)--> [ Munich ]
+    Evidence: "Cardinal Faulhaber, Archbishop of Munich"
+
+[ Mgr. Paulhaber ] --(Friend Of)--> [ Pius XII ]
+    Evidence: "as a personal friend of Pius XII"
+
+[ Father Pfanzelt ] --(Lives In)--> [ Dachau ]
+    Evidence: "Father Pfanzelt, parish priest of Dachau"
+
+[ Marie-Claude Vaillant-Couturier ] --(Member Of)--> [ Parliament ]
+    Evidence: "Marie-Claude Vaillant-Couturier, Member of ParUament for the Seine"
+
+[ Vohlman ] --(Employer Of)--> [ Health Institute ]
+    Evidence: "German chemists, directed by Professor Spanner and Dr. Vohlman"
+
+[ Spanner ] --(Employer Of)--> [ Health Institute ]
+    Evidence: "German chemists, directed by Professor Spanner and Dr. Vohlman"
+
+[ Red Army ] --(Interacted With)--> [ Dantzig ]
+    Evidence: "When the Red Army, by liberating Dantzig, put an end to these macabre experiments"
+
+[ Otto Ohlendorf ] --(Member Of)--> [ Einsatzgruppe ]
+    Evidence: "The Einsatzgruppe to which General Ohlendorf belonged"
+
+[ Otto Ohlendorf ] --(Member Of)--> [ Waffen SS ]
+    Evidence: "who had been serving in the WafFen SS since his adolescence"
+
+[ Hermann Rauschning ] --(Leader Of)--> [ Senate of Dantzig ]
+    Evidence: "Hermann Rauschning, President of the Senate of Dantzig"
+
+[ Halke von Ledochowski ] --(Leader Of)--> [ Jesuits ]
+    Evidence: "General of the Jesuits, the "Black Pope" Halke von Ledochowski"
+
+[ Franz von Papen ] --(Supporter Of)--> [ Adolf Hitler ]
+    Evidence: "Franz von Papea, that Privy Chamberlain to His HoUness, who raised Hitler to power"
+
+[ Mgr. Markoaski ] --(Member Of)--> [ Wehrmacht ]
+    Evidence: "MGR. MARKOASKI,
+Catholic Almoner General of the Wehrmacht"
+
+[ Pius XII ] --(Superior Of)--> [ Hans Frank ]
+    Evidence: "Two of the Holy Father's proteges: Hans Frank,"
+
+[ Ernst von Weiszaecker ] --(Lives In)--> [ Vatican ]
+    Evidence: "Ernst von Weiszaecker,
+an advocate of 'solving the Jewish problem' by deporta-
+tion and massacres, hidden at the Vatican."
+
+[ Faulhaber ] --(Lives In)--> [ Dachau ]
+    Evidence: "Mgr. Faulhaber, notorious ex-Nazi, blesses
+the church of the former SS at Dachau."
+
+[ Pius XII ] --(Superior Of)--> [ Arthur Greiser ]
+    Evidence: "Two of the Holy Father's proteges: Hans Frank,
+Arthur Greiser"
+
+[ Andrei Ouroussof ] --(Member Of)--> [ Jesuits ]
+    Evidence: "the Jesuit Andrei Ouroussof"
+
+[ Father Alighiero Tondi ] --(Employee Of)--> [ Gregorian Pontifical University ]
+    Evidence: "resigned his professorship at the Gregorian Pontifical University"
+
+[ Father Alighiero Tondi ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Father Alighiero Tondi,12 a deserter from the Company of Jesus"
+
+[ Hauff ] --(Employee Of)--> [ Russian Pontifical College ]
+    Evidence: "These
+officers keep at the 'Russicum' a card-index and records"
+
+[ Father Hermann ] --(Leader Of)--> [ Eastern Pontifical Institute ]
+    Evidence: "This institute... is run by a German Jesuit : Father Hermann."
+
+[ Father Preschern ] --(Associate Of)--> [ Ustashis ]
+    Evidence: "Father Preschern, who
+was very closely associated with the Fascist 'Ustashis'"
+
+[ Father Jansens ] --(Leader Of)--> [ Jesuits ]
+    Evidence: "Father Jansens, General of the Jesuits"
+
+[ Ustashis ] --(Enemy Of)--> [ Barthou ]
+    Evidence: "Fascist 'Ustashis' who assassinated
+Bar thou"
+
+[ Goebbels ] --(Attended)--> [ Jesuit College ]
+    Evidence: "It is known that the latter was brought up in a Jesuit College."
+
+[ Halke von Ledochowski ] --(Leader Of)--> [ Jesuits ]
+    Evidence: "Halke von Ledochowski, General of the Jesuits"
+
+[ Joseph Goebbels ] --(Student Of)--> [ Jesuits ]
+    Evidence: "Goebbels, pupil of the Jesuits"
+
+[ Mistiaen ] --(Works For)--> [ Radio Vatican ]
+    Evidence: "Radio Vatican's announcer. Father Mistiaen"
+
+[ Françoise Charles-Roux ] --(Works For)--> [ Vatican ]
+    Evidence: "Ambassador of
+France at the Vatican:"
+
+[ Camille Cianfarra ] --(Works For)--> [ New York Times ]
+    Evidence: "Camille Cianfarra,l9 the New York Times correspondent"
+
+[ Françoise Charles-Roux ] --(Works For)--> [ France ]
+    Evidence: "Fran?ois Charles-Roux,!8 Ambassador of
+France at the Vatican:"
+
+[ Nerin F. Gun ] --(Interacted With)--> [ Pius XII ]
+    Evidence: "Dr. Nerin F. Gun . . . was received by Pius XII"
+
+[ Cardinal Suhard ] --(Lives In)--> [ Paris ]
+    Evidence: "Cardinal Suhard, Archbishop of Paris"
+
+[ Leon Berard ] --(Employee Of)--> [ Vatican ]
+    Evidence: "L6on Bdrard, Ambassador to the Holy See"
+
+[ Hans Kerll ] --(Works For)--> [ Third Reich ]
+    Evidence: "Hans Kerll, the Third Reich's Minister of Ecclesiastical AfiFairs"
+
+[ Walter Hagen ] --(Member Of)--> [ German Secret Service ]
+    Evidence: "Walter Hagen,4 who belonged to the German Secret Service"
+
+[ Dr. Otto Dietrich ] --(Subordinate Of)--> [ Hitler ]
+    Evidence: "Dr. Otto Dietrich3 who lived very close to the Fuhrer."
+
+[ Fran'ois Mauriac ] --(Member Of)--> [ Academie fran'aise ]
+    Evidence: "FRAN?OIS MAURIAC
+of the Academie fran?aise"
+
+[ Father Dragun ] --(Leader Of)--> [ Croatian Mission in France ]
+    Evidence: "Father Dragun, National
+Rector of the Croatian Mission in France"
+
+[ Mgr. Rupp ] --(Subordinate Of)--> [ Cardinal Feltin ]
+    Evidence: "Mgr. Rupp, Cardinal Feltin's coadjutor"
+
+[ Cardinal Maglione ] --(Works For)--> [ Roman Catholic Church ]
+    Evidence: "Secretary of State
+of the Holy See, Cardinal MagUone"
+
+[ Union of Croatian Workers ] --(Member Of)--> [ Confederation Generale des Travailleurs Chretiens ]
+    Evidence: "In Paris, the Union of Croatian Workers is aifiliated to the "Confederation Generale des Travailleurs Chretiens"."
+
+[ Mgr. Alois Misitoh ] --(Colleague Of)--> [ Josip Loncar ]
+    Evidence: "There were two, and only two, men among the Croatian Catholic clergy who rose up against the horrors committed by these torturers: they were the Bishop of Mostar, Mgr. Alois Misitoh, and a priest from Zagreb, Josip Loncar."
+
+[ Mgr. Stepinac ] --(Lives In)--> [ Krasic ]
+    Evidence: "His Eminence Cardinal Stepinac, Archbishop of Zagreb, who, as we recalled yesterday, is still detained in enforced residence in his native village of Krasic"
+
+[ Edward Kardelj ] --(Member Of)--> [ Foreign Affairs Committee of the Yugoslav Federal Assembly ]
+    Evidence: "Mr. Edward Kardelj, Minister of Foreign Affairs, accused Stepinac"
+
+[ Mgr. Stepinac ] --(Leader Of)--> [ Croatian Episcopate ]
+    Evidence: "The Croatian Episcopate, Mgr. Stepinac in the lead"
+
+[ Father Marcone ] --(Works For)--> [ Vatican ]
+    Evidence: "Father Marcone, the Pope's Legate"
+
+[ Anton Aksamovitch ] --(Leader Of)--> [ Bishopric of Zagreb ]
+    Evidence: "Anton Aksamovitch, Bishop of Djakovo"
+
+[ Stepinac ] --(Leader Of)--> [ Bishopric of Zagreb ]
+    Evidence: "The Bishopric of Zagreb (that of Mgr. Stepinac)"
+
+[ Janko Simrak ] --(Colleague Of)--> [ Stepinac ]
+    Evidence: "Mgr. Janko Simrak, one of Mgr. Stepinac's coadjutors"
+
+[ Janko Simrak ] --(Member Of)--> [ Committee for the Conversion of Orthodox Christians ]
+    Evidence: "Mgr. Janko Simrak, one of Mgr. Stepinac's coadjutors in the Committee for the Conversion of Orthodox Christians"
+
+[ Eugenio Pacelli ] --(Employee Of)--> [ Vatican ]
+    Evidence: "Cardinal Eugenio Pacelli, Secretary of State of the Vatican"
+
+[ Mgr. Stepinac ] --(Lives In)--> [ Kamensko ]
+    Evidence: "at Kamensko, in the very diocese of Mgr. Stepinac"
+
+[ Mile Budak ] --(Member Of)--> [ Ustashi Government ]
+    Evidence: "it was the Minister of Religion himself. Mile Budak"
+
+[ Mgr. Stepinac ] --(Leader Of)--> [ Croatia ]
+    Evidence: "Mgr. Stepinac, Primate of Croatia"
+
+[ Father Marcone ] --(Lives In)--> [ Zagreb ]
+    Evidence: "Father Marcone, his legate and personal representative at Zagreb"
+
+[ Eugen Kvaternik-Dido ] --(Leader Of)--> [ Croatian State Police ]
+    Evidence: "Zagreb Chief of Police, Eugen Kvaternik-Dido. This group of Croatian SS constituted the cream of the hangmen... led by"
+
+[ Father Marcone ] --(Employee Of)--> [ Holy See ]
+    Evidence: "Father Marcone. Legate of the Holy See"
+
+=========================================================
+

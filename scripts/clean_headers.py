@@ -10,7 +10,8 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 
 def clean_database():
     with SessionLocal() as session:
-        targets = ["Giovanni Augustino Cirucci", "Eaters of Children"]
+        targets = ["Giovanni Augustino “Johnny” Cirucci",
+                   "THE VATICAN AGAINST EUROPE"]
 
         entities_to_delete = session.execute(
             select(Entity).where(Entity.primary_name.in_(targets))

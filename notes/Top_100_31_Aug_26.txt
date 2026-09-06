@@ -1,0 +1,435 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 19858
+Total Entity Mentions: 44179
+Total Relationship Assertions: 7622
+
+--- Top 100 Most Mentioned Entities ---
+- Vatican (Institution): 442 mentions
+- Rome (Location): 378 mentions
+- CIA (Institution): 325 mentions
+- Jesuits (Institution): 214 mentions
+- Catholic Church (Institution): 210 mentions
+- United States (Location): 199 mentions
+- Italy (Location): 190 mentions
+- France (Location): 156 mentions
+- Germany (Location): 149 mentions
+- Hitler (Person): 139 mentions
+- New York (Location): 125 mentions
+- America (Location): 114 mentions
+- Barack Obama (Person): 106 mentions
+- Russia (Location): 106 mentions
+- Roman Catholic Church (Institution): 103 mentions
+- England (Location): 101 mentions
+- Croatia (Location): 98 mentions
+- London (Location): 97 mentions
+- Pius XII (Person): 95 mentions
+- FBI (Institution): 94 mentions
+- Ustashi (Institution): 93 mentions
+- Society of Jesus (Institution): 82 mentions
+- Europe (Location): 75 mentions
+- Spain (Location): 73 mentions
+- Wikipedia (Institution): 72 mentions
+- Mussolini (Person): 71 mentions
+- Congress (Institution): 71 mentions
+- New York Times (Institution): 71 mentions
+- Holy See (Institution): 70 mentions
+- Johnny Cirucci (Person): 64 mentions
+- John Paul II (Person): 64 mentions
+- Paris (Location): 64 mentions
+- Lorenzo Ricci (Person): 64 mentions
+- Washington (Location): 64 mentions
+- White House (Institution): 57 mentions
+- pope (Person): 57 mentions
+- Zagreb (Location): 55 mentions
+- P2 (Institution): 55 mentions
+- Bill Clinton (Person): 55 mentions
+- Pope Pius XII (Person): 53 mentions
+- World War II (Event): 53 mentions
+- Yugoslavia (Location): 53 mentions
+- Sindona (Person): 51 mentions
+- Pavelic (Person): 51 mentions
+- United States government (Institution): 49 mentions
+- California (Location): 49 mentions
+- The Guardian (Institution): 49 mentions
+- USA (Location): 48 mentions
+- IOR (Institution): 48 mentions
+- Washington, DC (Location): 48 mentions
+- Jesus Christ (Person): 47 mentions
+- Austria (Location): 47 mentions
+- Obama (Person): 46 mentions
+- Church (Institution): 46 mentions
+- NATO (Institution): 46 mentions
+- Central Intelligence Agency (Institution): 46 mentions
+- Adolf Hitler (Person): 46 mentions
+- Poland (Location): 45 mentions
+- Jesus (Person): 44 mentions
+- Israel (Location): 44 mentions
+- Ireland (Location): 43 mentions
+- CNN (Institution): 43 mentions
+- Turkey (Location): 43 mentions
+- Opus Dei (Institution): 43 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Kinsey (Person): 43 mentions
+- Argentina (Location): 43 mentions
+- Anthony Fauci (Person): 43 mentions
+- Michele Sindona (Person): 42 mentions
+- YouTube (Institution): 41 mentions
+- Pius XI (Person): 41 mentions
+- Georgetown (Institution): 41 mentions
+- The Vatican (Institution): 41 mentions
+- Milan (Location): 41 mentions
+- Soviet Union (Institution): 41 mentions
+- Gelli (Person): 41 mentions
+- Gladio (Institution): 40 mentions
+- US (Location): 40 mentions
+- Daily Mail (Institution): 40 mentions
+- BBC (Institution): 40 mentions
+- Pope Francis (Person): 39 mentions
+- Australia (Location): 39 mentions
+- Pentagon (Institution): 39 mentions
+- John F. Kennedy (Person): 38 mentions
+- Chicago (Location): 38 mentions
+- Louis Pasteur (Person): 38 mentions
+- Washington Post (Institution): 38 mentions
+- Sicily (Location): 37 mentions
+- George Washington (Person): 36 mentions
+- South America (Location): 36 mentions
+- Philadelphia (Location): 36 mentions
+- Calvi (Person): 36 mentions
+- Vatican Bank (Institution): 36 mentions
+- Maryland (Location): 36 mentions
+- Belgium (Location): 35 mentions
+- Associated Press (Institution): 35 mentions
+- China (Location): 35 mentions
+- Papacy (Institution): 35 mentions
+- Licio Gelli (Person): 34 mentions
+- Boston (Location): 34 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Robert Francis Kennedy Junior ] --(Interacted With)--> [ James Corbett ]
+    Evidence: "In his interview with Germ Theorist James Corbett for his 2021 book, The REAL Anthony Fauci, Kennedy told Corbett"
+
+[ Robert Mugabe ] --(Leader Of)--> [ Zimbabwe ]
+    Evidence: "Robert Mugabe, the first Prime Minister and second President of Zimbabwe"
+
+[ Adhanom Ghebreyesus ] --(Leader Of)--> [ Ethiopia ]
+    Evidence: "as long as Adhanom Ghebreyesus was their “Minister of Health”"
+
+[ Tedros ] --(Lives In)--> [ Tigray region ]
+    Evidence: "Tedros himself hails from the Tigray region"
+
+[ Tedros ] --(Member Of)--> [ TPLF ]
+    Evidence: "was a senior member of the party and became involved with the TPLF"
+
+[ Tedros ] --(Leader Of)--> [ ministry of health ]
+    Evidence: "ministry of health... the same ministry which was at the time being led by one Tedros Adhanom."
+
+[ John Martin ] --(Employee Of)--> [ Rough Estimate.org ]
+    Evidence: "John Martin of Rough Estimate.org"
+
+[ Tedros Adhanom Ghebreyesus ] --(Leader Of)--> [ WHO ]
+    Evidence: "Tedros Adhanom Ghebreyesus, as well as being the first WHO director"
+
+[ Thomas Tom Frieden ] --(Leader Of)--> [ Center for Disease Control ]
+    Evidence: "Former head of the Center for Disease Control, Thomas “Tom” Friedan"
+
+[ Tedros Adhanom Ghebreyesus ] --(Member Of)--> [ Tigray People’s Liberation Front ]
+    Evidence: "Tedros happens to be a member of the Tigray People’s Liberation Front (TPLF)"
+
+[ Julian Frieden ] --(Employee Of)--> [ Montefiore Hospital ]
+    Evidence: "Julian, was chief of coronary care at New York’s 
+Montefiore Hospital"
+
+[ Julie Gerberding ] --(Employee Of)--> [ Centers for Disease Control and Prevention ]
+    Evidence: "taking 
+over for Julie Gerberding"
+
+[ Julie Gerberding ] --(Employee Of)--> [ Merck ]
+    Evidence: "She was excited 
+to take a job as President of Merck’s 
+Vaccine Division"
+
+[ Thomas R. “Tom” Frieden ] --(Employee Of)--> [ Michael Bloomberg ]
+    Evidence: "Michael Bloomberg, whilst Mayor of New York City, to be his “Health 
+Commissioner”"
+
+[ Kenneth Frieden ] --(Employee Of)--> [ Syracuse University ]
+    Evidence: "Kenneth (Ken) is Chair of Interdisciplinary Judaic 
+Studies at Syracuse University"
+
+[ Jeffry Frieden ] --(Employee Of)--> [ Harvard University ]
+    Evidence: "Jeffry (ok) Frieden is a renowned political economist 
+and Stanfield Professor of International Peace at Harvard 
+University."
+
+[ Kenneth Frieden ] --(Member Of)--> [ The Wandering Klezmorim ]
+    Evidence: "clarinetist in The 
+Wandering Klezmorim band"
+
+[ Thomas R. “Tom” Frieden ] --(Lives In)--> [ New York City ]
+    Evidence: "Michael Bloomberg, whilst Mayor of New York City, to be his “Health 
+Commissioner”.  While there, Frieden showed his metal by telling NYC"
+
+[ Thomas R. “Tom” Frieden ] --(Employee Of)--> [ Barack Hussein Obama ]
+    Evidence: "he was Barack Hussein 
+Obama’s “Director of the Centers for 
+Disease Control and Prevention”"
+
+[ Nancy Frieden ] --(Parent Of)--> [ Thomas R. “Tom” Frieden ]
+    Evidence: "his mother Nancy is a family and human 
+rights lawyer."
+
+[ Jeffry Frieden ] --(Sibling Of)--> [ Thomas R. “Tom” Frieden ]
+    Evidence: "Oldest brother Jeffry (ok) Frieden"
+
+[ Kenneth Frieden ] --(Sibling Of)--> [ Thomas R. “Tom” Frieden ]
+    Evidence: "Middle brother Kenneth (Ken)"
+
+[ Julian Frieden ] --(Parent Of)--> [ Thomas R. “Tom” Frieden ]
+    Evidence: "His late father, Julian... Frieden"
+
+[ Tedros Adhanom Ghebreyesus ] --(Leader Of)--> [ World Health Organization ]
+    Evidence: "Director General of the United Nations World Health Organization, Tedros Adhanom Ghebreyesus"
+
+[ Tedros Adhanom Ghebreyesus ] --(Student Of)--> [ University of Asmara ]
+    Evidence: "his primary education came from the University of Asmara"
+
+[ Tedros Adhanom Ghebreyesus ] --(Student Of)--> [ London School of Hygiene & Tropical Medicine ]
+    Evidence: "Tedros Adhanom, was trained in immunology at the London School of Hygiene & Tropical Medicine"
+
+[ Roman Catholic Comboni Missionary Sisters of the Heart of Jesus ] --(Founder Of)--> [ University of Asmara ]
+    Evidence: "University of Asmara, which was founded by the Roman Catholic Comboni Missionary Sisters of the Heart of Jesus"
+
+[ Andrew Cuomo ] --(Child Of)--> [ Mario Cuomo ]
+    Evidence: "Andrew Cuomo, son of far-Left Catholic Governor Mario Cuomo"
+
+[ Edmund Gerald “Moonbeam Jerry” Brown Jr. ] --(Child Of)--> [ Edmund Gerald “Pat” Brown Sr. ]
+    Evidence: "Edmund Gerald “Moonbeam Jerry” Brown Jr. (son of far-Left Catholic California Governor Edmund Gerald “Pat” Brown Sr.)"
+
+[ Center for Infectious Disease Research ] --(Associate Of)--> [ Bill Gates ]
+    Evidence: "“CIDR” and Bill Gates 
+are joined at the hip"
+
+[ Stefan Kappe ] --(Employee Of)--> [ Center for Infectious Disease Research ]
+    Evidence: "team leader Stefan Kappe, of the Center for Infectious Disease Research (CIDR)"
+
+[ Catholic clergy in Kenya ] --(Lives In)--> [ Kenya ]
+    Evidence: "Catholic clergy in Kenya"
+
+[ Curly Joe Besser ] --(Member Of)--> [ Abbott & Costello Show ]
+    Evidence: "Curly Joe Besser (1907 
+– 1988), a regular of both the Three Stooges and the Abbott & Costello 
+Show"
+
+[ Curly Joe Besser ] --(Member Of)--> [ Three Stooges ]
+    Evidence: "Curly Joe Besser (1907 
+– 1988), a regular of both the Three Stooges"
+
+[ Besser ] --(Graduate Of)--> [ University of Pennsylvania School of Medicine ]
+    Evidence: "Besser received his Bachelor of Arts degree in economics from Williams College and his medical degree from the University of Pennsylvania School of Medicine in 1986."
+
+[ Besser ] --(Employee Of)--> [ Epidemic Intelligence Service ]
+    Evidence: "In 1991, Besser joined the Epidemic Intelligence Service"
+
+[ Besser ] --(Graduate Of)--> [ Williams College ]
+    Evidence: "Besser received his Bachelor of Arts degree in economics from Williams College and his medical degree from the University of Pennsylvania School of Medicine in 1986."
+
+[ Monrovia ] --(Lives In)--> [ Liberia ]
+    Evidence: "Monrovia, the capital of Liberia."
+
+[ James Monroe ] --(Founder Of)--> [ Monrovia ]
+    Evidence: "Monrovia was founded in 
+1822 by Freemason1280 U.S. President James Monroe"
+
+[ Kimberly Quinlan Lindsey ] --(Employee Of)--> [ CDC’s Laboratory Science Policy and Practice Program Office ]
+    Evidence: "Kimberly Quinlan 
+Lindsey, the deputy director 
+for the CDC’s Laboratory 
+Science Policy and Practice 
+Program Office"
+
+[ Amber Vinson ] --(Associate Of)--> [ Thomas Eric Duncan ]
+    Evidence: "The second reported victim of Ebola was a nurse named Amber Vinson who looked after Eric Duncan."
+
+[ Texas Health Presbyterian Hospital ] --(Associate Of)--> [ Thomas Eric Duncan ]
+    Evidence: "Texas Health Presbyterian Hospital where America’s first Ebola patient — Thomas Eric Duncan was seen, treated, then released."
+
+[ Anthony Fauci ] --(Attended)--> [ Holy Cross college ]
+    Evidence: "Jesuit-run Holy Cross college"
+
+[ Ronald Klain ] --(Graduate Of)--> [ Georgetown ]
+    Evidence: "an alumnus of Georgetown."
+
+[ Ronald Klain ] --(Employee Of)--> [ Joe Biden ]
+    Evidence: "he was Joe Biden’s Chief of Staff"
+
+[ Anthony Fauci ] --(Graduate Of)--> [ Cornell ]
+    Evidence: "receiving his MD at Cornell."
+
+[ Anthony Fauci ] --(Attended)--> [ Regis High School ]
+    Evidence: "Fauci is an Italian Catholic who went to Jesuit-run Regis High School"
+
+[ Rupert Murdoch ] --(Owner Of)--> [ Sky News ]
+    Evidence: "Rupert Murdoch’s “Sky News”"
+
+[ Barack Obama ] --(Employer Of)--> [ Ronald Klain ]
+    Evidence: "Barack Obama appointed Ronald Klain as “Ebola Czar”."
+
+[ Anthony Fauci ] --(Leader Of)--> [ National Institute of Allergy and Infectious Diseases ]
+    Evidence: "As of 2014, the man running NIAID is Anthony Fauci."
+
+[ Ernest Koroma ] --(Leader Of)--> [ Sierra Leone ]
+    Evidence: "On 19 September 2014, Sierra Leone’s President Ernest Koroma"
+
+[ Eric Pianka ] --(Employee Of)--> [ University of Texas ]
+    Evidence: "In 2006, University of Texas professor Eric Pianka"
+
+[ Ernest Koroma ] --(Employee Of)--> [ St. Francis Secondary School ]
+    Evidence: "Ernest Koroma (a teacher at St. Francis Secondary School"
+
+[ Charles Arntzen ] --(Employee Of)--> [ Arizona State University ]
+    Evidence: "Dr. Charles Arntzen at Arizona State University"
+
+[ Thomas ] --(Sibling Of)--> [ William ]
+    Evidence: "The brothers were both asked"
+
+[ Thomas ] --(Member Of)--> [ local Catholic organisation ]
+    Evidence: "William and Thomas were volunteering with a local Catholic organisation."
+
+[ William ] --(Member Of)--> [ local Catholic organisation ]
+    Evidence: "William and Thomas were volunteering with a local Catholic organisation."
+
+[ Thomas ] --(Sibling Of)--> [ William ]
+    Evidence: "William and Thomas were volunteering"
+
+[ Thomas ] --(Lives In)--> [ Lourdes ]
+    Evidence: "Thomas went to Lourdes in 1983"
+
+[ Daithí Ó Corráin ] --(Employee Of)--> [ Dublin City University ]
+    Evidence: "Dublin City University historian Daithí Ó Corráin"
+
+[ John Lackland ] --(Child Of)--> [ Henry II ]
+    Evidence: "like his father Henry II"
+
+[ Sean Ryan ] --(Leader Of)--> [ Ryan Report ]
+    Evidence: "the Ryan Report [named after its Chairman “Mr. Justice” Sean Ryan]"
+
+[ Catherine Gorry ] --(Spouse Of)--> [ John Gorry ]
+    Evidence: "born to Catherine and John Gorry"
+
+[ William ] --(Sibling Of)--> [ Thomas ]
+    Evidence: "his little brother Thomas"
+
+[ William ] --(Child Of)--> [ Catherine Gorry ]
+    Evidence: "William, one of 13 children born to Catherine and John Gorry"
+
+[ William ] --(Child Of)--> [ John Gorry ]
+    Evidence: "William, one of 13 children born to Catherine and John Gorry"
+
+[ Sisters of Mercy ] --(Employer Of)--> [ Mount Carmel ]
+    Evidence: "the industrial school at Mount Carmel in Moate, County Westmeath, run by the Catholic nuns of the Sisters of Mercy"
+
+[ Thomas ] --(Sibling Of)--> [ William ]
+    Evidence: "William, Thomas and their two brothers"
+
+[ Roman Catholic Church ] --(Employer Of)--> [ Kamloops Indian Residential School ]
+    Evidence: "Kamloops Industrial School (later known as the Kamloops Indian Residential School) was opened, under Roman Catholic administration"
+
+[ John Kioki ] --(Lives In)--> [ Attawapiskat ]
+    Evidence: "John Kioki, 14, and Michel Matinas, 11, both from Attawapiskat"
+
+[ Michael Sutherland ] --(Lives In)--> [ Weemisk ]
+    Evidence: "Michael Sutherland, 13, from Weemisk"
+
+[ Michel Matinas ] --(Lives In)--> [ Attawapiskat ]
+    Evidence: "John Kioki, 14, and Michel Matinas, 11, both from Attawapiskat"
+
+[ Edmund Metatawabin ] --(Leader Of)--> [ Fort Albany First Nation ]
+    Evidence: "Fort Albany First Nation Chief Edmund Metatawabin"
+
+[ Anthony Fauci ] --(Leader Of)--> [ National Institute of Allergy and Infectious Diseases ]
+    Evidence: "National Institute of Allergy and Infectious Diseases [run by the Jesuit face of COVID: Anthony Fauci]"
+
+[ Columbia University’s Presbyterian Hospital ] --(Employer Of)--> [ Incarnation ]
+    Evidence: "ICC is run by Columbia University’s Presbyterian Hospital"
+
+[ Gate of Heaven Cemetery ] --(Lives In)--> [ Hawthorne, New York ]
+    Evidence: "Gate of Heaven Cemetery in Hawthorne, New York"
+
+[ Incarnation Children’s Centre ] --(Collaborator Of)--> [ GlaxoSmithKline ]
+    Evidence: "The firm sponsored experiments on the children from Incarnation Children’s Centre"
+
+[ Bob Guccione Jr. ] --(Associate Of)--> [ Robert Francis Kennedy, Jr. ]
+    Evidence: "Bob Guccione Jr. and Robert Francis Kennedy Jr."
+
+[ Ralph Abernathy ] --(Colleague Of)--> [ Martin Luther King, Jr. ]
+    Evidence: "Martin Luther King, Jr. and his aide Ralph Abernathy"
+
+[ Anthony Fauci ] --(Employer Of)--> [ National Institute of Allergy and Infectious Diseases ]
+    Evidence: "with Anthony Fauci as “Director”, the “National 
+Institute of Allergy and Infectious Diseases”"
+
+[ St. Joseph’s Industrial School for Boys ] --(Employer Of)--> [ Presentation Brothers ]
+    Evidence: "St. Joseph’s Industrial School for Boys, run by the Presentation Brothers"
+
+[ St. Finbarr’s Industrial School for Girls ] --(Employer Of)--> [ Sisters of the Good Shepherd ]
+    Evidence: "St. Finbarr’s Industrial School for Girls, run by the Sisters of the Good Shepherd"
+
+[ Wellcome Archives ] --(Lives In)--> [ London ]
+    Evidence: "Wellcome Archives in London"
+
+[ GlaxoSmithKlein ] --(Employer Of)--> [ Burroughs Wellcome ]
+    Evidence: "Burroughs Wellcome” was, today, “GlaxoSmithKlein"
+
+[ Michael Dwyer ] --(Works For)--> [ Cork University’s School of History ]
+    Evidence: "Michael Dwyer, of Cork University’s School of History"
+
+[ Mr. Hess ] --(Attended)--> [ Notre Dame ]
+    Evidence: "send him to Notre Dame"
+
+[ Judi Dench ] --(Collaborator Of)--> [ Philomena ]
+    Evidence: "“Philomena,” a film starring Judi Dench and Steve Coogan"
+
+[ Steve Coogan ] --(Collaborator Of)--> [ Philomena ]
+    Evidence: "“Philomena,” a film starring Judi Dench and Steve Coogan"
+
+[ Philomena Lee ] --(Parent Of)--> [ Mr. Hess ]
+    Evidence: "search for the son she was forced to give up... That son was Michael Hess... Philomena Lee"
+
+[ Michael Hess ] --(Employee Of)--> [ Republican National Committee ]
+    Evidence: "Michael Hess, a lawyer for the Republican National Committee during the Reagan and Bush administrations"
+
+[ Michael Hess ] --(Partner Of)--> [ Steve Dahllof ]
+    Evidence: "settling into a decade-plus relationship with Steve Dahllof"
+
+[ Steve Dahllof ] --(Employee Of)--> [ National Restaurant Association ]
+    Evidence: "Steve Dahllof, who worked in public relations for the Food Marketing Institute, then the National Restaurant Association"
+
+[ Michael Hess ] --(Graduate Of)--> [ George Washington law school ]
+    Evidence: "graduated from Notre Dame and the George Washington law school"
+
+[ Steve Dahllof ] --(Employee Of)--> [ Food Marketing Institute ]
+    Evidence: "Steve Dahllof, who worked in public relations for the Food Marketing Institute"
+
+[ Michael Hess ] --(Graduate Of)--> [ Notre Dame ]
+    Evidence: "graduated from Notre Dame and the George Washington law school"
+
+[ Philomena Lee ] --(Parent Of)--> [ Michael Hess ]
+    Evidence: "she described being shuttled away to an institution in Tipperary where her son was forcibly taken from her"
+
+[ Philomena Lee ] --(Parent Of)--> [ Michael Hess ]
+    Evidence: "her search for a son she was forced to give up for adoption"
+
+[ Yorkshire Television ] --(Employer Of)--> [ Conspiracy of Silence ]
+    Evidence: "Yorkshire Television’s 1994 Conspiracy of Silence"
+
+[ Flanagan ] --(Interacted With)--> [ World War I ]
+    Evidence: "Flanagan started collecting orphans during the heat of America’s involvement in World War I."
+
+[ Michael Hawkes ] --(Lives In)--> [ California ]
+    Evidence: "Monsignor Hawkes, a Catholic priest living in California"
+
+=========================================================
+

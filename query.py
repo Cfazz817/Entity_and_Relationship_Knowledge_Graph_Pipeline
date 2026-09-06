@@ -21,7 +21,7 @@ def print_summary():
         print(f"Total Relationship Assertions: {total_assertions}")
 
         # 2. Top 10 Most Mentioned Entities
-        print("\n--- Top 10 Most Mentioned Entities ---")
+        print("\n--- Top 100 Most Mentioned Entities ---")
         top_entities = session.execute(
             select(
                 Entity.primary_name,
@@ -32,14 +32,14 @@ def print_summary():
             .join(EntityMention)
             .group_by(Entity.id, EntityType.display_name)
             .order_by(func.count(EntityMention.id).desc())
-            .limit(10)
+            .limit(100)
         ).all()
 
         for name, type_name, mentions in top_entities:
             print(f"- {name} ({type_name}): {mentions} mentions")
 
         # 3. 10 Most Recent Relationships
-        print("\n--- 10 Most Recent Relationships ---")
+        print("\n--- 100 Most Recent Relationships ---")
         SourceEntity = aliased(Entity)
         TargetEntity = aliased(Entity)
 
@@ -56,7 +56,7 @@ def print_summary():
             .join(SourceEntity, Relationship.source_entity_id == SourceEntity.id)
             .join(TargetEntity, Relationship.target_entity_id == TargetEntity.id)
             .order_by(RelationshipAssertion.created_at.desc())
-            .limit(10)
+            .limit(100)
         ).all()
 
         for src, rel_type, tgt, evidence in recent_rels:

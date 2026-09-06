@@ -1,0 +1,483 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 25647
+Total Entity Mentions: 61976
+Total Relationship Assertions: 10621
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 820 mentions
+- Vatican (Institution): 599 mentions
+- CIA (Institution): 353 mentions
+- France (Location): 345 mentions
+- Catholic Church (Institution): 334 mentions
+- Jesuits (Institution): 332 mentions
+- Italy (Location): 291 mentions
+- England (Location): 266 mentions
+- United States (Location): 266 mentions
+- Germany (Location): 217 mentions
+- Luther (Person): 160 mentions
+- America (Location): 154 mentions
+- Paris (Location): 152 mentions
+- Europe (Location): 149 mentions
+- Hitler (Person): 145 mentions
+- Roman Catholic Church (Institution): 144 mentions
+- London (Location): 141 mentions
+- New York (Location): 141 mentions
+- Spain (Location): 139 mentions
+- Church (Institution): 130 mentions
+- Papacy (Institution): 130 mentions
+- Barack Obama (Person): 128 mentions
+- Russia (Location): 125 mentions
+- pope (Person): 119 mentions
+- Pius XII (Person): 115 mentions
+- FBI (Institution): 112 mentions
+- Jesus Christ (Person): 111 mentions
+- Croatia (Location): 104 mentions
+- Austria (Location): 103 mentions
+- Society of Jesus (Institution): 103 mentions
+- US (Location): 102 mentions
+- Martin Luther (Person): 97 mentions
+- Christ (Person): 94 mentions
+- Ustashi (Institution): 93 mentions
+- Paul (Person): 91 mentions
+- Washington (Location): 90 mentions
+- Wikipedia (Institution): 87 mentions
+- Pope Pius XII (Person): 83 mentions
+- Holy See (Institution): 81 mentions
+- Congress (Institution): 80 mentions
+- Ireland (Location): 76 mentions
+- Jesus (Person): 76 mentions
+- New York Times (Institution): 75 mentions
+- Diem (Person): 75 mentions
+- Inquisition (Institution): 73 mentions
+- Mussolini (Person): 73 mentions
+- John (Person): 72 mentions
+- Henry (Person): 69 mentions
+- Mary (Person): 68 mentions
+- John Paul II (Person): 67 mentions
+- Vietnam (Location): 67 mentions
+- Johnny Cirucci (Person): 66 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 65 mentions
+- Florence (Location): 65 mentions
+- Daniel (Person): 65 mentions
+- Poland (Location): 65 mentions
+- White House (Institution): 64 mentions
+- World War II (Event): 63 mentions
+- Bill Clinton (Person): 62 mentions
+- Washington, DC (Location): 59 mentions
+- Portugal (Location): 57 mentions
+- Reformation (Event): 57 mentions
+- Israel (Location): 57 mentions
+- California (Location): 57 mentions
+- God (Person): 56 mentions
+- P2 (Institution): 55 mentions
+- Zagreb (Location): 55 mentions
+- United States government (Institution): 54 mentions
+- Adolf Hitler (Person): 54 mentions
+- Yugoslavia (Location): 54 mentions
+- Jerusalem (Location): 54 mentions
+- The Guardian (Institution): 54 mentions
+- Roman Empire (Institution): 52 mentions
+- Opus Dei (Institution): 52 mentions
+- The Vatican (Institution): 52 mentions
+- Georgetown (Institution): 52 mentions
+- Pavelic (Person): 51 mentions
+- Sindona (Person): 51 mentions
+- Milan (Location): 51 mentions
+- Donald Trump (Person): 50 mentions
+- Constantine (Person): 50 mentions
+- Babylon (Location): 49 mentions
+- USA (Location): 49 mentions
+- China (Location): 49 mentions
+- Turkey (Location): 49 mentions
+- CNN (Institution): 49 mentions
+- Obama (Person): 48 mentions
+- Church of Rome (Institution): 48 mentions
+- IOR (Institution): 48 mentions
+- Hungary (Location): 47 mentions
+- Henry VIII (Person): 47 mentions
+- John F. Kennedy (Person): 47 mentions
+- Chicago (Location): 47 mentions
+- Boston (Location): 47 mentions
+- Pope Francis (Person): 47 mentions
+- Soviet Union (Institution): 47 mentions
+- South Vietnam (Location): 47 mentions
+- Maryland (Location): 47 mentions
+- Australia (Location): 47 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Edward Fenwick ] --(Leader Of)--> [ Diocese of Cincinnati ]
+    Evidence: "Edward Fenwick,
+Bishop of Cincinnati"
+
+[ Frederick Rese ] --(Subordinate Of)--> [ Edward Fenwick ]
+    Evidence: "bishop of Cincinnati, in North America, Mr. Edward Fenwick—(whose Vicar- General, Frederick Rese"
+
+[ Emperor ] --(Supporter Of)--> [ Society of the Leopold Foundation ]
+    Evidence: "his majesty, our all-gracious Emperor, who had patronised the Society of the Leopold Foundation"
+
+[ Archbishop of Vienna ] --(Leader Of)--> [ Leopold Foundation ]
+    Evidence: "appointed the most high and reverend lord prince archbishop of Vienna his locum tenens"
+
+[ Rudolphus ] --(Leader Of)--> [ Leopold Foundation ]
+    Evidence: "Arch Duke Cardinal Rudolph us. Archbishop of 01-mutz, has kindly taken the supreme direction of the Leopold Foundation"
+
+[ Cincinnati bishopric ] --(Lives In)--> [ North America ]
+    Evidence: "Cincinnati bishopric
+in
+North
+America"
+
+[ Frederick Rese ] --(Works For)--> [ Cincinnati bishopric ]
+    Evidence: "Frederick Rese, now Vicar-General of the Cincinnati bishopric"
+
+[ central direction of this religious institution ] --(Lives In)--> [ Vienna ]
+    Evidence: "central direction of this re-
+ligious institution, at Vienna"
+
+[ Superior of the Convent ] --(Leader Of)--> [ Charlestown Nunnery ]
+    Evidence: "Superior of the Convent"
+
+[ Catholic Telegraph ] --(Lives In)--> [ Cincinnati ]
+    Evidence: "edited and published at Cincinnati."
+
+[ Mr. Abell ] --(Works For)--> [ Louisville ]
+    Evidence: "Rev. Mr. Abell), pastor of Louisville"
+
+[ Cannoneers from Jefferson Barracks ] --(Lives In)--> [ Jefferson Barracks ]
+    Evidence: "Cannoneers from Jefferson Barracks"
+
+[ Mr. Baraga ] --(Works For)--> [ Leopold Foundation ]
+    Evidence: "Mr. Baraga lo the Central Direction of the Leopold Foundation"
+
+[ Sovereign of Rome ] --(Opponent Of)--> [ Don Pedro ]
+    Evidence: "the Pope's proclamation against Don Pedro"
+
+[ Lady Superior ] --(Adversary Of)--> [ Edward Cutter ]
+    Evidence: "thus threatened him"
+
+[ State Legislature ] --(Founder Of)--> [ St. Joseph's College ]
+    Evidence: "St. Joseph's Colleo:e, at Bardstown, -Kentucky, was Incorporated by the State Legislature in 1 824."
+
+[ Parker ] --(Leader Of)--> [ Royalist ]
+    Evidence: "ship Royalist, Captain Parker"
+
+[ Duke of Canosa ] --(Supporter Of)--> [ St. Bartholomew's Massacre ]
+    Evidence: "He justifies the St. Bartholomew's Massacre."
+
+[ Bishop Kelly ] --(Lives In)--> [ Richmond, Virginia ]
+    Evidence: "Bishop Kelly, of Rich- mond, Virginia"
+
+[ Bishop Cheverus ] --(Lives In)--> [ Boston ]
+    Evidence: "Bishop Cheverus, who passed, about fourteen years in Boston?"
+
+[ Don Telesforo de Trueba ] --(Member Of)--> [ Spanish Cortes ]
+    Evidence: "tingiiisiied member of the Spanish Cortes, Don
+Telesforo de Trueba"
+
+[ Sovereign Pontiff ] --(Leader Of)--> [ Vatican ]
+    Evidence: "the thunders of the Yatican... The one is denounced by the Soverei2:n PontiiF"
+
+[ Austria ] --(Member Of)--> [ Holy Alliance ]
+    Evidence: "Austria, one
+of the Holy Alliance"
+
+[ Austria ] --(Employer Of)--> [ Popery ]
+    Evidence: "Austria... HAS THE SUPERINTENDENCE OF THE OPERA-
+TIONS OF Popery"
+
+[ Papist ] --(Associate Of)--> [ Popish Bishops and Priests ]
+    Evidence: "the Papist cries... my ' whole system is one"
+
+[ Bishop Richard ] --(Lives In)--> [ Michigan ]
+    Evidence: "in Michigan, the Bishop Richard, a Jesuit, (since deceased,) was several times chosen delegate to Congress from the territory"
+
+[ Charles X ] --(Supporter Of)--> [ society in Lyons ]
+    Evidence: "Our beloved king (Charles X.) has given the society his protection"
+
+[ Baraga ] --(Lives In)--> [ Michigan ]
+    Evidence: "Mr. Baraga, the German missionary in Michigan"
+
+[ Bishop of Baltimore ] --(Associate Of)--> [ Austrian Society ]
+    Evidence: "The Bishop
+of Baltimore,
+writing
+to
+the
+Austrian Society"
+
+[ Rudolph ] --(Leader Of)--> [ Leopold Foundations ]
+    Evidence: "Highest Curator of the Leojjold Foundations"
+
+[ Mr. Brown ] --(Leader Of)--> [ benevolent society ]
+    Evidence: "Let Mr. Brown ... be elected president of a benevolent society"
+
+[ Clement XIII ] --(Employer Of)--> [ Encyclical Letter on the proscription of bad books ]
+    Evidence: "Encyclical Letter on the proscription of bad books"
+
+[ Jesuits ] --(Employee Of)--> [ Austria ]
+    Evidence: "Jesuits, the For- eign agents of Austria"
+
+[ Gregory XVI ] --(Leader Of)--> [ Catholic Church ]
+    Evidence: "The reigning pontiff, Gregory XVI., shall again answer the question. He has most opportunely furnished us with the present sentiments of the Catholic church on these very points."
+
+[ Luther ] --(Collaborator Of)--> [ public disputation at Leipsic ]
+    Evidence: "It was Luther, and by a singular coin- cidence of day too, on the fourth of July^ who first, in a public disputation at Leipsic"
+
+[ Jesus Christ ] --(Supporter Of)--> [ Emperor ]
+    Evidence: "Jesus Christ himself, who lived and died in allegiance to the Emperor of Rome"
+
+[ Czar ] --(Leader Of)--> [ Russia ]
+    Evidence: "his Majesty the Em- ueror of Russia"
+
+[ Gregory XVI ] --(Interacted With)--> [ Portugal ]
+    Evidence: "the Pope interferes directly in the political affairs of Portugal against Don Pedro."
+
+[ the Pope ] --(Leader Of)--> [ Catholic Church ]
+    Evidence: "The Pope, the su- preme Head of the Catholic church"
+
+[ the Emperor ] --(Leader Of)--> [ Austria ]
+    Evidence: "Austria answers, To the Emperor, who the source of all authority"
+
+[ Metternich ] --(Lives In)--> [ Italy ]
+    Evidence: "Metternich sent his 30,000 Austrian bayonets into Italy"
+
+[ Austria ] --(Member Of)--> [ Holy Alliance ]
+    Evidence: "Austria is one of that Holy Alliance of despotic governments"
+
+[ Prince Metternich ] --(Leader Of)--> [ Austrian government ]
+    Evidence: "Character of Prince
+Metternich, the
+arch-contriver of plans to stifle liberty"
+
+[ Prince Metternich ] --(Leader Of)--> [ SL Leopold Foundation ]
+    Evidence: "Prince Metternich has it under his watchful care."
+
+[ the Pope ] --(Supporter Of)--> [ SL Leopold Foundation ]
+    Evidence: "The Pope has given it his apostolic benediction"
+
+[ Ferdinand V ] --(Leader Of)--> [ SL Leopold Foundation ]
+    Evidence: "accept the office of Protector of the Leopold Foundation"
+
+[ Austria ] --(Founder Of)--> [ Foreign Society ]
+    Evidence: "Austria is 710X0 acting in this conntry. She has de- vised a grand scheme.. She has organized a great plan... Some official documents, giving the constitution and doings of this Foreign So- ciety"
+
+[ Prussia ] --(Ally Of)--> [ Austria ]
+    Evidence: "Russia, and Prussia, and Austria have leagued anew against unconquerable Poland"
+
+[ Russia ] --(Ally Of)--> [ Prussia ]
+    Evidence: "Russia, and Prussia, and Austria have leagued anew against unconquerable Poland"
+
+[ Russia ] --(Ally Of)--> [ Austria ]
+    Evidence: "Russia, and Prussia, and Austria have leagued anew against unconquerable Poland"
+
+[ Austria ] --(Founder Of)--> [ St. Leopold Foundation ]
+    Evidence: "Yes ! by Austria—through a Society called the St* Leopold Foundation"
+
+[ Bishop Dubois of New-York ] --(Lives In)--> [ New-York ]
+    Evidence: "Bishop Dubois of NetD-York"
+
+[ Bishop Fenwick of Philadelphia ] --(Lives In)--> [ Philadelphia ]
+    Evidence: "Bishop Fenwick of Philadelphia"
+
+[ Frederick Schlegel ] --(Founder Of)--> [ German Museum ]
+    Evidence: "In 1812, he published the German Museum"
+
+[ Frederick Schlegel ] --(Employee Of)--> [ Archduke Charles ]
+    Evidence: "In 1809, he received an appointment at the head-quarters of the Archduke Charles"
+
+[ Emperor of Austria ] --(Employer Of)--> [ St. Leopold Foundation ]
+    Evidence: "a
+        great
+        Society is formed,
+        with
+        the
+        Emperor
+        of Austria
+        for
+        its
+        patron"
+
+[ Prince Metternich ] --(Employer Of)--> [ St. Leopold Foundation ]
+    Evidence: "counsellor
+        of
+        State,
+        Prince
+        Metternich,
+        its grand
+        manager"
+
+[ Austria ] --(Member Of)--> [ St. Leopold Foundation ]
+    Evidence: "Austria, and her associates in that
+Unioii of Christian Prin-
+ces, combined
+in
+the
+St. Leopold Foundation."
+
+[ Austria ] --(Ally Of)--> [ Holy Alliance ]
+    Evidence: "Have Austria and the Holy Alliance an ade-quate motice for conspiring"
+
+[ Austria ] --(Member Of)--> [ St. Leopold Foundation ]
+    Evidence: "Austria, in a combination with other powers, called the St. Leopold Foundation"
+
+[ John Kensit ] --(Lives In)--> [ 18, Paternoster Row ]
+    Evidence: "John Kensit's, 18, Paternoster Row"
+
+[ J. C. COLQUHOUN ] --(Supporter Of)--> [ Church of Rome ]
+    Evidence: "Progress of the Church of Rome towards Ascendency in England"
+
+[ Dr. Manning ] --(Leader Of)--> [ Church of Rome ]
+    Evidence: "Her chief, Dr. Manning"
+
+[ William of Orange ] --(Lives In)--> [ England ]
+    Evidence: "which
+placed William of Orange on the throne of England
+in
+1689"
+
+[ John ] --(Lives In)--> [ Patmos ]
+    Evidence: "the exile of Patmos"
+
+[ Pope Alexander III ] --(Supporter Of)--> [ Waldenses ]
+    Evidence: "Pope Alexander III. showed them some favour"
+
+[ Henry ] --(Student Of)--> [ Peter de Bruys ]
+    Evidence: "Peter de Bruys and his disciple Henry"
+
+[ Berenger ] --(Works For)--> [ Angers ]
+    Evidence: "Archdeacon of Angers"
+
+[ Charlemagne ] --(Leader Of)--> [ Council of Frankfort ]
+    Evidence: "Council
+of
+Frankfort,
+A.D.
+794, under
+Charlemagne"
+
+[ Claud ] --(Lives In)--> [ Turin ]
+    Evidence: "Claud, the good Bishop of Turin"
+
+[ Gregory the Great ] --(Founder Of)--> [ Rome ]
+    Evidence: "Gregory
+the Great
+was
+founding
+at
+Rome the distinctive system of Latin Christianity."
+
+[ Serenus ] --(Lives In)--> [ Marseilles ]
+    Evidence: "Serenus, Bishop of Marseilles"
+
+[ Theodora ] --(Enemy Of)--> [ Christian Church ]
+    Evidence: "The Empress Theodora slaughtered and drowned one hundred thousand of these Paulician Christians"
+
+[ Sergius ] --(Leader Of)--> [ Christian Church ]
+    Evidence: "A subsequent president of the sect, one Sergius"
+
+[ Luther ] --(Critic Of)--> [ Papacy ]
+    Evidence: "Rome has cut herself off from the universal Church ; if ye reform not, I and all that worship Christ do account your seat to be possessed and oppressed by Satan himself, to be the damned seat of antichrist"
+
+[ Luther ] --(Collaborator Of)--> [ Melanchthon ]
+    Evidence: "Luther and Melanchthon"
+
+[ Bilney ] --(Associate Of)--> [ Erasmus ]
+    Evidence: "Bilney had procured a copy of Erasmus' New Testament"
+
+[ Staupitz ] --(Superior Of)--> [ Jiini ]
+    Evidence: "Staupitz, the vicar-general of his order, who proved himself a true pastor to the poor young monk, gave Jiini a Bible of his own."
+
+[ Martin Luther ] --(Student Of)--> [ University of Erfurt ]
+    Evidence: "Martin Luther, then a student in the University of Erfurt"
+
+[ Ezekiel ] --(Member Of)--> [ Israel ]
+    Evidence: "We meet it in the Old Testament, where Ezekiel is commanded to eat a roll, and go and speak to the house of Israel"
+
+[ Satan ] --(Adversary Of)--> [ Church ]
+    Evidence: "it is because Satan is acting against her in and by her enemies."
+
+[ Satan ] --(Opponent Of)--> [ Christ ]
+    Evidence: "Under the symbols of the dragon and the wild beasts, they are seen opposing and counterworking Christ"
+
+[ Ezra ] --(Collaborator Of)--> [ Nehemiah ]
+    Evidence: "The joint ministry of Ezra and Nehemiah"
+
+[ Ezra ] --(Associate Of)--> [ Nehemiah ]
+    Evidence: "before Ezra and Nehemiah passed to their rest"
+
+[ Manasseh ] --(Lives In)--> [ Jerusalem ]
+    Evidence: "Manasseh filled Jerusalem with the blood of the faithful"
+
+[ Henry VIII ] --(Lives In)--> [ England ]
+    Evidence: "England, where Henry VIII. made himself head of the Church in these lands."
+
+[ William of Orange ] --(Leader Of)--> [ England ]
+    Evidence: "placed William of Orange on the throne"
+
+[ Pentecost ] --(Founder Of)--> [ Christian Church ]
+    Evidence: "Pentecost formed the Church"
+
+[ Professor Birks ] --(Lives In)--> [ Cambridge ]
+    Evidence: "Professor Birks, of Cambridge"
+
+[ Birks ] --(Member Of)--> [ Trinity College, Cambridge ]
+    Evidence: "Rev.
+E. B. Elliott and
+Professor
+Birks, both
+fellows of
+Trinity
+College,
+Cambridge"
+
+[ E. B. Elliott ] --(Member Of)--> [ Trinity College, Cambridge ]
+    Evidence: "Rev.
+E. B. Elliott and
+Professor
+Birks, both
+fellows of
+Trinity
+College,
+Cambridge"
+
+[ Birks ] --(Lives In)--> [ Cambridge ]
+    Evidence: "Professor Birks, of Cambridge."
+
+[ Daniel ] --(Employer Of)--> [ book of Daniel ]
+    Evidence: "the author of the book of Daniel"
+
+[ Isaac Newton ] --(Colleague Of)--> [ Whiston ]
+    Evidence: "Whiston, his learned successor"
+
+[ Thomas Goodwin ] --(Lives In)--> [ London ]
+    Evidence: "Thomas Goodwin, of London"
+
+[ Westminster Assembly of Divines ] --(Associate Of)--> [ Presbyterian Church of Scotland ]
+    Evidence: "the Westminster Assembly of Divines drew up its most valuable Confession of
+FaitJi,
+a
+Confession
+subsequently
+accepted by
+the
+national Presbyterian Church of Scotland."
+
+[ Dr. William Twisse ] --(Associate Of)--> [ Mede ]
+    Evidence: "Dr. William
+Twisse, the
+prolocutor, who wrote the preface to Mede's work"
+
+[ John ] --(Associate Of)--> [ false prophet ]
+    Evidence: "John calls elsewhere " the false prophet," which acts for the revived head."
+
+[ Richard More ] --(Member Of)--> [ English Parliament ]
+    Evidence: "Richard More, one of the burgesses in the English Parliament"
+
+[ Dr. Twisse ] --(Member Of)--> [ Westminster Assembly of Divines ]
+    Evidence: "Dr. Twisse, who was prolocutor in the Westminster Assembly of Divines"
+
+=========================================================
+

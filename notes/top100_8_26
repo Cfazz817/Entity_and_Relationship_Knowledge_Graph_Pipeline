@@ -1,0 +1,417 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 15990
+Total Entity Mentions: 35100
+Total Relationship Assertions: 5891
+
+--- Top 100 Most Mentioned Entities ---
+- Vatican (Institution): 371 mentions
+- Rome (Location): 301 mentions
+- CIA (Institution): 293 mentions
+- Catholic Church (Institution): 176 mentions
+- Italy (Location): 170 mentions
+- Jesuits (Institution): 147 mentions
+- United States (Location): 136 mentions
+- Hitler (Person): 134 mentions
+- France (Location): 121 mentions
+- Germany (Location): 120 mentions
+- Croatia (Location): 98 mentions
+- New York (Location): 97 mentions
+- Russia (Location): 97 mentions
+- Ustashi (Institution): 93 mentions
+- Pius XII (Person): 91 mentions
+- Barack Obama (Person): 87 mentions
+- Roman Catholic Church (Institution): 86 mentions
+- FBI (Institution): 83 mentions
+- London (Location): 82 mentions
+- England (Location): 80 mentions
+- America (Location): 78 mentions
+- Society of Jesus (Institution): 70 mentions
+- Mussolini (Person): 69 mentions
+- Holy See (Institution): 69 mentions
+- Spain (Location): 66 mentions
+- Lorenzo Ricci (Person): 64 mentions
+- John Paul II (Person): 62 mentions
+- Europe (Location): 58 mentions
+- Johnny Cirucci (Person): 57 mentions
+- Washington (Location): 56 mentions
+- New York Times (Institution): 56 mentions
+- P2 (Institution): 55 mentions
+- Zagreb (Location): 55 mentions
+- Congress (Institution): 54 mentions
+- Yugoslavia (Location): 52 mentions
+- Pavelic (Person): 51 mentions
+- Sindona (Person): 51 mentions
+- Pope Pius XII (Person): 50 mentions
+- pope (Person): 50 mentions
+- Bill Clinton (Person): 49 mentions
+- Paris (Location): 49 mentions
+- IOR (Institution): 48 mentions
+- White House (Institution): 48 mentions
+- USA (Location): 47 mentions
+- The Guardian (Institution): 46 mentions
+- NATO (Institution): 45 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Austria (Location): 43 mentions
+- Kinsey (Person): 43 mentions
+- Michele Sindona (Person): 42 mentions
+- Central Intelligence Agency (Institution): 42 mentions
+- Argentina (Location): 42 mentions
+- Opus Dei (Institution): 42 mentions
+- Adolf Hitler (Person): 41 mentions
+- Gelli (Person): 41 mentions
+- Gladio (Institution): 40 mentions
+- Turkey (Location): 40 mentions
+- The Vatican (Institution): 40 mentions
+- Milan (Location): 40 mentions
+- Obama (Person): 39 mentions
+- Pius XI (Person): 39 mentions
+- Soviet Union (Institution): 39 mentions
+- Poland (Location): 38 mentions
+- Church (Institution): 38 mentions
+- Sicily (Location): 37 mentions
+- Jesus Christ (Person): 37 mentions
+- Daily Mail (Institution): 37 mentions
+- YouTube (Institution): 36 mentions
+- Calvi (Person): 36 mentions
+- Vatican Bank (Institution): 36 mentions
+- Wikipedia (Institution): 36 mentions
+- BBC (Institution): 35 mentions
+- CNN (Institution): 35 mentions
+- Washington, DC (Location): 35 mentions
+- US (Location): 34 mentions
+- Licio Gelli (Person): 34 mentions
+- South America (Location): 33 mentions
+- Belgium (Location): 33 mentions
+- Ante Pavelic (Person): 33 mentions
+- Stepinac (Person): 33 mentions
+- Associated Press (Institution): 32 mentions
+- Australia (Location): 31 mentions
+- Franz von Papen (Person): 31 mentions
+- Afghanistan (Location): 31 mentions
+- Pentagon (Institution): 31 mentions
+- Papacy (Institution): 31 mentions
+- Georgetown (Institution): 30 mentions
+- Chicago (Location): 30 mentions
+- Portugal (Location): 30 mentions
+- Ukraine (Location): 30 mentions
+- California (Location): 29 mentions
+- Pope John Paul II (Person): 29 mentions
+- State Department (Institution): 29 mentions
+- Great Britain (Institution): 29 mentions
+- John Carroll (Person): 28 mentions
+- Jesus (Person): 28 mentions
+- World War II (Event): 28 mentions
+- Munich (Location): 28 mentions
+- Archbishop Stepinac (Person): 28 mentions
+- Pennsylvania (Location): 28 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ John Daniel ] --(Critic Of)--> [ Illuminati ]
+    Evidence: "Author John Daniel considers the Illuminati and the Freemasons to be the Jesuits’ greatest weapons."
+
+[ Robert Bradley ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Jesuit priest Robert Bradley"
+
+[ Franklin ] --(Member Of)--> [ Order of the Quest ]
+    Evidence: "Franklin spoke for the Order of the Quest, and most of the men who worked with him in the early days of the American Revolution were also members."
+
+[ Dr. John Dee ] --(Mentor Of)--> [ Bacon ]
+    Evidence: "He most certainly initiated young Bacon into the Order"
+
+[ Bacon ] --(Founder Of)--> [ Christian Rosenkreutz ]
+    Evidence: "Bacon invented a mythical Rosicrucian founder whom he cleverly dubbed Christian Rosenkreutz"
+
+[ Benjamin Franklin ] --(Lives In)--> [ Pennsylvania ]
+    Evidence: "Benjamin Franklin (...) would emerge as the highest ranking Rosicrucian-Masonic figure from that colony."
+
+[ Bacon ] --(Leader Of)--> [ Rosicrucian Order ]
+    Evidence: "Bacon was now the leader of the Rosicrucian movement."
+
+[ Dr. John Dee ] --(Founder Of)--> [ Rosicrucian Order ]
+    Evidence: "Dr. John Dee, the immanent authority on Hermeticism and Kabbalism in England laid the ground-work for the formation of the “Rosicruician Order.”"
+
+[ Sir Francis Bacon ] --(Associate Of)--> [ Dr. John Dee ]
+    Evidence: "Sir Francis Bacon’s close associate during this time was Dr. John Dee"
+
+[ Dr. John Dee ] --(Leader Of)--> [ Sir Francis Bacon ]
+    Evidence: "In time, Dee handed off the leadership of the Rosicrucian Society to Bacon"
+
+[ Dr. John Dee ] --(Employee Of)--> [ Queen Elizabeth I ]
+    Evidence: "Dr. John Dee, who was the court astrologer for Queen Elizabeth I"
+
+[ Dr. John Dee ] --(Leader Of)--> [ Rosicrucians ]
+    Evidence: "Rosicrucians (of whom Dee was the chief in England)"
+
+[ Bacon ] --(Founder Of)--> [ Atlantis ]
+    Evidence: "Bacon would rekindle ideas of an “Enlightened” utopia and pick Plato’s “Atlantis” to do it with. In his work New Atlantis, Bacon laid out his vision"
+
+[ Francis Bacon ] --(Founder Of)--> [ New Atlantis ]
+    Evidence: "Atlantis would return in a much more positive light 1700 years later thanks to British occultist Francis Bacon."
+
+[ Tubal-Cain ] --(Child Of)--> [ Zillah ]
+    Evidence: "Tubal-Cain by his second wife Zillah."
+
+[ Freemasons ] --(Supporter Of)--> [ Tubal-Cain ]
+    Evidence: "The Freemasons attached themselves to Tubal-Cain and elevated him in their mythology."
+
+[ Adam ] --(Parent Of)--> [ Seth ]
+    Evidence: "Adam’s sons Seth and Cain"
+
+[ Adam ] --(Parent Of)--> [ Cain ]
+    Evidence: "Adam’s sons Seth and Cain"
+
+[ William Guy Carr ] --(Employee Of)--> [ Royal Canadian Navy ]
+    Evidence: "William Guy Carr, former Intelligence Officer in the Royal Canadian Navy."
+
+[ Albert Pike ] --(Founder Of)--> [ KKK ]
+    Evidence: "Scottish Rite Freemason Grandmaster and founder of the KKK, Albert Pike."
+
+[ Clinton Roosevelt ] --(Parent Of)--> [ F D Roosevelt ]
+    Evidence: "Clinton Roosevelt, (a direct ancestor of F D Roosevelt)"
+
+[ Robison ] --(Interacted With)--> [ Fauchet ]
+    Evidence: "Fauchet is mentioned by 
+Robison as a zealous Member"
+
+[ George Washington ] --(Interacted With)--> [ Snyder ]
+    Evidence: "President Washington responded to Snyder that"
+
+[ Adam Weishaupt ] --(Collaborator Of)--> [ Friedrich Nicolai ]
+    Evidence: "founded by Adam Weishaupt under the guidance of [Friedrich] Nicolai"
+
+[ Adam Weishaupt ] --(Founder Of)--> [ Illuminati ]
+    Evidence: "sect known as “The Illuminati of Bavaria” founded by Adam Weishaupt"
+
+[ Adam Weishaupt ] --(Employee Of)--> [ University of Ingolstadt ]
+    Evidence: "he eventually became a Professor of Canon Law at the Jesuit-run University of Ingolstadt."
+
+[ Adam Weishaupt ] --(Founder Of)--> [ Illuminati ]
+    Evidence: "the creator of the Illuminati, Adam Weishaupt."
+
+[ Chevalier Ramsay ] --(Founder Of)--> [ Ancient and Accepted Scottish Rite ]
+    Evidence: "the enunciation, primarily, of the brain of the Jesuit Chevalier Ramsay."
+
+[ Charles Sotheran ] --(Employee Of)--> [ New York Liberal Club ]
+    Evidence: "Mr. Charles Sotheran, Corresponding Secretary of the New York Liberal Club"
+
+[ Company of Loyola ] --(Subordinate Of)--> [ Venice ]
+    Evidence: "Venice in 1606;"
+
+[ Company of Loyola ] --(Subordinate Of)--> [ Naples ]
+    Evidence: "Naples in 1622."
+
+[ Company of Loyola ] --(Subordinate Of)--> [ Russia ]
+    Evidence: "and from all Russia in 1820."
+
+[ Company of Loyola ] --(Subordinate Of)--> [ France ]
+    Evidence: "France in 1594;"
+
+[ Company of Loyola ] --(Subordinate Of)--> [ Portugal ]
+    Evidence: "Portugal and the Low Countries got rid of them, in 1578;"
+
+[ Company of Loyola ] --(Subordinate Of)--> [ St. Petersburg ]
+    Evidence: "From St. Petersburg they were expelled in 1815"
+
+[ Alex Jones ] --(Lives In)--> [ Grove ]
+    Evidence: "During his foray into the Grove, Alex Jones secretly filmed this event."
+
+[ Walter Cronkite ] --(Member Of)--> [ club ]
+    Evidence: "club member Walter Cronkite"
+
+[ James F. Bowman ] --(Founder Of)--> [ Cremation of Care ceremony ]
+    Evidence: "The Cremation of Care ceremony was first conducted in the Bohemian Grove at the Midsummer encampment in 1881, devised by James F. Bowman"
+
+[ Dwayne Andreas ] --(Leader Of)--> [ Archer-Daniels-Midland ]
+    Evidence: "Dwayne Andreas, the chairman of Archer-Daniels-Midland."
+
+[ Tom Johnson ] --(Employer Of)--> [ Los Angeles Times ]
+    Evidence: "Tom Johnson is here.  (Then the publisher of the Los Angeles Times"
+
+[ Bohemian Grove ] --(Lives In)--> [ Monte Rio, California ]
+    Evidence: "Bohemian Grove is a scenic retreat located in Monte Rio, California"
+
+[ Richard Nixon ] --(Associate Of)--> [ Ronald Reagan ]
+    Evidence: "[Richard] Nixon and [Ronald] Reagan sat down informally at the Grove in 1967 to work a political deal"
+
+[ Henry Harry Edwards ] --(Founder Of)--> [ Bohemian Grove ]
+    Evidence: "Founded just after the Civil War by Henry Harry Edwards as a private camp"
+
+[ Peter Phillips ] --(Graduate Of)--> [ University of California, Davis ]
+    Evidence: "Peter Phillips dissertation for his doctorate in philosophy at the University of California, Davis"
+
+[ Peter Thiel ] --(Leader Of)--> [ Thiel Capital ]
+    Evidence: "The President of Thiel Capital, Libertarian icon Peter Thiel"
+
+[ Thomas Donilon ] --(Friend Of)--> [ Joe Biden ]
+    Evidence: "Thomas Donilon (...) personal friend of Joe Biden"
+
+[ Carl Bildt ] --(Founder Of)--> [ European Union ]
+    Evidence: "founder of the European Union, Carl Bildt"
+
+[ Benoît Coeuré ] --(Member Of)--> [ European Central Bank ]
+    Evidence: "Member of the Executive Board, European Central Bank Benoît 
+Coeuré"
+
+[ François Baroin ] --(Lives In)--> [ Troyes ]
+    Evidence: "French Member of Parliament and Mayor of Troyes, François 
+Baroin"
+
+[ Jesuit order ] --(Member Of)--> [ Roman Catholicism ]
+    Evidence: "the Jesuit order are the wizards and knights within that whirlwind."
+
+[ Nimrod ] --(Grandchild Of)--> [ Ham ]
+    Evidence: "He was the grandson of Ham"
+
+[ Ham ] --(Child Of)--> [ Noah ]
+    Evidence: "Ham, the son of Noah"
+
+[ Eve ] --(Spouse Of)--> [ Adam ]
+    Evidence: "Eve was made from Adam to help him in this and be a companion for him."
+
+[ James Dempsey ] --(Collaborator Of)--> [ Timothy Leary ]
+    Evidence: "Timothy Leary ‘42, James Dempsey"
+
+[ Walter Howard Bowart ] --(Collaborator Of)--> [ Timothy Leary ]
+    Evidence: "Lords of the Revolution: Timothy Leary and the CIA, Walter H. Bowart"
+
+[ Angela Howard ] --(Collaborator Of)--> [ Sasha Tarrant ]
+    Evidence: "Angela Howard, Sasha Tarrant"
+
+[ Richard J. Miller ] --(Works For)--> [ Salon ]
+    Evidence: "Richard J. Miller, ... Salon"
+
+[ Nick Redfern ] --(Works For)--> [ Anomalist Books ]
+    Evidence: "Nick Redfern, Anomalist Books"
+
+[ Robert Wilson ] --(Works For)--> [ William Morrow Paperbacks ]
+    Evidence: "Robert Wilson and Miriam Hill, William Morrow
+Paperbacks"
+
+[ Richard Kaczynski ] --(Works For)--> [ North Atlantic Books ]
+    Evidence: "Richard Kaczynski, North Atlantic Books"
+
+[ Miriam Hill ] --(Works For)--> [ William Morrow Paperbacks ]
+    Evidence: "Robert Wilson and Miriam Hill, William Morrow
+Paperbacks"
+
+[ Robert Wilson ] --(Collaborator Of)--> [ Miriam Hill ]
+    Evidence: "Robert Wilson and Miriam Hill"
+
+[ Giuliani ] --(Employee Of)--> [ Activision ]
+    Evidence: "Activision Hires Rudy Giuliani"
+
+[ Activision ] --(Employer Of)--> [ Giuliani ]
+    Evidence: "Activision Hires Rudy Giuliani"
+
+[ Paul E. Valley ] --(Superior Of)--> [ Michael A. Aquino ]
+    Evidence: "Colonel Paul E. Valley, Commander - with - Major Michael A. Aquino"
+
+[ Michael A. Aquino ] --(Member Of)--> [ 7th Psychological Operations Group ]
+    Evidence: "Major Michael A. Aquino, PSYOP Research & Analysis Team Leader, Headquarters, 7th Psychological Operations Group"
+
+[ Paul E. Valley ] --(Member Of)--> [ 7th Psychological Operations Group ]
+    Evidence: "Colonel Paul E. Valley, Commander - with - Major Michael A. Aquino, PSYOP Research & Analysis Team Leader, Headquarters, 7th Psychological Operations Group"
+
+[ Rudy Giuliani ] --(Leader Of)--> [ Phi Rho Pi ]
+    Evidence: "Rudy Giuliani, President (of Phi Rho Pi)"
+
+[ Michael Peroutka ] --(Member Of)--> [ Constitution Party ]
+    Evidence: "the Constitution Party’s Michael Peroutka"
+
+[ Pat Toomey ] --(Supporter Of)--> [ Specter ]
+    Evidence: "Rep. Pat Toomey should never, ever have said he will now support Specter"
+
+[ President Bush ] --(Supporter Of)--> [ Specter ]
+    Evidence: "President Bush should never have campaigned for Specter"
+
+[ Rick Santorum ] --(Supporter Of)--> [ Specter ]
+    Evidence: "Rick Santorum should never have campaigned for Specter"
+
+[ Specter ] --(Opponent Of)--> [ Robert Bork ]
+    Evidence: "Specter led the effort to stop Robert Bork from becoming a U.S. Supreme Court justice."
+
+[ Rick Santorum ] --(Lives In)--> [ Pennsylvania ]
+    Evidence: "Pennsylvania’s other GOP Senator Rick Santorum"
+
+[ Ira Einhorn ] --(Partner Of)--> [ Holly Maddox ]
+    Evidence: "murder of his girlfriend Holly Maddox"
+
+[ Bill Cashel, Jr. ] --(Employee Of)--> [ Bell Pennsylvania ]
+    Evidence: "Bill Cashel, Jr., a former Marine and president of Bell Pennsylvania"
+
+[ Russell Byers ] --(Employee Of)--> [ HUD ]
+    Evidence: "Russell Byers, a HUD director"
+
+[ Ira Einhorn ] --(Friend Of)--> [ Andrija Puharich ]
+    Evidence: "Ira Einhorn, an eclectic new-age quack, and his friend Andrija Puharich"
+
+[ Arlen Spector ] --(Employee Of)--> [ Warren Commission ]
+    Evidence: "Specter was the Warren Commission lawyer"
+
+[ Arlen Spector ] --(Employee Of)--> [ United States Senate ]
+    Evidence: "Specter was rewarded (having shown his loyalty) with a United States Senate Seat"
+
+[ Arlen Spector ] --(Lives In)--> [ Commonwealth of Pennsylvania ]
+    Evidence: "representing the Commonwealth of Pennsylvania"
+
+[ John Connally ] --(Lives In)--> [ Texas ]
+    Evidence: "Texas Governor John Connally"
+
+[ John Haas ] --(Employee Of)--> [ Rohm and Haas ]
+    Evidence: "John Haas, president of Rohm and Haas chemical conglomerate"
+
+[ Operation CHAOS ] --(Employer Of)--> [ CIA ]
+    Evidence: "Operation] CHAOS was launched by the CIA and the White House"
+
+[ Ted Kaczynski ] --(Subordinate Of)--> [ Henry Murray ]
+    Evidence: "mind control researcher at Harvard who enlisted as a subject of experimentation one Ted Kaczynski"
+
+[ Henry Murray ] --(Member Of)--> [ Office of Strategic Services ]
+    Evidence: "Henry Murray, chief of psychological operations for William Donovan’s Office of Strategic Services"
+
+[ Operation CHAOS ] --(Employer Of)--> [ White House ]
+    Evidence: "Operation] CHAOS was launched by the CIA and the White House"
+
+[ Albert Hoffman ] --(Employee Of)--> [ Sandoz Laboratories ]
+    Evidence: "Lysergic Acid Diethylmide, LSD, was discovered at the Sandoz Laboratories, Basel, Switzerland, in 1939 by Albert Hoffman."
+
+[ Richard Helms ] --(Employee Of)--> [ CIA ]
+    Evidence: "retired from the CIA"
+
+[ Richard Helms ] --(Founder Of)--> [ Project PAPERCLIP ]
+    Evidence: "“Project Paperclip,” an arrangement made by CIA Director Allen Dulles and Richard Helms"
+
+[ Gloria Steinem ] --(Employee Of)--> [ Ms. magazine ]
+    Evidence: "Gloria Steinem, editor of Ms. magazine"
+
+[ Allen Dulles ] --(Founder Of)--> [ Project PAPERCLIP ]
+    Evidence: "“Project Paperclip,” an arrangement made by CIA Director Allen Dulles and Richard Helms"
+
+[ Dr. MaryJo Bane ] --(Employee Of)--> [ Center for Research on Women ]
+    Evidence: "Dr. MaryJo Bane, associate director of Wellesley College’s Center for Research on Women"
+
+[ Allen Dulles ] --(Leader Of)--> [ CIA ]
+    Evidence: "CIA Director Allen Dulles"
+
+[ Center for Research on Women ] --(Subordinate Of)--> [ Wellesley College ]
+    Evidence: "Wellesley College’s Center for Research on Women"
+
+[ Browart ] --(Interacted With)--> [ Leary ]
+    Evidence: "Upon his release, Browart met with Leary and interviewed him."
+
+[ Browart ] --(Employee Of)--> [ CIA ]
+    Evidence: "he knew he was working for the CIA the whole time"
+
+[ University of Oklahoma ] --(Attended)--> [ Walter Bowart ]
+    Evidence: "he was born in Omaha, Nebraska but his family relocated to Enid, Oklahoma where he attended the University of Oklahoma."
+
+[ Walter Bowart ] --(Interacted With)--> [ Timothy Leary ]
+    Evidence: "Mind control researcher Walter Bowart interviewed Timothy Leary on"
+
+[ Timothy Leary ] --(Supporter Of)--> [ Aleister Crowley ]
+    Evidence: "an ardent follower of Aleister Crowley"
+
+=========================================================
+

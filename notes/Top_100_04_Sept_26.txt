@@ -1,0 +1,420 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 24740
+Total Entity Mentions: 57727
+Total Relationship Assertions: 10276
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 675 mentions
+- Vatican (Institution): 536 mentions
+- CIA (Institution): 339 mentions
+- France (Location): 304 mentions
+- Jesuits (Institution): 300 mentions
+- Catholic Church (Institution): 275 mentions
+- Italy (Location): 252 mentions
+- England (Location): 229 mentions
+- United States (Location): 229 mentions
+- Germany (Location): 195 mentions
+- Paris (Location): 143 mentions
+- Hitler (Person): 141 mentions
+- Roman Catholic Church (Institution): 139 mentions
+- London (Location): 138 mentions
+- America (Location): 137 mentions
+- New York (Location): 135 mentions
+- Barack Obama (Person): 127 mentions
+- Luther (Person): 125 mentions
+- Russia (Location): 114 mentions
+- FBI (Institution): 112 mentions
+- Spain (Location): 111 mentions
+- Europe (Location): 107 mentions
+- Society of Jesus (Institution): 103 mentions
+- Croatia (Location): 102 mentions
+- Pius XII (Person): 97 mentions
+- Church (Institution): 96 mentions
+- Martin Luther (Person): 94 mentions
+- Jesus Christ (Person): 94 mentions
+- Ustashi (Institution): 93 mentions
+- pope (Person): 90 mentions
+- Wikipedia (Institution): 87 mentions
+- Holy See (Institution): 79 mentions
+- Congress (Institution): 79 mentions
+- Papacy (Institution): 79 mentions
+- New York Times (Institution): 75 mentions
+- Mussolini (Person): 72 mentions
+- Washington (Location): 71 mentions
+- Henry (Person): 68 mentions
+- Jesus (Person): 68 mentions
+- Johnny Cirucci (Person): 66 mentions
+- John Paul II (Person): 66 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 65 mentions
+- Florence (Location): 64 mentions
+- Mary (Person): 63 mentions
+- Bill Clinton (Person): 62 mentions
+- Ireland (Location): 60 mentions
+- White House (Institution): 60 mentions
+- World War II (Event): 57 mentions
+- California (Location): 57 mentions
+- Austria (Location): 57 mentions
+- Washington, DC (Location): 56 mentions
+- Pope Pius XII (Person): 56 mentions
+- Zagreb (Location): 55 mentions
+- P2 (Institution): 55 mentions
+- Yugoslavia (Location): 54 mentions
+- The Guardian (Institution): 54 mentions
+- Adolf Hitler (Person): 53 mentions
+- United States government (Institution): 53 mentions
+- Poland (Location): 53 mentions
+- Opus Dei (Institution): 52 mentions
+- Georgetown (Institution): 52 mentions
+- Inquisition (Institution): 52 mentions
+- Sindona (Person): 51 mentions
+- Pavelic (Person): 51 mentions
+- Milan (Location): 50 mentions
+- Donald Trump (Person): 50 mentions
+- USA (Location): 49 mentions
+- CNN (Institution): 49 mentions
+- Israel (Location): 49 mentions
+- The Vatican (Institution): 48 mentions
+- Turkey (Location): 48 mentions
+- Obama (Person): 48 mentions
+- IOR (Institution): 48 mentions
+- Pope Francis (Person): 47 mentions
+- Australia (Location): 47 mentions
+- Chicago (Location): 47 mentions
+- Anthony Fauci (Person): 46 mentions
+- Soviet Union (Institution): 46 mentions
+- Christ (Person): 46 mentions
+- NATO (Institution): 46 mentions
+- Maryland (Location): 46 mentions
+- Henry VIII (Person): 45 mentions
+- John F. Kennedy (Person): 44 mentions
+- US (Location): 44 mentions
+- George Washington (Person): 44 mentions
+- Charles (Person): 44 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Jerusalem (Location): 43 mentions
+- Kinsey (Person): 43 mentions
+- Pius XI (Person): 43 mentions
+- Philadelphia (Location): 43 mentions
+- Argentina (Location): 43 mentions
+- China (Location): 42 mentions
+- Daily Mail (Institution): 42 mentions
+- Pentagon (Institution): 42 mentions
+- New York City (Location): 42 mentions
+- YouTube (Institution): 42 mentions
+- Hungary (Location): 42 mentions
+- Michele Sindona (Person): 42 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ la Voisin ] --(Associate Of)--> [ Françoise-Athénaïs de Rochechouart ]
+    Evidence: "Françoise-Athénaïs hired the Catholic clergy cabal, led by la Voisin"
+
+[ Etienne Guibourg ] --(Spouse Of)--> [ Jeanne Chanfrain ]
+    Evidence: "Jeanne Chanfrain, a forty-eight-year-old woman who had been his mistress for the past twenty years."
+
+[ Chapelle ] --(Sibling Of)--> [ Father Mariette ]
+    Evidence: "His sister, named Chapelle"
+
+[ Father Mariette ] --(Partner Of)--> [ la Leroux ]
+    Evidence: "He also had a mistress, la Leroux"
+
+[ Guibourg ] --(Collaborator Of)--> [ Françoise la Filastre ]
+    Evidence: "Guibourg, friend and accomplice of la Voisin and [Françoise ] la Filastre"
+
+[ Guibourg ] --(Friend Of)--> [ la Voisin ]
+    Evidence: "Guibourg, friend and accomplice of la Voisin"
+
+[ Father Mariette ] --(Collaborator Of)--> [ la Voisin ]
+    Evidence: "the second of la Voisin’s collaborators, Francois Mariette"
+
+[ Father Etienne Guibourg ] --(Associate Of)--> [ La Boissière ]
+    Evidence: "having known La Boissière"
+
+[ Sainte-Croix ] --(Associate Of)--> [ La Boissière ]
+    Evidence: "La Boissière, one of Sainte-Croix’s pupils"
+
+[ Father Etienne Guibourg ] --(Associate Of)--> [ Sainte-Croix ]
+    Evidence: "having known La Boissière, one of Sainte-Croix’s pupils, 
+and even Sainte-Croix himself"
+
+[ Father Etienne Guibourg ] --(Employee Of)--> [ Comte de Montgommery ]
+    Evidence: "Almoner 
+to the Comte de Montgommery"
+
+[ François Mariette ] --(Works For)--> [ Church of Saint-Séverin ]
+    Evidence: "François Mariette, a young Priest of the Church of Saint-Séverin"
+
+[ Henri de Montmorency II ] --(Subordinate Of)--> [ Louis XIV ]
+    Evidence: "A general for Louis XIV, de Montmorency attacked"
+
+[ Henri de Montmorency II ] --(Opponent Of)--> [ Cardinal Armand Jean du Plessis, Duke of Richelieu ]
+    Evidence: "Montmorency sought to oust Richelieu by force"
+
+[ la Voisin ] --(Collaborator Of)--> [ François Mariette ]
+    Evidence: "In 1667 la Voisin had introduced him to François Mariette, a twenty-seven-year-old priest who proved a willing collaborator."
+
+[ Adam du Coeuret ] --(Partner Of)--> [ la Voisin ]
+    Evidence: "Before long he had met up with la Voisin and become her lover"
+
+[ François Mariette ] --(Collaborator Of)--> [ Adam du Coeuret ]
+    Evidence: "For a time the trio had worked in partnership"
+
+[ Adam du Coeuret ] --(Lives In)--> [ Normandy ]
+    Evidence: "The real name of the self-styled Lesage (“the wise one”) was Adam du Coeuret and he came from Normandy."
+
+[ Barack Obama ] --(Employer Of)--> [ Sebelius ]
+    Evidence: "President Barack Obama told him he needed in a “Health and Human Services Secretary”"
+
+[ Kathleen Sebelius ] --(Graduate Of)--> [ Trinity Washington University ]
+    Evidence: "Sebelius is another far-Left Roman Catholic, educated at Trinity Washington University"
+
+[ John “Jack” Gilligan ] --(Parent Of)--> [ Kathleen Sebelius ]
+    Evidence: "her Leftist Catholic father, John “Jack” Gilligan"
+
+[ Kathleen Sebelius ] --(Associate Of)--> [ Tiller ]
+    Evidence: "Kathleen Sebelius had a special relationship with Tiller"
+
+[ John “Jack” Gilligan ] --(Attended)--> [ Saint Xavier High School ]
+    Evidence: "Gilligan learned his values from the Jesuits at Saint Xavier High School"
+
+[ George Tiller ] --(Member Of)--> [ Reformation Lutheran Church ]
+    Evidence: "Tiller was shot through the eye at “Reformation Lutheran Church” 
+in Wichita where he was an usher."
+
+[ Jack Cashill ] --(Works For)--> [ World Net Daily ]
+    Evidence: "Cashill is regularly published on World Net Daily"
+
+[ Jack Cashill ] --(Employee Of)--> [ Jesuit Rockhurst ]
+    Evidence: "He has taught advertising, copyrighting and feature writing at Jesuit Rockhurst"
+
+[ Joseph Farah ] --(Founder Of)--> [ World Net Daily ]
+    Evidence: "World Net Daily was founded by “Evangelical” Joseph Farah."
+
+[ Jack McMahon ] --(Colleague Of)--> [ Gosnell ]
+    Evidence: "Gosnell’s “multiple life sentences” were not commensurate with his crimes and he was charged with only one of the adult murders... plea-bargaining” by Gosnell’s devout Catholic lawyer, Jack McMahon."
+
+[ Jack McMahon ] --(Attended)--> [ Gannon ]
+    Evidence: "McMahon has been well-trained in his trade by Rome, having gone to two separate Catholic (but public-sounding) colleges; the University of San Diego and Gannon."
+
+[ Jack McMahon ] --(Attended)--> [ University of San Diego ]
+    Evidence: "McMahon has been well-trained in his trade by Rome, having gone to two separate Catholic (but public-sounding) colleges; the University of San Diego"
+
+[ Reince Priebus ] --(Leader Of)--> [ Republican National Committee ]
+    Evidence: "Republican National Committee Chairman Reinhold Richard “Reince” Priebus"
+
+[ John A. Boehner ] --(Attended)--> [ Xavier University ]
+    Evidence: "John Boehner is typical of Jesuit-trained (Xavier University, 1977)"
+
+[ Kermit Gosnell ] --(Owner Of)--> [ Kermit Gosnell's abortion clinic ]
+    Evidence: "Kermit Gosnell’s abortion clinic"
+
+[ Karnamaya Mongar ] --(Lives In)--> [ Virginia ]
+    Evidence: "Karnamaya Mongar of Virginia"
+
+[ Ulrich George Klopfer ] --(Employee Of)--> [ Women’s Pavilion ]
+    Evidence: "Klopfer... worked for decades at the Women’s Pavilion clinic"
+
+[ la Voisin ] --(Associate Of)--> [ Marie La Bosse ]
+    Evidence: "la Voisin and Lepère, they were doing a service... [Catholic Witch and abortionist Marie] La Bosse had alleged"
+
+[ Marie Lepère ] --(Employee Of)--> [ Mme Voisin ]
+    Evidence: "la Voisin’s personal abortionist, Marie Lepère"
+
+[ Louis Bourdaloue ] --(Associate Of)--> [ François-Henri de Montmorency, duc de Luxembourg ]
+    Evidence: "he was attended by the famous Jesuit Priest [Louis] Bourdaloue"
+
+[ Marie Bosse's eldest son ] --(Child Of)--> [ Marie Bosse ]
+    Evidence: "Marie Bosse’s eldest son"
+
+[ M. d’Ormesson ] --(Member Of)--> [ Chambre Ardente ]
+    Evidence: "M. d’Ormesson, one of the commissioners of the Chambre Ardente"
+
+[ M. d’Ormesson ] --(Cousin Of)--> [ Mme Françoise de Dreux ]
+    Evidence: "Indeed, M. d’Ormesson, one of the commissioners of the Chambre Ardente, was a cousin."
+
+[ Mme Françoise de Dreux ] --(Lives In)--> [ Rue des Tournelles ]
+    Evidence: "Mme Françoise de Dreux, an extremely attractive thirty-year-old who lived in the Rue des Tournelles"
+
+[ Montvoisin ] --(Associate Of)--> [ Latour ]
+    Evidence: "Her lovers included [...] Latour"
+
+[ Montvoisin ] --(Partner Of)--> [ Marie Bosse ]
+    Evidence: "La Voisin’s partnership with the abortionist Bosse"
+
+[ Montvoisin ] --(Associate Of)--> [ M. Herault ]
+    Evidence: "Her lovers included [...] the tavern keeper M. Herault"
+
+[ Montvoisin ] --(Associate Of)--> [ Adam Lesage ]
+    Evidence: "Her lovers included magicians and alchemists such
+as [Adam] Lesage"
+
+[ Montvoisin ] --(Associate Of)--> [ Denis Poculot ]
+    Evidence: "Her lovers included magicians and alchemists such
+as [Adam] Lesage [a key figure in the Affair of the Poisons], 
+[alchemist Denis Poculot, Sieur de] Blessis"
+
+[ Montvoisin ] --(Associate Of)--> [ Vicomte de Cousserans ]
+    Evidence: "She even had a brief affair with a member of the
+Aristocracy, the Vicomte de Cousserans"
+
+[ la Voisin ] --(Spouse Of)--> [ Antoine Montvoisin ]
+    Evidence: "La Voisin’s husband, Antoine Montvoisin"
+
+[ Somerset ] --(Critic Of)--> [ la Voisin ]
+    Evidence: "Somerset acknowledges la Voisin’s popularity"
+
+[ Mme Cottard ] --(Partner Of)--> [ Forne ]
+    Evidence: "Mme Cottard, who wanted her lover Forne to marry her"
+
+[ M. de Prade ] --(Interacted With)--> [ Mme Voisin ]
+    Evidence: "Mme Voisin, was requested by a M. de Prade to bring about a marriage"
+
+[ Mme Vertemart ] --(Interacted With)--> [ Mme Voisin ]
+    Evidence: "Mme Vertemart told the notorious divineress Mme Voisin that she wanted to be rid of her husband"
+
+[ Giovanni-Battista Primi Visconti ] --(Employee Of)--> [ Vatican ]
+    Evidence: "he was a diplomat on behalf of the Vatican"
+
+[ Novara ] --(Lives In)--> [ Piedmont ]
+    Evidence: "Bishop of Novara in the Piedmont of Italy"
+
+[ Piedmont ] --(Lives In)--> [ Italy ]
+    Evidence: "Piedmont of Italy"
+
+[ Chateau de Vincennes ] --(Lives In)--> [ Paris ]
+    Evidence: "Chateau de Vincennes, a royal fortress on the eastern edge of Paris"
+
+[ Primi Visconti ] --(Associate Of)--> [ Marie Vigoreux ]
+    Evidence: "Primi Visconti had come across la Vigoreux when the Marquise de Vassé had engaged her to tell fortunes at one of her parties and he had been very impressed by her powers."
+
+[ Marquise de Vassé ] --(Associate Of)--> [ Marie Vigoreux ]
+    Evidence: "when the Marquise de Vassé had engaged her to tell fortunes at one of her parties"
+
+[ Jean Barthominat ] --(Subordinate Of)--> [ Louis Vanens ]
+    Evidence: "Vanens’ servant Jean Barthominat"
+
+[ Michel Le Tellier ] --(Child Of)--> [ François-Michel le Tellier, Marquis de Louvois ]
+    Evidence: "groomed by his father, Michel Le Tellier"
+
+[ Magdelaine de La Grange ] --(Associate Of)--> [ Jean Faurye ]
+    Evidence: "She began eking out a life as a fortune teller until she was taken in by an elderly lawyer named Jean Faurye."
+
+[ François-Michel le Tellier, Marquis de Louvois ] --(Parent Of)--> [ Michel Le Tellier ]
+    Evidence: "groomed by his father, Michel Le Tellier"
+
+[ Magdelaine de La Grange ] --(Spouse Of)--> [ Magdelaine de La Grange's husband ]
+    Evidence: "A woman named Magdelaine de La Grange was widowed when her husband"
+
+[ The Sun King ] --(Employer Of)--> [ Chambre Ardente ]
+    Evidence: "Louis commissioned a Chambre Ardente"
+
+[ de Brinvilliers ] --(Associate Of)--> [ Edmé Pirot ]
+    Evidence: "For more than four hours Mme de Brinvilliers was closeted with Pirot in the Conciergerie chapel."
+
+[ Anne Somerset ] --(Associate Of)--> [ Edmé Pirot ]
+    Evidence: "Anne Somerset appears to have availed herself of Jesuit Edmé Pirot’s written account"
+
+[ de Brinvilliers ] --(Associate Of)--> [ Edmé Pirot ]
+    Evidence: "Afterwards, she was given into the care of her Jesuit Confessor."
+
+[ Pirot ] --(Interacted With)--> [ de Brinvilliers ]
+    Evidence: "Pirot saw Mme de Brinvilliers for the first time on the morning of 16 July."
+
+[ Guillaume Lamoignon ] --(Leader Of)--> [ Paris Parlement ]
+    Evidence: "First President of the Paris Parlement, Guillaume Lamoignon"
+
+[ Edmé Pirot ] --(Associate Of)--> [ Marie de Brinvilliers ]
+    Evidence: "The man selected for the task was a Jesuit professor of theology named Edmé Pirot... to minister to the condemned woman during her final hours."
+
+[ Sainte-Croix ] --(Partner Of)--> [ Mme de Brinvilliers ]
+    Evidence: "two were the product of her fourteen-year union with Sainte-Croix"
+
+[ Louis, duc´d Burgundy ] --(Parent Of)--> [ Louis of Bourbon ]
+    Evidence: "Louis of Bourbon, offspring of Louis, duc´d Burgundy"
+
+[ Leopold I ] --(Ally Of)--> [ William III ]
+    Evidence: "Leopold I allied himself with Protestant William (Willem) III of England"
+
+[ Marie Adélaïde of Savoy ] --(Parent Of)--> [ Louis of Bourbon ]
+    Evidence: "Louis of Bourbon, offspring of Louis, duc´d Burgundy and Marie Adélaïde of Savoy"
+
+[ William of Orange ] --(Spouse Of)--> [ Mary ]
+    Evidence: "William (“Willem III”) was married to James’ daughter Mary"
+
+[ James ] --(Parent Of)--> [ Mary ]
+    Evidence: "James’ daughter Mary"
+
+[ Philippe, duc d´Anjou ] --(Grandchild Of)--> [ Louis ]
+    Evidence: "Louis’ grandson Philippe, duc d´Anjou"
+
+[ Charles Stewart Parnell ] --(Leader Of)--> [ Irish Parliamentary Party ]
+    Evidence: "Leader of the Irish Parliamentary Party from 1882 to 1891"
+
+[ Charles Stewart Parnell ] --(Leader Of)--> [ Home Rule League ]
+    Evidence: "He was Leader of the Home Rule League from 1880 to 1882"
+
+[ Henry Hyde ] --(Sibling Of)--> [ Anne Hyde ]
+    Evidence: "Henry Hyde, the brother of James’ first wife, Anne Hyde"
+
+[ Henry Hyde ] --(Sibling Of)--> [ James ]
+    Evidence: "Henry Hyde, the brother of James’ first wife"
+
+[ Edward Petre ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Petre was also the Vice Provincial of his Order in England"
+
+[ James II ] --(Member Of)--> [ Jesuits ]
+    Evidence: "James II. had been “received” as a member of the Society of Jesus"
+
+[ Edward Petre ] --(Employee Of)--> [ James II ]
+    Evidence: "he had a Jesuit confessor and “Spiritual Director.”... That was Father Edward Petre... made him publicly his “advisor”"
+
+[ Richard Talbot, 1st Earl of Tyrconnel ] --(Subordinate Of)--> [ James II ]
+    Evidence: "Tyrconnel was Lord Lieutenant of 
+Ireland, under King James II."
+
+[ Edward Petre ] --(Associate Of)--> [ James ]
+    Evidence: "James had a Jesuit confessor, Baronet Edward Petre, guiding his every move"
+
+[ Charles ] --(Sibling Of)--> [ James ]
+    Evidence: "Charles and his brother James"
+
+[ Charles II ] --(Child Of)--> [ Charles I ]
+    Evidence: "The son of Charles I, Charles II (of course), was welcomed back to rule in England."
+
+[ Richard Cromwell ] --(Child Of)--> [ Oliver Cromwell ]
+    Evidence: "With the assassination of Oliver Cromwell, his son Richard became Lord Protector of England"
+
+[ François de la Chaise ] --(Associate Of)--> [ Louis ]
+    Evidence: "In fact, the King’s Confessor was a Jesuit Priest named François de la Chaise."
+
+[ Henry IV of Navarre ] --(Employer Of)--> [ Edict of Nantes ]
+    Evidence: "The Edict of Nantes, which had been granted by “former” Protestant Henry IV of Navarre"
+
+[ Treaty of Dover ] --(Associate Of)--> [ Clifford ]
+    Evidence: "The secret treaty was signed by Arlington, Arundell, Clifford and Bellings for England"
+
+[ Treaty of Dover ] --(Associate Of)--> [ Arlington ]
+    Evidence: "The secret treaty was signed by Arlington, Arundell, Clifford and Bellings for England"
+
+[ Treaty of Dover ] --(Associate Of)--> [ Arundell ]
+    Evidence: "The secret treaty was signed by Arlington, Arundell, Clifford and Bellings for England"
+
+[ Treaty of Dover ] --(Associate Of)--> [ Bellings ]
+    Evidence: "The secret treaty was signed by Arlington, Arundell, Clifford and Bellings for England"
+
+[ Treaty of Dover ] --(Interacted With)--> [ England ]
+    Evidence: "The Treaty of Dover... was a treaty between England and France signed at Dover on 1 June[1] 1670."
+
+[ Treaty of Dover ] --(Interacted With)--> [ France ]
+    Evidence: "The Treaty of Dover... was a treaty between England and France signed at Dover on 1 June[1] 1670."
+
+[ Treaty of Dover ] --(Associate Of)--> [ Colbert de Croissy ]
+    Evidence: "signed by... Colbert de Croissy for France"
+
+[ Third Anglo-Dutch War ] --(Interacted With)--> [ Treaty of Dover ]
+    Evidence: "The Third Anglo-Dutch War was a direct consequence of this treaty"
+
+=========================================================
+

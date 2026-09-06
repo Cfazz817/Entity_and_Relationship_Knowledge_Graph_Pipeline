@@ -1,0 +1,417 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 17258
+Total Entity Mentions: 38106
+Total Relationship Assertions: 6361
+
+--- Top 100 Most Mentioned Entities ---
+- Vatican (Institution): 404 mentions
+- Rome (Location): 326 mentions
+- CIA (Institution): 306 mentions
+- Catholic Church (Institution): 184 mentions
+- Jesuits (Institution): 175 mentions
+- Italy (Location): 174 mentions
+- United States (Location): 159 mentions
+- Hitler (Person): 135 mentions
+- France (Location): 129 mentions
+- Germany (Location): 125 mentions
+- New York (Location): 104 mentions
+- Russia (Location): 104 mentions
+- Barack Obama (Person): 98 mentions
+- America (Location): 98 mentions
+- Croatia (Location): 98 mentions
+- Ustashi (Institution): 93 mentions
+- Pius XII (Person): 93 mentions
+- Roman Catholic Church (Institution): 90 mentions
+- London (Location): 88 mentions
+- FBI (Institution): 86 mentions
+- England (Location): 83 mentions
+- Society of Jesus (Institution): 76 mentions
+- Holy See (Institution): 70 mentions
+- Mussolini (Person): 70 mentions
+- Spain (Location): 68 mentions
+- Congress (Institution): 67 mentions
+- John Paul II (Person): 64 mentions
+- Johnny Cirucci (Person): 64 mentions
+- Europe (Location): 64 mentions
+- Lorenzo Ricci (Person): 64 mentions
+- Washington (Location): 58 mentions
+- New York Times (Institution): 57 mentions
+- pope (Person): 56 mentions
+- P2 (Institution): 55 mentions
+- Zagreb (Location): 55 mentions
+- White House (Institution): 54 mentions
+- Yugoslavia (Location): 53 mentions
+- Pope Pius XII (Person): 52 mentions
+- Paris (Location): 52 mentions
+- Pavelic (Person): 51 mentions
+- Sindona (Person): 51 mentions
+- Bill Clinton (Person): 50 mentions
+- IOR (Institution): 48 mentions
+- USA (Location): 48 mentions
+- Wikipedia (Institution): 47 mentions
+- The Guardian (Institution): 47 mentions
+- Washington, DC (Location): 46 mentions
+- NATO (Institution): 46 mentions
+- Church (Institution): 44 mentions
+- Central Intelligence Agency (Institution): 44 mentions
+- Austria (Location): 44 mentions
+- Obama (Person): 44 mentions
+- Jesus Christ (Person): 44 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Argentina (Location): 43 mentions
+- Kinsey (Person): 43 mentions
+- Michele Sindona (Person): 42 mentions
+- Adolf Hitler (Person): 42 mentions
+- Opus Dei (Institution): 42 mentions
+- Turkey (Location): 42 mentions
+- Gelli (Person): 41 mentions
+- Pius XI (Person): 41 mentions
+- Soviet Union (Institution): 41 mentions
+- Milan (Location): 41 mentions
+- The Vatican (Institution): 40 mentions
+- YouTube (Institution): 40 mentions
+- Gladio (Institution): 40 mentions
+- Daily Mail (Institution): 40 mentions
+- Pope Francis (Person): 39 mentions
+- Poland (Location): 39 mentions
+- CNN (Institution): 38 mentions
+- Sicily (Location): 37 mentions
+- Israel (Location): 36 mentions
+- Calvi (Person): 36 mentions
+- US (Location): 36 mentions
+- Vatican Bank (Institution): 36 mentions
+- George Washington (Person): 35 mentions
+- BBC (Institution): 35 mentions
+- Jesus (Person): 35 mentions
+- Licio Gelli (Person): 34 mentions
+- Pentagon (Institution): 34 mentions
+- John Carroll (Person): 34 mentions
+- South America (Location): 34 mentions
+- Associated Press (Institution): 33 mentions
+- Pope John Paul II (Person): 33 mentions
+- Stepinac (Person): 33 mentions
+- Ante Pavelic (Person): 33 mentions
+- Belgium (Location): 33 mentions
+- Portugal (Location): 32 mentions
+- World War II (Event): 31 mentions
+- Ukraine (Location): 31 mentions
+- Papacy (Institution): 31 mentions
+- Franz von Papen (Person): 31 mentions
+- Chicago (Location): 31 mentions
+- Australia (Location): 31 mentions
+- Afghanistan (Location): 31 mentions
+- Georgetown (Institution): 31 mentions
+- California (Location): 31 mentions
+- Aleister Crowley (Person): 31 mentions
+- State Department (Institution): 30 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Kent Willis ] --(Employee Of)--> [ American Civil Liberties Union of Virginia ]
+    Evidence: "Kent Willis, executive director of the American Civil Liberties Union of Virginia"
+
+[ American Freedom Alliance ] --(Opponent Of)--> [ California Science Center ]
+    Evidence: "The lawsuit was filed by the American Freedom Alliance, which 
+said the California Science Center inappropriately canceled an 
+event"
+
+[ Alan Lee ] --(Employee Of)--> [ Washington County schools ]
+    Evidence: "Alan 
+Lee, superintendent of Washington County schools"
+
+[ Larry Booher ] --(Employee Of)--> [ Washington County schools ]
+    Evidence: "Larry Booher 
+taught creationism in his high school biology class... said Alan 
+Lee, superintendent of Washington County schools"
+
+[ Professor Michael Reiss ] --(Employee Of)--> [ UK Royal Society ]
+    Evidence: "Professor Michael Reiss, who was director of education at Britain’s scientific academy... had to leave his post"
+
+[ Matthew C. Statler ] --(Works For)--> [ Trinity Law School ]
+    Evidence: "Matthew C. Statler, Trinity Law School"
+
+[ William Becker ] --(Colleague Of)--> [ David Coppedge ]
+    Evidence: "Lawyer William Becker, on behalf of David Coppedge"
+
+[ Jonathan B. Antcliffe ] --(Employee Of)--> [ Paleontology Online ]
+    Evidence: "~ Jonathan B. Antcliffe, Paleontology Online1942"
+
+[ Guillermo Gonzalez ] --(Employee Of)--> [ Iowa State University ]
+    Evidence: "Dr. Guillermo Gonzalez is an astrophysicist and assistant professor of Astronomy at Iowa State University (ISU)."
+
+[ Michael Behe ] --(Works For)--> [ Lehigh University ]
+    Evidence: "Dr. Michael Behe of Lehigh University"
+
+[ Discovery Institute ] --(Lives In)--> [ Seattle ]
+    Evidence: "Discovery Institute in Seattle, Wash."
+
+[ Center for Science and Culture ] --(Subordinate Of)--> [ Discovery Institute ]
+    Evidence: "Center for Science and Culture at the Discovery Institute"
+
+[ Stephen Meyer ] --(Employee Of)--> [ Center for Science and Culture ]
+    Evidence: "Dr. Stephen Meyer, director of the Center for Science and Culture"
+
+[ Snyder ] --(Lives In)--> [ Frederick Town Maryland ]
+    Evidence: "Rev’d Mr Snyder, at Frederick Town Maryland"
+
+[ Lodge Theodore ] --(Lives In)--> [ Bavaria ]
+    Evidence: "Lodge Theodore in Bavaria"
+
+[ G. W. Snyder ] --(Interacted With)--> [ George Washington ]
+    Evidence: "I send you the “Proof of a Conspiracy &c.”"
+
+[ George Washington ] --(Leader Of)--> [ English Lodge ]
+    Evidence: "the Brethren of the English Lodge over which you preside."
+
+[ George Washington Snyder ] --(Lives In)--> [ Heydelberg ]
+    Evidence: "I am a German, born and liberally educated in the City of Heydelberg in the Palatinate of the Rhine."
+
+[ George Washington Snyder ] --(Lives In)--> [ Palatinate of the Rhine ]
+    Evidence: "I am a German, born and liberally educated in the City of Heydelberg in the Palatinate of the Rhine."
+
+[ St. Ignatius Loyola ] --(Founder Of)--> [ Society of Jesus ]
+    Evidence: "The Successor of St. Ignatius Loyola, the founder of the Society of Jesus"
+
+[ St. Ignatius Loyola ] --(Founder Of)--> [ Society of Jesus ]
+    Evidence: "Society of Jesus, founded by St. Ignatius Loyola"
+
+[ Simon Ostrovsky ] --(Employee Of)--> [ VICE News ]
+    Evidence: "1933 Simon Ostrovsky Describes His Kidnapping: Russian Roulette In Ukraine (Dispatch 31), VICE News"
+
+[ Wayne Madsen ] --(Employee Of)--> [ NSA ]
+    Evidence: "NSA whistleblower-turned-journalist Wayne Madsen"
+
+[ Gideon ] --(Leader Of)--> [ Israel ]
+    Evidence: "general over the armies of Israel"
+
+[ Jonathan ] --(Child Of)--> [ Saul ]
+    Evidence: "Jonathan, the son of Israel’s first king, Saul"
+
+[ Saul ] --(Parent Of)--> [ Jonathan ]
+    Evidence: "Jonathan, the son of Israel’s first king, Saul"
+
+[ Simon Ostrovsky ] --(Employee Of)--> [ VICE News ]
+    Evidence: "VICE reporter Simon Ostrovsky"
+
+[ William Colby ] --(Employee Of)--> [ CIA ]
+    Evidence: "Former Director of the CIA William Colby"
+
+[ Tony Palmer ] --(Member Of)--> [ Communion of Evangelical Episcopal Churches ]
+    Evidence: "International Ecumenical Officer for the Communion of Evangelical Episcopal Churches, Bishop Tony Palmer."
+
+[ Michael Hastings ] --(Employee Of)--> [ Rolling Stone ]
+    Evidence: "Rolling Stone reporter Michael Hastings"
+
+[ T. Cullen Davis ] --(Founder Of)--> [ Council for National Policy ]
+    Evidence: "Council for National Policy was formed in 1981 by ... T. Cullen Davis"
+
+[ Frank Shakespeare ] --(Leader Of)--> [ Radio Free Europe ]
+    Evidence: "Frank Shakespeare-... director of Radio Free Europe"
+
+[ Tim LaHaye ] --(Founder Of)--> [ Council for National Policy ]
+    Evidence: "Council for National Policy was formed in 1981 by Tim LaHaye"
+
+[ Frank Shakespeare ] --(Leader Of)--> [ CBS Television ]
+    Evidence: "Frank Shakespeare-... former president of CBS Television"
+
+[ Herbert Hunt ] --(Founder Of)--> [ Council for National Policy ]
+    Evidence: "Council for National Policy was formed in 1981 by ... Herbert Hunt"
+
+[ Erik Prince ] --(Child Of)--> [ Elsa Prince ]
+    Evidence: "philanthropist Elsa Prince, mother of Erik Prince"
+
+[ Charles C. Fiore ] --(Leader Of)--> [ National Pro-Life PAC ]
+    Evidence: "Fr. Charles C. Fiore, chairman of the National Pro-Life PAC"
+
+[ Erik Prince ] --(Founder Of)--> [ Blackwater ]
+    Evidence: "Erik Prince, the founder of the Blackwater private security firm"
+
+[ Nelson Hunt ] --(Founder Of)--> [ Council for National Policy ]
+    Evidence: "Council for National Policy was formed in 1981 by ... Nelson Bunker Hunt"
+
+[ Philip Trulock ] --(Employee Of)--> [ Heritage Foundation ]
+    Evidence: "Philip Trulock of the Heritage Foundation"
+
+[ Frank Shakespeare ] --(Member Of)--> [ Heritage Foundation ]
+    Evidence: "Frank Shakespeare-... member of the board of trustees for the Heritage Foundation"
+
+[ Paul Weyrich ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Among its founding members were: [...], and Paul Weyrich"
+
+[ Pat Robertson ] --(Employee Of)--> [ Christian Broadcasting Network ]
+    Evidence: "Rev. Pat Robertson of the Christian Broadcasting Network"
+
+[ Paul Pressler ] --(Employee Of)--> [ Texas Court of Appeals ]
+    Evidence: "retired Texas Court of Appeals Judge Paul Pressler"
+
+[ Edwin J. Feulner Jr ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: [...] Edwin J. Feulner Jr of the Heritage Foundation"
+
+[ Paul Pressler ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: [...] retired Texas Court of Appeals Judge Paul Pressler"
+
+[ Tim LaHaye ] --(Leader Of)--> [ Moral Majority ]
+    Evidence: "Tim LaHaye, then the head of the Moral Majority"
+
+[ Marc J. Ambinder ] --(Employee Of)--> [ ABC News ]
+    Evidence: "Marc J. Ambinder of ABC News"
+
+[ Trent Lott ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: [...] U.S. Senator Trent Lott"
+
+[ John Singlaub ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: General John Singlaub"
+
+[ Tim LaHaye ] --(Founder Of)--> [ Council for National Policy ]
+    Evidence: "LaHaye founded the Council for National Policy"
+
+[ J. Peter Grace ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: General John Singlaub, shipping magnate J. Peter Grace"
+
+[ Jerry Falwell ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: [...] Jerry Falwell"
+
+[ Don Nickles ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: [...] Senator Don Nickles"
+
+[ Paige Patterson ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: [...] and the Reverend Paige Patterson"
+
+[ Tim LaHaye ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Among its founding members were: Tim LaHaye"
+
+[ Nelson Bunker Hunt ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Among its founding members were: Tim LaHaye, then the head of the Moral Majority, Nelson Bunker Hunt"
+
+[ Edwin J. Feulner Jr ] --(Employee Of)--> [ Heritage Foundation ]
+    Evidence: "Edwin J. Feulner Jr of the Heritage Foundation"
+
+[ Pat Robertson ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Members of the CNP have included: [...] Rev. Pat Robertson of the Christian Broadcasting Network"
+
+[ T. Cullen Davis ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Among its founding members were: [...], T. Cullen Davis"
+
+[ William Cies ] --(Member Of)--> [ Council for National Policy ]
+    Evidence: "Among its founding members were: [...], William Cies"
+
+[ Jeynes ] --(Employee Of)--> [ Witherspoon Institute ]
+    Evidence: "Jeynes, ... and senior fellow at the Witherspoon Institute"
+
+[ Jeynes ] --(Employee Of)--> [ California State College ]
+    Evidence: "Jeynes, professor at California State College"
+
+[ Carrolls ] --(Member Of)--> [ Jesuits ]
+    Evidence: "Jesuit agents such as the Carrolls"
+
+[ Ignatius Loyola ] --(Founder Of)--> [ Company ]
+    Evidence: "Ignatius Loyola first assembled his Company while in France in 1534."
+
+[ Christine Lagarde ] --(Works For)--> [ National Press Club ]
+    Evidence: "IMF Managing Director Christine Lagarde’s numerology promise to the National Press Club"
+
+[ Imre Schrammel ] --(Colleague Of)--> [ Tammuz ]
+    Evidence: "sits a statue of Tammuz by artist Imre Schrammel"
+
+[ Nimrod ] --(Associate Of)--> [ Semiramis ]
+    Evidence: "Whether we speak of Nimrod or the son of Semiramis, the two are joined in mythology."
+
+[ Tammuz ] --(Child Of)--> [ Semiramis ]
+    Evidence: "named after the child of Semiramis and deified in myth."
+
+[ Shem ] --(Lives In)--> [ Egypt ]
+    Evidence: "Shem came to Egypt"
+
+[ Nimrod ] --(Lives In)--> [ Italy ]
+    Evidence: "fled for his life and went into hiding in Italy."
+
+[ Shem ] --(Enemy Of)--> [ Nimrod ]
+    Evidence: "attacked the forces of Shem and his Egyptian allies.  The numbers favored Nimrod"
+
+[ Shem ] --(Child Of)--> [ Noah ]
+    Evidence: "Shem (son of Noah)"
+
+[ Noah ] --(Parent Of)--> [ Shem ]
+    Evidence: "Shem (son of Noah)"
+
+[ Raymond Arroyo ] --(Employee Of)--> [ EWTN ]
+    Evidence: "EWTN’s Raymond Arroyo weighs in."
+
+[ José G. Funes ] --(Works For)--> [ Vatican Observatory ]
+    Evidence: "José G. Funes, S.J., Vatican Observatory.org"
+
+[ Thornton McEnery ] --(Works For)--> [ Business Insider ]
+    Evidence: "Thornton McEnery, 20 February 2011, Business Insider"
+
+[ Wayne Jackson ] --(Employee Of)--> [ Christian Courier ]
+    Evidence: "Wayne Jackson, undated, Christian Courier"
+
+[ Nick Redfern ] --(Employee Of)--> [ Anomalist Books ]
+    Evidence: "Nick Redfern, Anomalist Books"
+
+[ Johnny Cirucci ] --(Employee Of)--> [ the Patriot Press ]
+    Evidence: "Johnny Cirucci, Friday, 22 August 2014, the Patriot Press"
+
+[ Benjamin Kerstein ] --(Employee Of)--> [ JewishIdeasDaily.com ]
+    Evidence: "Benjamin Kerstein, 14 September 2010, JewishIdeasDaily.com"
+
+[ Zen Gardner ] --(Employer Of)--> [ ZenGardner.com ]
+    Evidence: "Zen Gardner, 14 June 2014, Zen Gardner.com"
+
+[ Ewen Callaway ] --(Employee Of)--> [ Nature ]
+    Evidence: "Ewen Callaway, 19 November 2013, Nature"
+
+[ Edwin Abbott Abbott ] --(Employee Of)--> [ Seely & Co. ]
+    Evidence: "Edwin Abbott Abbott (...) Seely & Co."
+
+[ Mark Dice ] --(Employee Of)--> [ InfoWars ]
+    Evidence: "Mark Dice, 20 December 2010, Infowars"
+
+[ Barack Obama ] --(Lives In)--> [ Egypt ]
+    Evidence: "When Obama first toured Egypt"
+
+[ Timothy George ] --(Interacted With)--> [ Pope Francis ]
+    Evidence: "Timothy George, a respected Baptist theologian, has written an article claiming the Pope is “Our Francis, Too.”"
+
+[ Luis Palau ] --(Interacted With)--> [ Pope Francis ]
+    Evidence: "Protestant evangelist Luis Palau has prayed with Francis"
+
+[ Elizabeth Tenety ] --(Employee Of)--> [ The Washington Post ]
+    Evidence: "Elizabeth Tenety, the Washington Post"
+
+[ Chris Hayes ] --(Employee Of)--> [ MSNBC ]
+    Evidence: "MSNBC’s Chris Hayes"
+
+[ Chris Hayes ] --(Attended)--> [ Brown ]
+    Evidence: "his freshman year at Brown"
+
+[ Elihu Root ] --(Founder Of)--> [ Council on Foreign Relations ]
+    Evidence: "The CFR was founded by Carnegie lawyer Elihu Root"
+
+[ Rick Warren ] --(Founder Of)--> [ Saddleback Church ]
+    Evidence: "Rick Warren, founding pastor of Saddleback Church"
+
+[ Vali R. Nasr ] --(Employee Of)--> [ Naval Postgraduate School ]
+    Evidence: "Vali R. Nasr... professor of national security affairs at the Naval Postgraduate School."
+
+[ Vali R. Nasr ] --(Employee Of)--> [ Council on Foreign Relations ]
+    Evidence: "Vali R. Nasr, adjunct senior fellow for Middle Eastern studies at the Council"
+
+[ Rick Warren ] --(Member Of)--> [ Council on Foreign Relations ]
+    Evidence: "Rick Warren a member of the CFR"
+
+[ Richard Land ] --(Leader Of)--> [ Southern Baptist Convention ]
+    Evidence: "Richard Land, the leader of the Southern Baptist Convention"
+
+[ Rick Warren ] --(Collaborator Of)--> [ Pope Francis ]
+    Evidence: "Pope Francis is building religious bridges as if he were “purpose- driven” and Rick Warren is helping him do it."
+
+[ Patriarch Bartholomew ] --(Leader Of)--> [ Orthodox Church ]
+    Evidence: "Patriarch Bartholomew, the spiritual head of the Orthodox Church"
+
+[ Al-Suyuti ] --(Member Of)--> [ Shafi’i School of fiqh ]
+    Evidence: "Al-Suyuti (one of the latter-day authorities of the Shafi’i School of fiqh)"
+
+=========================================================
+

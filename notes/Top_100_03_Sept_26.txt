@@ -1,0 +1,431 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 23543
+Total Entity Mentions: 54483
+Total Relationship Assertions: 9603
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 625 mentions
+- Vatican (Institution): 518 mentions
+- CIA (Institution): 339 mentions
+- Jesuits (Institution): 271 mentions
+- Catholic Church (Institution): 256 mentions
+- France (Location): 233 mentions
+- Italy (Location): 233 mentions
+- United States (Location): 227 mentions
+- England (Location): 192 mentions
+- Germany (Location): 188 mentions
+- Hitler (Person): 141 mentions
+- America (Location): 137 mentions
+- New York (Location): 135 mentions
+- Roman Catholic Church (Institution): 134 mentions
+- London (Location): 129 mentions
+- Barack Obama (Person): 126 mentions
+- Luther (Person): 115 mentions
+- Russia (Location): 114 mentions
+- FBI (Institution): 111 mentions
+- Croatia (Location): 102 mentions
+- Europe (Location): 97 mentions
+- Pius XII (Person): 97 mentions
+- Society of Jesus (Institution): 96 mentions
+- Spain (Location): 96 mentions
+- Paris (Location): 95 mentions
+- Ustashi (Institution): 93 mentions
+- Church (Institution): 93 mentions
+- Martin Luther (Person): 87 mentions
+- pope (Person): 84 mentions
+- Jesus Christ (Person): 84 mentions
+- Wikipedia (Institution): 83 mentions
+- Holy See (Institution): 79 mentions
+- Congress (Institution): 78 mentions
+- Papacy (Institution): 76 mentions
+- New York Times (Institution): 75 mentions
+- Mussolini (Person): 72 mentions
+- Washington (Location): 71 mentions
+- Johnny Cirucci (Person): 66 mentions
+- John Paul II (Person): 66 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 64 mentions
+- Jesus (Person): 64 mentions
+- Bill Clinton (Person): 62 mentions
+- White House (Institution): 60 mentions
+- World War II (Event): 57 mentions
+- California (Location): 57 mentions
+- Austria (Location): 55 mentions
+- Pope Pius XII (Person): 55 mentions
+- P2 (Institution): 55 mentions
+- Florence (Location): 55 mentions
+- Zagreb (Location): 55 mentions
+- Washington, DC (Location): 54 mentions
+- Ireland (Location): 54 mentions
+- Yugoslavia (Location): 54 mentions
+- Adolf Hitler (Person): 53 mentions
+- United States government (Institution): 53 mentions
+- Georgetown (Institution): 52 mentions
+- The Guardian (Institution): 52 mentions
+- Pavelic (Person): 51 mentions
+- Opus Dei (Institution): 51 mentions
+- Sindona (Person): 51 mentions
+- USA (Location): 49 mentions
+- CNN (Institution): 49 mentions
+- Milan (Location): 49 mentions
+- The Vatican (Institution): 48 mentions
+- Obama (Person): 48 mentions
+- IOR (Institution): 48 mentions
+- Poland (Location): 48 mentions
+- Chicago (Location): 47 mentions
+- Australia (Location): 47 mentions
+- Donald Trump (Person): 47 mentions
+- Israel (Location): 47 mentions
+- Turkey (Location): 46 mentions
+- NATO (Institution): 46 mentions
+- Anthony Fauci (Person): 46 mentions
+- Pope Francis (Person): 46 mentions
+- Maryland (Location): 46 mentions
+- Soviet Union (Institution): 46 mentions
+- Henry (Person): 45 mentions
+- George Washington (Person): 44 mentions
+- US (Location): 44 mentions
+- John F. Kennedy (Person): 44 mentions
+- Argentina (Location): 43 mentions
+- Pius XI (Person): 43 mentions
+- Kinsey (Person): 43 mentions
+- Banco Ambrosiano (Institution): 43 mentions
+- Inquisition (Institution): 42 mentions
+- Pentagon (Institution): 42 mentions
+- Jerusalem (Location): 42 mentions
+- Michele Sindona (Person): 42 mentions
+- Daily Mail (Institution): 42 mentions
+- YouTube (Institution): 42 mentions
+- New York City (Location): 41 mentions
+- Gelli (Person): 41 mentions
+- Dracula (Event): 41 mentions
+- China (Location): 41 mentions
+- Christ (Person): 41 mentions
+- Gladio (Institution): 40 mentions
+- BBC (Institution): 40 mentions
+- Mary (Person): 40 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ John Calvin ] --(Member Of)--> [ Geneva Reformers ]
+    Evidence: "Geneva Reformers — men such as John Calvin"
+
+[ Edward VI ] --(Cousin Of)--> [ Jane Grey ]
+    Evidence: "bequeath the Crown to his cousin, Jane Grey."
+
+[ Edward VI ] --(Sibling Of)--> [ Elizabeth ]
+    Evidence: "did Edward pass over his half-sister Elizabeth"
+
+[ Lord Guilford ] --(Spouse Of)--> [ Lady Jane ]
+    Evidence: "the lord Guilford, her husband"
+
+[ Duke of Northumberland ] --(Parent Of)--> [ Lord Guilford ]
+    Evidence: "the lord Guilford... one of the duke of Northumberland’s sons"
+
+[ Lady Jane Grey ] --(Enemy Of)--> [ Mary ]
+    Evidence: "incurred the implacable resentment of the bloody Mary"
+
+[ Duke of Northumberland ] --(Supporter Of)--> [ Lady Jane Grey ]
+    Evidence: "The supporters of Lady Jane Grey were destined to feel its force.  The duke of Northumberland was the first"
+
+[ Mary ] --(Sibling Of)--> [ Edward ]
+    Evidence: "her brother Edward"
+
+[ Mary ] --(Child Of)--> [ Henry ]
+    Evidence: "her father, king Henry"
+
+[ Duke of Northumberland ] --(Parent Of)--> [ Lord Guilford ]
+    Evidence: "the lord Guilford, the son of the duke of Northumberland"
+
+[ Edward VI ] --(Sibling Of)--> [ Elizabeth ]
+    Evidence: "Mary and Elizabeth, his two sisters"
+
+[ Lord Guilford ] --(Spouse Of)--> [ Lady Jane ]
+    Evidence: "who had been married to the lord Guilford"
+
+[ Edward VI ] --(Sibling Of)--> [ Mary ]
+    Evidence: "Mary and Elizabeth, his two sisters"
+
+[ Duke of Suffolk ] --(Parent Of)--> [ Lady Jane ]
+    Evidence: "lady Jane, the daughter of the duke of Suffolk"
+
+[ Lord Guilford ] --(Child Of)--> [ Duke of Northumberland ]
+    Evidence: "the lord Guilford, the son of the duke of Northumberland"
+
+[ Lady Jane ] --(Child Of)--> [ Duke of Suffolk ]
+    Evidence: "lady Jane, the daughter of the duke of Suffolk"
+
+[ Lady Jane ] --(Spouse Of)--> [ Lord Guilford ]
+    Evidence: "who had been married to the lord Guilford"
+
+[ Roderigo ] --(Parent Of)--> [ Lucrezia ]
+    Evidence: "Papacy of their father, Roderigo."
+
+[ Roderigo ] --(Parent Of)--> [ Cesare ]
+    Evidence: "Papacy of their father, Roderigo."
+
+[ Roderigo ] --(Parent Of)--> [ Cesare ]
+    Evidence: "Lucrezia and even Cesare"
+
+[ Santa Maria in Monserrato ] --(Lives In)--> [ Rome ]
+    Evidence: "churches of Rome, Santa Maria in Monserrato"
+
+[ Roderigo ] --(Parent Of)--> [ Lucrezia ]
+    Evidence: "Lucrezia and even Cesare"
+
+[ Pope Alexander ] --(Enemy Of)--> [ Giovanni Baptista Ferrari ]
+    Evidence: "Pope Alexander continued to murder his allies, even those he empowered by his own hand like Cardinal Giovanni Baptista Ferrari"
+
+[ Dan Mitrione ] --(Lives In)--> [ Richmond, Indiana ]
+    Evidence: "Police Chief of Richmond, Indiana"
+
+[ Pope Alexander ] --(Superior Of)--> [ Adriano de Castello ]
+    Evidence: "Pope Alexander appointed Hadrian Cardinal in Giovanni Baptista’s place"
+
+[ Dan Mitrione ] --(Employee Of)--> [ FBI ]
+    Evidence: "Roman Catholic FBI agent Dan Mitrione"
+
+[ Cesare ] --(Sibling Of)--> [ Lucrezia ]
+    Evidence: "his sister Lucrezia"
+
+[ Cesare ] --(Child Of)--> [ Rodrigo Borgia ]
+    Evidence: "Pope Alexander had at least five children.  His son Cesare"
+
+[ Cesare ] --(Sibling Of)--> [ Giovanni ]
+    Evidence: "his older brother Giovanni"
+
+[ the Pope ] --(Parent Of)--> [ the pope's daughter ]
+    Evidence: "the pope and his daughter"
+
+[ Cesare ] --(Lives In)--> [ Vatican ]
+    Evidence: "The apartment of Cesare was of course in the Vatican."
+
+[ Patty Bonds ] --(Sibling Of)--> [ James White ]
+    Evidence: "White’s sister, Patty Bonds"
+
+[ Lucrezia ] --(Child Of)--> [ Borgia ]
+    Evidence: "the pope and his daughter Lucrezia"
+
+[ Duke of Gandia ] --(Child Of)--> [ Borgia ]
+    Evidence: "the pope’s favorite son, the young Duke of Gandia"
+
+[ Lucrezia Borgia ] --(Child Of)--> [ Alexander VI ]
+    Evidence: "enjoying the show with his two of his favorite children, Cesare and Lucrezia Borgia"
+
+[ Cesare Borgia ] --(Child Of)--> [ Alexander VI ]
+    Evidence: "hosted by Pope Alexander VI and his son Cesare Borgia"
+
+[ Alexander VI ] --(Lives In)--> [ Apostolic Palace ]
+    Evidence: "Held in the official residence of the Pope himself — the Apostolic Palace"
+
+[ Cesare Borgia ] --(Child Of)--> [ Alexander VI ]
+    Evidence: "enjoying the show with his two of his favorite children, Cesare and Lucrezia Borgia"
+
+[ Cesare ] --(Child Of)--> [ Borgia Pope ]
+    Evidence: "the Pope’s illegitimate children, Lucrezia and Cesare"
+
+[ Ashton Kutcher ] --(Spouse Of)--> [ Demi Moore ]
+    Evidence: "Kutcher’s first wife, Demi Moore"
+
+[ Ashton Kutcher ] --(Spouse Of)--> [ Milena Markovna “Mila” Kunis ]
+    Evidence: "Ashton Kutcher, who was raised devout 
+Roman Catholic but claims that his Jewish second wife, Milena 
+Markovna “Mila” Kunis"
+
+[ Milena Markovna “Mila” Kunis ] --(Student Of)--> [ Jesuits ]
+    Evidence: "Kunis is another 
+example of a Jew who was trained by the Jesuits"
+
+[ Milena Markovna “Mila” Kunis ] --(Attended)--> [ Loyola Marymount ]
+    Evidence: "trained by the Jesuits at Loyola Marymount"
+
+[ Lucrezia ] --(Child Of)--> [ Borgia Pope ]
+    Evidence: "the Pope’s illegitimate children, Lucrezia"
+
+[ Macaulay Culkin ] --(Member Of)--> [ Pizza Underground ]
+    Evidence: "Macaulay Culkin who was almost certainly abused but laughs about it 
+via his satirical band “Pizza Underground”."
+
+[ Milena Markovna “Mila” Kunis ] --(Associate Of)--> [ Macaulay Culkin ]
+    Evidence: "Kunis dated 
+child star Macaulay Culkin"
+
+[ Sumner Redstone ] --(Owner Of)--> [ Viacom ]
+    Evidence: "the billionaire Jew who has controlled companies such as CBS, Viacom and Paramount — Sumner Redstone"
+
+[ Jon Voight ] --(Parent Of)--> [ Angelina Jolie ]
+    Evidence: "Angelina Jolie (father Jon Voight"
+
+[ Sumner Redstone ] --(Owner Of)--> [ CBS ]
+    Evidence: "the billionaire Jew who has controlled companies such as CBS, Viacom and Paramount — Sumner Redstone"
+
+[ Sumner Redstone ] --(Owner Of)--> [ Paramount ]
+    Evidence: "the billionaire Jew who has controlled companies such as CBS, Viacom and Paramount — Sumner Redstone"
+
+[ Jesuits ] --(Mentor Of)--> [ Sumner Redstone ]
+    Evidence: "This allowed the Jesuits to mentor their pupil"
+
+[ Johann Adam Weishaupt ] --(Founder Of)--> [ Illuminati ]
+    Evidence: "Johann Adam Weishaupt, the converted Jew and founder of the 
+“Illuminati”"
+
+[ Celebrano ] --(Employee Of)--> [ Pius XI ]
+#in
+    Evidence: "Pius XI, whose two confessors, Fathers Alissiardi and Celebrano, were Jesuits."
+
+[ Alissiardi ] --(Employee Of)--> [ Pius XI ]
+    Evidence: "Pius XI, whose two confessors, Fathers Alissiardi and Celebrano, were Jesuits."
+
+[ Johann Adam Weishaupt ] --(Employee Of)--> [ Ingolstadt College ]
+    Evidence: "Johann Adam Weishaupt... was also a Jesuit Professor at Ingolstadt."
+
+[ Pius XI ] --(Founder Of)--> [ Catholic Action ]
+    Evidence: "Catholic Action was inaugurated in 1922 by Pius XI"
+
+[ Eusebio Kino ] --(Employee Of)--> [ Ingolstadt College ]
+    Evidence: "Eusebio Kino... was a Jesuit professor from Ingolstadt College in Bavaria."
+
+[ Thomas Alva Edison ] --(Lives In)--> [ West Orange, New Jersey ]
+    Evidence: "Edison had a pet name for the tar-papered studio in West Orange, New Jersey"
+
+[ Giulio ] --(Child Of)--> [ Lorenzo de'Medici ]
+    Evidence: "Lorenzo de´Medici’s adopted nephew Giulio"
+
+[ Savonarola ] --(Founder Of)--> [ The Triumph of the Cross ]
+    Evidence: "Savonarola managed to write two 
+pamphlets while in prison; The Triumph of the Cross"
+
+[ Savonarola ] --(Founder Of)--> [ Prison Meditations on Psalms 51 and 31 ]
+    Evidence: "Savonarola managed to write two 
+pamphlets while in prison... Prison Meditations on Psalms 51 and 31"
+
+[ Martin Luther ] --(Lives In)--> [ Strasburg ]
+    Evidence: "Martin Luther at 
+Strasburg in 1524"
+
+[ Niccolò Machiavelli ] --(Employee Of)--> [ Signoria ]
+    Evidence: "The Secretary to the Signoria was at the execution."
+
+[ Luca Landucci ] --(Member Of)--> [ Florence ]
+    Evidence: "Florentine apothecary Luca Landucci"
+
+[ Niccolò Machiavelli ] --(Employee Of)--> [ Vatican ]
+    Evidence: "Florentine Ambassador to the Vatican"
+
+[ Cesare de Borgia ] --(Leader Of)--> [ Papal delegation ]
+    Evidence: "armed Papal delegation led by Cesare de Borgia"
+
+[ Pope Alexander VI ] --(Opponent Of)--> [ Savonarola ]
+#in
+    Evidence: "The Pope summoned Savonarola to Rome but he simply refused... excommunicated the Priest."
+
+[ Arrabbiati ] --(Enemy Of)--> [ Savonarola ]
+    Evidence: "Arrabbiati [“the enraged” 
+enemies of Savonarola]"
+
+[ Pope Alexander VI ] --(Member Of)--> [ House of Borgia ]
+    Evidence: "Pope Alexander VI, of the House of Borgia"
+
+[ Alfonso of Aragon ] --(Child Of)--> [ King of Naples ]
+    Evidence: "Alfonso of Aragon, son of the king of Naples"
+
+[ Sancia ] --(Sibling Of)--> [ Alfonso of Aragon ]
+    Evidence: "Like his sister, Sancia, he was illegitimate"
+
+[ Fra Domenico da Pescia ] --(Subordinate Of)--> [ Savonarola ]
+    Evidence: "one of his followers... Fra Domenico da Pescia"
+
+[ Ludovico Sforza ] --(Lives In)--> [ Milan ]
+    Evidence: "Ludovico Sforza, Duke of Milan"
+
+[ Ludovico Sforza ] --(Ally Of)--> [ Roderigo de Borgia ]
+    Evidence: "spies of Borgia’s ally, Ludovico Sforza"
+
+[ Cesare ] --(Sibling Of)--> [ Juan de Borgia ]
+    Evidence: "his brother Cesare"
+
+[ Pietro Perugino ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Pietro] 
+Perugino ... were to be reckoned more or less distinctly among his followers"
+
+[ Ferrucci ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Ferrucci ... were to be reckoned more or less distinctly among his followers"
+
+[ Michael Angelo ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Michael Angelo ... were to be reckoned more or less distinctly among his followers"
+
+[ Sandro Botticelli ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Sandro Botticelli ... were to be reckoned more or less distinctly among his followers"
+
+[ Baccio da Montelupo ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Baccio da Montelupo ... were to be reckoned more or less distinctly among his followers"
+
+[ Baccio Baldini ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Baccio Baldini ... were to be reckoned more or less distinctly among his followers"
+
+[ Simone del Pollaiolo ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Cronaca ... were to be reckoned more or less distinctly among his followers"
+
+#in
+[ Giovanni Carniola ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Giovanni Carniola ... were to be reckoned more or less distinctly among his followers"
+
+[ Lorenzo di Credi ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Lorenzo di Credi ... were to be reckoned more or less distinctly among his followers"
+
+[ Luca della Robbia ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Luca della Robbia ... were to be reckoned more or less distinctly among his followers"
+
+[ Fra Bartolommeo della Porta ] --(Friend Of)--> [ Savonarola ]
+    Evidence: "the painter Fra Bartolommeo 
+della Porta, was his close and devoted friend."
+
+[ Lorenzo de’ Medici ] --(Employer Of)--> [ Birth of Venus ]
+    Evidence: "Birth of Venus (goddess of love / lust), by Sandro Botticelli 
+under commission from Lorenzo de´Medici."
+
+[ Fra Girolamo ] --(Leader Of)--> [ San Marco ]
+    Evidence: "the Prior of 
+San Marco"
+
+[ Donald Rumsfeld ] --(Attended)--> [ Georgetown Law ]
+    Evidence: "Donald Rumsfeld from Georgetown Law"
+#in
+
+[ Sandro Botticelli ] --(Collaborator Of)--> [ Birth of Venus ]
+    Evidence: "Birth of Venus (goddess of love / lust), by Sandro Botticelli 
+under commission from Lorenzo de´Medici."
+
+[ Medici ] --(Employer Of)--> [ Sandro Botticelli ]
+    Evidence: "the Medici were among Botticelli’s most important patrons."
+
+[ David M. Reis ] --(Works For)--> [ University of Oregon ]
+    Evidence: "Doctor David M. Reis... become a Professor at the public University of Oregon"
+
+[ David M. Reis ] --(Graduate Of)--> [ Santa Clara ]
+    Evidence: "Doctor David M. Reis (who took his Jesuit Bachelor’s from Santa Clara"
+
+[ Sandro Botticelli ] --(Ally Of)--> [ Savonarola ]
+    Evidence: "Savonarola found an ally in the prominent Renaissance artist Sandro Botticelli."
+
+[ Fra Domenico da Pescia ] --(Subordinate Of)--> [ Savonarola ]
+    Evidence: "Through [devoted subordinate] Fra Domenico [da Pescia]"
+
+[ Bill Maher ] --(Employer Of)--> [ Politically Incorrect with Bill Maher ]
+    Evidence: "From 1993 to 2002 he hosted the inversely-named “Politically Incorrect with Bill Maher”"
+
+[ Lorenzo de’ Medici ] --(Employer Of)--> [ Sandro Botticelli ]
+    Evidence: "paying such notables as Sandro Botticelli... to live in his villa and do nothing but ply their trade"
+
+[ Lorenzo de’ Medici ] --(Employer Of)--> [ Leonardo da Vinci ]
+    Evidence: "paying such notables as... Leonardo da Vinci... to live in his villa and do nothing but ply their trade"
+
+[ Lorenzo de’ Medici ] --(Employer Of)--> [ Michelangelo Buonarroti ]
+    Evidence: "paying such notables as... and Michelangelo Buonarroti to live in his villa and do nothing but ply their trade"
+
+[ Dominicans of San Marco ] --(Collaborator Of)--> [ Fra Girolamo ]
+    Evidence: "With the Dominicans of San Marco helping him, he organized the youth of Florence as a counter-army"
+
+=========================================================
+
