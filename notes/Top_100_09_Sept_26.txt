@@ -1,0 +1,439 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 29257
+Total Entity Mentions: 72249
+Total Relationship Assertions: 11910
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 921 mentions
+- Vatican (Institution): 600 mentions
+- France (Location): 445 mentions
+- Italy (Location): 359 mentions
+- CIA (Institution): 353 mentions
+- Jesuits (Institution): 335 mentions
+- Catholic Church (Institution): 334 mentions
+- England (Location): 305 mentions
+- Church (Institution): 284 mentions
+- United States (Location): 266 mentions
+- Inquisition (Institution): 260 mentions
+- Germany (Location): 247 mentions
+- Paris (Location): 207 mentions
+- Spain (Location): 172 mentions
+- Europe (Location): 171 mentions
+- Luther (Person): 164 mentions
+- America (Location): 154 mentions
+- Holy See (Institution): 147 mentions
+- London (Location): 146 mentions
+- Hitler (Person): 145 mentions
+- Roman Catholic Church (Institution): 144 mentions
+- New York (Location): 141 mentions
+- Papacy (Institution): 137 mentions
+- Barack Obama (Person): 128 mentions
+- Russia (Location): 125 mentions
+- pope (Person): 124 mentions
+- Christ (Person): 120 mentions
+- Toulouse (Person): 120 mentions
+- Pius XII (Person): 115 mentions
+- Jesus Christ (Person): 113 mentions
+- FBI (Institution): 112 mentions
+- Florence (Location): 109 mentions
+- John (Person): 107 mentions
+- Austria (Location): 106 mentions
+- Croatia (Location): 104 mentions
+- Society of Jesus (Institution): 103 mentions
+- Milan (Location): 102 mentions
+- US (Location): 102 mentions
+- Martin Luther (Person): 97 mentions
+- Ustashi (Institution): 93 mentions
+- Paul (Person): 93 mentions
+- Dominicans (Institution): 92 mentions
+- Washington (Location): 90 mentions
+- Wikipedia (Institution): 87 mentions
+- Franciscans (Institution): 85 mentions
+- Languedoc (Location): 83 mentions
+- Pope Pius XII (Person): 83 mentions
+- Carcassonne (Location): 81 mentions
+- Congress (Institution): 80 mentions
+- Ireland (Location): 79 mentions
+- Jesus (Person): 77 mentions
+- Henry (Person): 76 mentions
+- Diem (Person): 75 mentions
+- New York Times (Institution): 75 mentions
+- Mussolini (Person): 73 mentions
+- Raymond (Person): 69 mentions
+- Mary (Person): 68 mentions
+- Savonarola (Person): 68 mentions
+- John Paul II (Person): 67 mentions
+- Vietnam (Location): 67 mentions
+- Sicily (Location): 66 mentions
+- Daniel (Person): 66 mentions
+- Johnny Cirucci (Person): 66 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 65 mentions
+- Poland (Location): 65 mentions
+- White House (Institution): 64 mentions
+- Innocent (Person): 64 mentions
+- Jerusalem (Location): 63 mentions
+- World War II (Event): 63 mentions
+- Templars (Institution): 62 mentions
+- Portugal (Location): 62 mentions
+- Bill Clinton (Person): 62 mentions
+- Order (Institution): 62 mentions
+- Louis (Person): 60 mentions
+- Avignon (Location): 60 mentions
+- Reformation (Event): 59 mentions
+- God (Person): 59 mentions
+- Washington, DC (Location): 59 mentions
+- Waldenses (Institution): 58 mentions
+- Israel (Location): 58 mentions
+- Lombardy (Location): 57 mentions
+- California (Location): 57 mentions
+- Constantine (Person): 57 mentions
+- Church of Rome (Institution): 56 mentions
+- John XXII (Person): 56 mentions
+- The Church (Institution): 56 mentions
+- P2 (Institution): 55 mentions
+- Zagreb (Location): 55 mentions
+- Hungary (Location): 55 mentions
+- United States government (Institution): 54 mentions
+- The Guardian (Institution): 54 mentions
+- Adolf Hitler (Person): 54 mentions
+- Yugoslavia (Location): 54 mentions
+- Francis (Person): 53 mentions
+- Opus Dei (Institution): 52 mentions
+- Georgetown (Institution): 52 mentions
+- Charles (Person): 52 mentions
+- The Vatican (Institution): 52 mentions
+- Roman Empire (Institution): 52 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Pierre de Cherrut ] --(Member Of)--> [ Order ]
+    Evidence: "Another serving brother, Pierre de Chcrrut"
+
+[ Jean d'Aumones ] --(Member Of)--> [ Order ]
+    Evidence: "Jean d'Aumones, a serving brother"
+
+[ Hugues de Peraud ] --(Leader Of)--> [ France ]
+    Evidence: "Hugues
+de Peraud, the Visitor of France"
+
+[ Eugenius IV ] --(Employer Of)--> [ Bishop of Castello ]
+    Evidence: "get Eugenius lY. to order the Bishop of Castello (Yenice) to assist him"
+
+[ Fra Niccolo Mucio of Yenice ] --(Works For)--> [ Treviso ]
+    Evidence: "Fra Niccolo Mucio of Yenice was made Inquisitor of Treviso"
+
+[ Fra Michele da Pisa ] --(Works For)--> [ Treviso ]
+    Evidence: "Fra Michele da Pisa, the Inquisitor of Treviso"
+
+[ Gaucher de Liancourt ] --(Employer Of)--> [ Keims ]
+    Evidence: "Gaucher de Liancourt, Preceptor of Keims"
+
+[ Gui Dauphin ] --(Member Of)--> [ Order ]
+    Evidence: "Gui Dauphin, one of the high officers of the Order"
+
+[ Niccolo Eegino ] --(Employer Of)--> [ Grosseto ]
+    Evidence: "Niccolo Eegino, Preceptor of Grosseto"
+
+[ Egidio ] --(Employer Of)--> [ San Gemignano of Florence ]
+    Evidence: "Egidio, Preceptor of San Gemignano of Florence"
+
+[ Geoffroi de Charney ] --(Employer Of)--> [ Normandy ]
+    Evidence: "Geoffroi de Charney, Preceptor of Normandy"
+
+[ Bernardino of Siena ] --(Member Of)--> [ Observantines ]
+    Evidence: "Bernardino of Siena, the saintly head of the Observantines"
+
+[ Bernardo del Bosco ] --(Employee Of)--> [ Calixtus III ]
+    Evidence: "Calixtus III. ordered his nuncio in those parts, Master Bernardo del Bosco"
+
+[ Giovanni da Capistrano ] --(Leader Of)--> [ Mantua ]
+    Evidence: "commissioning the Observantine Franciscan, Giovanni da
+Capistrano, as a
+special inquisitor
+against the heretics of Mantua"
+
+[ Fra Ubertino di Carleone ] --(Lives In)--> [ Lipari ]
+    Evidence: "Bishop of Lipari"
+
+[ Giovanni da Capistrano ] --(Friend Of)--> [ Giacomo ]
+    Evidence: "Capistrano and his friend Giacomo"
+
+[ Lucas ] --(Member Of)--> [ Bohemian Brethren ]
+    Evidence: "envoys from the Bohemian Brethren, Lucas and Thomas"
+
+[ Thomas ] --(Member Of)--> [ Bohemian Brethren ]
+    Evidence: "envoys from the Bohemian Brethren, Lucas and Thomas"
+
+[ Waldenses ] --(Collaborator Of)--> [ Protestants of Switzerland ]
+    Evidence: "in 1530, the Waldenses opened negotiations with the Protestants
+of Switzerland, resulting in their final incorporation with the Cal-
+vinists."
+
+[ Frederic ] --(Member Of)--> [ House of Aragon ]
+    Evidence: "King
+Frederic, the confirmation by the crown of the agreements with
+the nobles"
+
+[ Thomas Germanus ] --(Member Of)--> [ Unitas Fratrum of Bohemia ]
+    Evidence: "Lucas
+of Prague and Thomas Ger-
+manus, envoys of the Unitas Fratrum of Bohemia"
+
+[ Lucas of Prague ] --(Member Of)--> [ Unitas Fratrum of Bohemia ]
+    Evidence: "Lucas
+of Prague and Thomas Ger-
+manus, envoys of the Unitas Fratrum of Bohemia"
+
+[ Marguerite de Foix ] --(Employer Of)--> [ Angelo Ricciardino ]
+    Evidence: "Marguerite de Foix, Mar-
+chioness of Saluces, put troops at the command of the Inquisitor
+Angelo Ricciardino"
+
+[ Alberto de' Capitanei ] --(Graduate Of)--> [ Cremona ]
+    Evidence: "Alberto de' Capitanei, Archdeacon of Cremona"
+
+[ bishop of Turin ] --(Lives In)--> [ Turin ]
+    Evidence: "Bishop of Turin"
+
+[ Bishop of Carpentras ] --(Aunt/Uncle Of)--> [ Raimbaud de Caron ]
+    Evidence: "presence of liis uncle, the Bishop of Carpentras"
+
+[ Fra Bertrando ] --(Subordinate Of)--> [ Fra Ludovico da Soncino ]
+    Evidence: "Fra Bertrando visited their town in company with his principal, Fra Ludovico da Soncino"
+
+[ Giov. Gabriele ] --(Lives In)--> [ Bricherasio ]
+    Evidence: "Giov. Gabriele of " Bricherasio ""
+
+[ Clement ] --(Associate Of)--> [ Philippe ]
+    Evidence: "Clement sent throughout Europe a series of articles for the interrogation of the accused, drawn up for him by Philippe"
+
+[ Ugonetto Bruno ] --(Leader Of)--> [ Ozasco ]
+    Evidence: "Ugonetto Bruno, Lord of Ozasco"
+
+[ de Molay ] --(Member Of)--> [ Templars ]
+    Evidence: "a hundred and forty Templars, with de Molay and his chief officials at their head"
+
+[ Guillaume de Nogaret ] --(Leader Of)--> [ Paris Temple ]
+    Evidence: "Nogaret himself took charge of the Paris Temple"
+
+[ Pier Martino ] --(Subordinate Of)--> [ Jean de Bades ]
+    Evidence: "Pier Martino... chanced in his wandering missions to
+fall
+into the hands of Jean de Bades, the Inquisitor of Provence."
+
+[ Pietro di Puffla ] --(Lives In)--> [ Susa ]
+    Evidence: "Pietro di Puffla, Inquisitor of Piedmont, who
+paid for his zeal with his hfe, being shortly afterwards slain at
+Susa."
+
+[ Robert ] --(Leader Of)--> [ Calabria ]
+    Evidence: "Robert, Duke of Calabria"
+
+[ Edward ] --(Lives In)--> [ England ]
+    Evidence: "Edward of England"
+
+[ Catharine ] --(Spouse Of)--> [ Charles de Yalois ]
+    Evidence: "Catharine, wife of Charles de Yalois"
+
+[ Hugues de Peraud ] --(Member Of)--> [ Order ]
+    Evidence: "Hugues de Peraud, Visitor of France... the principal oflBcers of the Order"
+
+[ Geoffroi de Gonneville ] --(Member Of)--> [ Order ]
+    Evidence: "Geoffroi de Gonneville, Preceptor of Aquitaine and Poitou... the principal oflBcers of the Order"
+
+[ Paimbaud de Caron ] --(Member Of)--> [ Order ]
+    Evidence: "Paimbaud de Caron, Preceptor of Cyprus... the principal oflBcers of the Order"
+
+[ Jacopo Bech ] --(Subordinate Of)--> [ Fra Tommaso da Casacho ]
+    Evidence: "Like Jacopo Bech, Galosna had already ab- / jured in the hands of Fra Tommaso da Casacho."
+
+[ Renard de Roye ] --(Employee Of)--> [ Philippe ]
+    Evidence: "Philippe's ministers and agents—... Eenaiid de Roye"
+
+[ Guillaume de Plaisian ] --(Employee Of)--> [ Philippe ]
+    Evidence: "Philippe's ministers and agents—Guillaume de N"ogaret, Guil-laume de Plaisian"
+
+[ Guillaume de Nogaret ] --(Employee Of)--> [ Philippe ]
+    Evidence: "Philippe's ministers and agents—Guillaume de N"ogaret"
+
+[ Enguerrand de Marigny ] --(Employee Of)--> [ Philippe ]
+    Evidence: "Philippe's ministers and agents—... and Enguerrand de Marigny"
+
+[ Carl Beffart ] --(Leader Of)--> [ Teutonic Order ]
+    Evidence: "Its Grand Master, Carl Beffart"
+
+[ Squin de Florian ] --(Member Of)--> [ Templars ]
+    Evidence: "Squin de Florian, a renegade Templar"
+
+[ Humbert Blanc ] --(Member Of)--> [ Templars ]
+    Evidence: "Humbert Blanc, Preceptor of Auvergne"
+
+[ Aimon ] --(Leader Of)--> [ S. Antoine ]
+    Evidence: "Aimon, Abbot of S. Antoine"
+
+[ Hugues de Peraud ] --(Member Of)--> [ Templars ]
+    Evidence: "Hugues de Peraud, the Visitor of France, who had narrowly missed obtaining the Grand Mastership of the Order."
+
+[ Hugues de Peraud ] --(Lives In)--> [ France ]
+    Evidence: "Hugues de Peraud, the Visitor of France"
+
+[ Guillaume de Villaret ] --(Leader Of)--> [ Hospitallers ]
+    Evidence: "Guillaume de Yillaret, Grand Master of the Hospitallers"
+
+[ Humbert Blanc ] --(Member Of)--> [ Auvergne ]
+    Evidence: "Humbert Blanc, Preceptor of Auvergne"
+
+[ Raimbaut de Caron ] --(Member Of)--> [ Cyprus ]
+    Evidence: "Raimbaut de Caron, Preceptor of Cyprus"
+
+[ Catherine ] --(Grandchild Of)--> [ Baldwin II of Constantinople ]
+    Evidence: "Catherine, granddaughter of Baldwin II. of Constantinople"
+
+[ Charles de Valois ] --(Sibling Of)--> [ Philippe le Bel ]
+    Evidence: "Charles de Yalois, the evil genius of his brother Philippe le Bel"
+
+[ Charles de Valois ] --(Spouse Of)--> [ Catherine ]
+    Evidence: "in 1300 married Catherine"
+
+[ Guillaume de Beaujeu ] --(Leader Of)--> [ Temple ]
+    Evidence: "Grand Master, Guillaume de Beaujeu, had been chosen to command the defence"
+
+[ Gregory X. ] --(Attended)--> [ Council of Lyons ]
+    Evidence: "At the Council of Lyons, in 1274, Gregory X. vainly endeavored to ef- fect this"
+
+[ Giovanni di Neritone ] --(Leader Of)--> [ Castello Villari ]
+    Evidence: "Giovanni di Neritone, Preceptor of Castello Villari"
+
+[ Frederic II ] --(Lives In)--> [ Sicily ]
+    Evidence: "revenged by expelling them from Sicily in 1229"
+
+[ Amand ] --(Opponent Of)--> [ King of the Assassins ]
+    Evidence: "Amand, then Grand Master, prevented the conversion of the King
+of the Assassins and all his people."
+
+[ Bernard de Tremelai ] --(Leader Of)--> [ the order ]
+    Evidence: "Grand Master, Bernard de Tremelai"
+
+[ Aliotto ] --(Subordinate Of)--> [ Albertino di Pontremoli ]
+    Evidence: "Albertino employs a certain Aliotto to do tlie begging"
+
+[ Albertino di Pontremoli ] --(Employee Of)--> [ the order ]
+    Evidence: "the Preceptor of Lucca gives to Albertino di Pontremoli a commission to beg for the Order."
+
+[ Urban IV. ] --(Superior Of)--> [ the order ]
+    Evidence: "When ordered to resign his commission he boldly replied to Urban that no pope had ever interfered with the internal affairs of the Order"
+
+[ Etienne de Sissy ] --(Member Of)--> [ Templars ]
+    Evidence: "Etienne de Sissy,
+Marshal of the Order"
+
+[ Alonso I. of Aragon ] --(Lives In)--> [ Navarre ]
+    Evidence: "his rule extended over Navarre"
+
+[ Alonso I. of Aragon ] --(Lives In)--> [ Castile ]
+    Evidence: "a large portion of Castile"
+
+[ Gui ] --(Lives In)--> [ Jerusalem ]
+    Evidence: "Gui, King of Jerusalem"
+
+[ Basilio Ordelaffi ] --(Enemy Of)--> [ Merenda ]
+    Evidence: "seized him and two of his adherents, Matteo and Merenda"
+
+[ Basilio Ordelaffi ] --(Enemy Of)--> [ Matteo ]
+    Evidence: "seized him and two of his adherents, Matteo"
+
+[ Francesco Romolino ] --(Associate Of)--> [ Giovacchino Torriani ]
+    Evidence: "his associate, Francesco Romolino"
+
+[ Luca Landucci ] --(Supporter Of)--> [ Fra Girolamo ]
+    Evidence: "honest Luca Landucci, who had been an earnest and devout, though timid, follower of Fra Girolamo"
+
+[ Ser Ceccone ] --(Member Of)--> [ Medici ]
+    Evidence: "Ser Ceccone was an old partisan of the Medici"
+
+[ Salvestro ] --(Subordinate Of)--> [ Savonarola ]
+    Evidence: "Savonarola and his principal aids, Domenico and Salvestro"
+
+[ Domenico ] --(Subordinate Of)--> [ Savonarola ]
+    Evidence: "Savonarola and his principal aids, Domenico"
+
+[ Signoria ] --(Opponent Of)--> [ Savonarola ]
+    Evidence: "successive proclamations from the Signoria ordering Savonarola to quit"
+
+[ Mariano de' Ughi ] --(Member Of)--> [ San Marco ]
+    Evidence: "the Dominican Mariano de' Ughi"
+
+[ Doffo Spini ] --(Leader Of)--> [ Compagnacci ]
+    Evidence: "with Doffo Spini at their head"
+
+[ Giuliano della Rovere ] --(Interacted With)--> [ Charles VIII ]
+    Evidence: "Cardinal Giuliano
+clella Kovere, who had fled to France, persistently urged Charles
+VIII. to assemble a general council"
+
+[ Giuliano della Rovere ] --(Lives In)--> [ France ]
+    Evidence: "rebellious Cardinal Giuliano
+clella Kovere, who had fled to France"
+
+[ Charles VIII ] --(Interacted With)--> [ University of Paris ]
+    Evidence: "in 1497 Charles submitted
+the question to the University of Paris"
+
+[ Domenico da Pescia ] --(Subordinate Of)--> [ Savonarola ]
+    Evidence: "Fra Girolamo being silenced, Domenico da Pescia took his place. ... offering to prove the truth of
+his master's cause"
+
+[ Francesco della Puglia ] --(Member Of)--> [ Church of Santa-Croce ]
+    Evidence: "the Francis-
+can, Francesco della Puglia, who was preaching with much effect
+at the Church of Santa-Croce"
+
+[ Domenico Mazzinghi ] --(Associate Of)--> [ Giovanni Guasconi ]
+    Evidence: "A preliminary missive from Domenico Mazzinghi to Giovanni Guasconi"
+
+[ Andreas ] --(Lives In)--> [ Krain ]
+    Evidence: "Andreas, Archbishop of Krain"
+
+[ Francesco Valori ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Francesco Yalori and Paolo Antonio Soderini, two of his leading supporters"
+
+[ Paolo Antonio Soderini ] --(Supporter Of)--> [ Savonarola ]
+    Evidence: "Francesco Yalori and Paolo Antonio Soderini, two of his leading supporters"
+
+[ Pier Popoleschi ] --(Leader Of)--> [ Arrabbiati ]
+    Evidence: "a government composed of a majority of Ar- rabbiati, with one of his bitterest enemies, Pier Popoleschi, at its head as Gonfaloniero di Giustizia."
+
+[ Alexander ] --(Employer Of)--> [ Franciscans ]
+    Evidence: "Alexander sent to the Franciscans a bull"
+
+[ Alexander ] --(Parent Of)--> [ Duke of Gandia ]
+    Evidence: "the murder of his son, the Duke of Gandia"
+
+[ Domenico da Poza ] --(Member Of)--> [ Franciscans ]
+    Evidence: "most renowned preachers of the Order—Domenico da Poza"
+
+[ Francesco della PugUa ] --(Member Of)--> [ Franciscans ]
+    Evidence: "preachers of the Order—... Francesco della PugUa"
+
+[ Francesco Valori ] --(Member Of)--> [ Piagnoni ]
+    Evidence: "the Piagnoni, strengthened by recent successes in the field, elected Francesco Valori as Gon-faloniero di Giustizia"
+
+[ Giovanni Tedesco ] --(Member Of)--> [ Franciscans ]
+    Evidence: "preachers of the Order—... Giovanni Tedesco"
+
+[ Michele d' Aquis ] --(Member Of)--> [ Franciscans ]
+    Evidence: "preachers of the Order—... Michele d' Aquis"
+
+[ Giacopo da Brescia ] --(Member Of)--> [ Franciscans ]
+    Evidence: "preachers of the Order—... Giacopo da Brescia"
+
+[ Giacomo di Sicilia ] --(Friend Of)--> [ Savonarola ]
+    Evidence: "Giacomo di Sicilia, a friend of Savonarola"
+
+[ Piero de' Medici ] --(Adversary Of)--> [ Florence ]
+    Evidence: "the enterprise of Piero de' Medici against Florence"
+
+=========================================================
+

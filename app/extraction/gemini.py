@@ -10,7 +10,6 @@ from app.extraction.base import BaseExtractor
 
 
 class GeminiExtractor(BaseExtractor):
-
     def __init__(self) -> None:
         self.client = genai.Client(
             api_key=settings.gemini_api_key,
@@ -18,13 +17,17 @@ class GeminiExtractor(BaseExtractor):
 
         self.model = settings.gemini_model
         # Use gemini-embedding-001 / gemini-embedding-001 for embeddings
-        self.embedding_model = "models/gemini-embedding-2"  # "models/gemini-embedding-001"
+        self.embedding_model = (
+            "models/gemini-embedding-001"  # "models/gemini-embedding-2"
+        )
 
     @property
     def model_name(self) -> str:
         return self.model
 
-    @retry(stop=stop_after_attempt(10), wait=wait_exponential(multiplier=2, min=4, max=60))
+    @retry(
+        stop=stop_after_attempt(10), wait=wait_exponential(multiplier=2, min=4, max=60)
+    )
     def extract(
         self,
         text: str,
@@ -119,14 +122,15 @@ SOURCE TEXT:
 
         if not response.text:
             print(
-                "Warning: Gemini returned an empty response. Likely blocked by safety filters. Skipping chunk.")
+                "Warning: Gemini returned an empty response. Likely blocked by safety filters. Skipping chunk."
+            )
             return ExtractionResult(entities=[], relationships=[])
 
-        return ExtractionResult.model_validate_json(
-            response.text
-        )
+        return ExtractionResult.model_validate_json(response.text)
 
-    @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=5))
+    @retry(
+        stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=2, max=5)
+    )
     def embed(self, text: str) -> list[float]:
         response = self.client.models.embed_content(
             model=self.embedding_model,
@@ -143,7 +147,9 @@ SOURCE TEXT:
 
         return first_emb.values
 
-    @retry(stop=stop_after_attempt(10), wait=wait_exponential(multiplier=2, min=4, max=60))
+    @retry(
+        stop=stop_after_attempt(10), wait=wait_exponential(multiplier=2, min=4, max=60)
+    )
     def embed_batch(self, texts: list[str]) -> list[list[float]]:
         if not texts:
             return []
@@ -160,7 +166,8 @@ SOURCE TEXT:
         for emb in embeddings:
             if not emb.values:
                 raise RuntimeError(
-                    "Gemini failed to generate embedding values in batch.")
+                    "Gemini failed to generate embedding values in batch."
+                )
             result.append(emb.values)
 
         return result

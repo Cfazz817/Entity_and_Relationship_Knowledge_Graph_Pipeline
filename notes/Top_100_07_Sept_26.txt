@@ -1,0 +1,430 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 26804
+Total Entity Mentions: 65259
+Total Relationship Assertions: 11000
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 870 mentions
+- Vatican (Institution): 599 mentions
+- France (Location): 387 mentions
+- CIA (Institution): 353 mentions
+- Jesuits (Institution): 334 mentions
+- Catholic Church (Institution): 334 mentions
+- Italy (Location): 306 mentions
+- England (Location): 290 mentions
+- United States (Location): 266 mentions
+- Germany (Location): 231 mentions
+- Church (Institution): 211 mentions
+- Paris (Location): 169 mentions
+- Europe (Location): 163 mentions
+- Luther (Person): 163 mentions
+- America (Location): 154 mentions
+- Spain (Location): 152 mentions
+- Hitler (Person): 145 mentions
+- Roman Catholic Church (Institution): 144 mentions
+- London (Location): 144 mentions
+- New York (Location): 141 mentions
+- Papacy (Institution): 131 mentions
+- Barack Obama (Person): 128 mentions
+- Russia (Location): 125 mentions
+- pope (Person): 121 mentions
+- Pius XII (Person): 115 mentions
+- Jesus Christ (Person): 113 mentions
+- FBI (Institution): 112 mentions
+- Christ (Person): 105 mentions
+- Austria (Location): 105 mentions
+- Croatia (Location): 104 mentions
+- Society of Jesus (Institution): 103 mentions
+- US (Location): 102 mentions
+- Martin Luther (Person): 97 mentions
+- Holy See (Institution): 95 mentions
+- Ustashi (Institution): 93 mentions
+- Paul (Person): 93 mentions
+- Inquisition (Institution): 90 mentions
+- Washington (Location): 90 mentions
+- Wikipedia (Institution): 87 mentions
+- Pope Pius XII (Person): 83 mentions
+- Congress (Institution): 80 mentions
+- Jesus (Person): 77 mentions
+- Ireland (Location): 76 mentions
+- John (Person): 76 mentions
+- Diem (Person): 75 mentions
+- New York Times (Institution): 75 mentions
+- Henry (Person): 74 mentions
+- Mussolini (Person): 73 mentions
+- Mary (Person): 68 mentions
+- Vietnam (Location): 67 mentions
+- John Paul II (Person): 67 mentions
+- Florence (Location): 67 mentions
+- Daniel (Person): 66 mentions
+- Johnny Cirucci (Person): 66 mentions
+- Poland (Location): 65 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 65 mentions
+- White House (Institution): 64 mentions
+- World War II (Event): 63 mentions
+- Toulouse (Person): 62 mentions
+- Bill Clinton (Person): 62 mentions
+- Milan (Location): 61 mentions
+- Washington, DC (Location): 59 mentions
+- Reformation (Event): 58 mentions
+- Portugal (Location): 58 mentions
+- Israel (Location): 58 mentions
+- Jerusalem (Location): 57 mentions
+- California (Location): 57 mentions
+- God (Person): 57 mentions
+- P2 (Institution): 55 mentions
+- Zagreb (Location): 55 mentions
+- United States government (Institution): 54 mentions
+- Constantine (Person): 54 mentions
+- Adolf Hitler (Person): 54 mentions
+- Yugoslavia (Location): 54 mentions
+- The Guardian (Institution): 54 mentions
+- Innocent (Person): 53 mentions
+- Roman Empire (Institution): 52 mentions
+- Georgetown (Institution): 52 mentions
+- Opus Dei (Institution): 52 mentions
+- The Vatican (Institution): 52 mentions
+- Pavelic (Person): 51 mentions
+- Hungary (Location): 51 mentions
+- Sindona (Person): 51 mentions
+- Donald Trump (Person): 50 mentions
+- Church of Rome (Institution): 50 mentions
+- Raymond (Person): 50 mentions
+- CNN (Institution): 49 mentions
+- Babylon (Location): 49 mentions
+- Turkey (Location): 49 mentions
+- China (Location): 49 mentions
+- USA (Location): 49 mentions
+- The Church (Institution): 48 mentions
+- Obama (Person): 48 mentions
+- IOR (Institution): 48 mentions
+- Boston (Location): 47 mentions
+- John F. Kennedy (Person): 47 mentions
+- Pope Francis (Person): 47 mentions
+- Soviet Union (Institution): 47 mentions
+- Chicago (Location): 47 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Mendicant Orders ] --(Member Of)--> [ Church of Christ ]
+    Evidence: "supply the Church of Christ with what it most sorely needed"
+
+[ Romano ] --(Associate Of)--> [ Count Raymond ]
+    Evidence: "Count Kaymond had been reconciled to the Church, he returned in July to his dominions, followed by the Cardinal-Legate Romano"
+
+[ Honorius III ] --(Superior Of)--> [ Conrad ]
+    Evidence: "in 1224, Honorius III. ordered Conrad, Bishop of Hildesheim"
+
+[ Hugues ] --(Leader Of)--> [ Council assembled in Avignon in 1209 ]
+    Evidence: "a councd assembled in Avignon, in 1209, under the presidency of the papal legate, Hugues"
+
+[ Frederic Barbarossa ] --(Lives In)--> [ Verona ]
+    Evidence: "attended, in 1184, the meeting at Verona between Lucius III. and Frederic Barbarossa"
+
+[ Lucius III ] --(Lives In)--> [ Verona ]
+    Evidence: "attended, in 1184, the meeting at Verona between Lucius III."
+
+[ Charlemagne ] --(Employer Of)--> [ Missi Dominici ]
+    Evidence: "The Missi Dominici of
+Charlemagne were
+officials commissioned"
+
+[ Roger Bacon ] --(Critic Of)--> [ The Church ]
+    Evidence: "Roger Bacon complains that a civil lawyer... exclaims in bitterness that the Church is governed by lawyers"
+
+[ Count Robert ] --(Cousin Of)--> [ Philip Augustus ]
+    Evidence: "Count Robert, cousin of Philip Augustus"
+
+[ Henry of Yehringen ] --(Lives In)--> [ Strassburg ]
+    Evidence: "Henry of
+Yehringen, Bishop of Strassburg"
+
+[ Urban VIII ] --(Employer Of)--> [ Mendicant Friars of Cordova ]
+    Evidence: "in 1627 Urban YIII. Avould be obliged to deprive the Mendicant Friars of Cordova of their dearly prized immunity"
+
+[ Viviano ] --(Subordinate Of)--> [ Pagano ]
+    Evidence: "Fra Pagano, and his vicar, Fra Viviano"
+
+[ Bonajuncta ] --(Member Of)--> [ Franciscan Order ]
+    Evidence: "given to another Franciscan, Fra Bonajuncta."
+
+[ Pagano ] --(Member Of)--> [ Dominican order ]
+    Evidence: "The Dominican inquisitor of Lombardy^ Fra Pagano"
+
+[ Filippo Bonaccorso ] --(Member Of)--> [ Franciscan Order ]
+    Evidence: "the Franciscan Filippo Bonaccorso."
+
+[ Guillem Arnaud ] --(Member Of)--> [ Dominicans ]
+    Evidence: "Dominican Giiillem Arnaud"
+
+[ Etienne de Saint Thibery ] --(Member Of)--> [ Franciscans ]
+    Evidence: "Franciscan Etienne de Saint Thibery"
+
+[ Etienne de Saint Thibery ] --(Associate Of)--> [ Guillem Arnaud ]
+    Evidence: "In 1237 the Fran- ciscan Etienne de Saint Thibery was associated with the Domini- can Giiillem Arnaud in Toulouse"
+
+[ Ricchini ] --(Member Of)--> [ Dominicans ]
+    Evidence: "an equally learned and zealous Dominican, Ricchini"
+
+[ Lacordaire ] --(Member Of)--> [ Dominicans ]
+    Evidence: "the learned and zealous Dominican, Lacordairc"
+
+[ Melik el-Mansur Nassir ] --(Lives In)--> [ Edessa ]
+    Evidence: "Melik el-Mansur Nassir, the ruler of Edessa"
+
+[ Sixtus V ] --(Employer Of)--> [ Inquisition ]
+    Evidence: "bull Invictarum of Sixtus V."
+
+[ St. Louis of Toulouse ] --(Child Of)--> [ Charles the Lame of Naples and Provence ]
+    Evidence: "St. Louis of Toulouse, son of Charles the Lame of Naples and Provence"
+
+[ Friar Philip ] --(Subordinate Of)--> [ Prester John ]
+    Evidence: "Friar Philip, son of one of Prester John's sub- ject kings"
+
+[ John of Parma ] --(Leader Of)--> [ Franciscans ]
+    Evidence: "John of Parma as General of the Order"
+
+[ Elias ] --(Leader Of)--> [ Franciscans ]
+    Evidence: "His successor in the mastership, Elias, gave the Order a powerful impetus"
+
+[ St. Francis ] --(Founder Of)--> [ Franciscans ]
+    Evidence: ""Seraphic Keligion" of the Franciscans... lifetime of St. Francis"
+
+[ St. Bonaventura ] --(Leader Of)--> [ Franciscans ]
+    Evidence: "St. Bonaventura, who had just succeeded John of Parma as General of the Order"
+
+[ Erasmus ] --(Associate Of)--> [ Albert, Cardinal - Archbishop
+of Mainz ]
+    Evidence: "Erasmus complains in a letter
+to
+Albert, Cardinal - Archbishop
+of Mainz"
+
+[ Calixtus III ] --(Ally Of)--> [ Louis XI. ]
+    Evidence: "Calixtus III. continued the struffg-le, and, finding the University unyielding, appealed to Louis XI."
+
+[ John Gerson ] --(Leader Of)--> [ University of Paris ]
+    Evidence: "The University of Paris boldly took up the quarrel, and under the leadership of John Gerson"
+
+[ Conrad II. ] --(Leader Of)--> [ Mainz ]
+    Evidence: "In 1393 Conrad II., Archbishop of Mainz"
+
+[ Maitre Jean de Gorelle ] --(Adversary Of)--> [ University of Paris ]
+    Evidence: "Maitre Jean de Gorelle, a Franciscan, in 1408, publicly argued... a proposition which the University of Paris promptly compelled him to retract"
+
+[ Richard, Archbishop of Armagh ] --(Lives In)--> [ London ]
+    Evidence: "Eichard, Archbishop of Armagh, preached in London some sermons"
+
+[ Richard, Archbishop of Armagh ] --(Lives In)--> [ Avignon ]
+    Evidence: "he died in Avignon"
+
+[ Clement IV ] --(Leader Of)--> [ Bull of Clement IV in 1268 ]
+    Evidence: "A bull of Clement IV., in 1268"
+
+[ special commission assembled at Anagni ] --(Lives In)--> [ Anagni ]
+    Evidence: "a special commission assembled at Anagni"
+
+[ William of St. Amour ] --(Member Of)--> [ University ]
+    Evidence: "The envoys of St. Louis and the University were obliged to subscribe to a declaration assenting to this and to the right of the Mendicants to preach and hear con- fessions and to live on alms without labor, William of St. Amour alone resolutely refusing."
+
+[ University ] --(Employer Of)--> [ St. Amour ]
+    Evidence: "The University likewise sent St. Amour at the head of a delegation"
+
+[ John of Parma ] --(Member Of)--> [ Franciscans ]
+    Evidence: "John of Parma, the Franciscan general."
+
+[ Alexander ] --(Interacted With)--> [ St. Louis ]
+    Evidence: "Alexander's request to the king to throw him into jail"
+
+[ Innocent IV ] --(Ally Of)--> [ Mendicant Orders ]
+    Evidence: "The pope had been the friend of the Orders"
+
+[ William of St. Amour ] --(Supporter Of)--> [ Innocent IV ]
+    Evidence: "Innocent's mind must indeed have been receptive of AVilliam of St. Amour's arguments."
+
+[ William of St. Amour ] --(Lives In)--> [ Beauvais ]
+    Evidence: "Not satisfied with a canonry of Beauvais..."
+
+[ Bonushomo ] --(Member Of)--> [ Order of Preachers ]
+    Evidence: "Dominican teachers, Bonushomo and Elias"
+
+[ Elias ] --(Member Of)--> [ Order of Preachers ]
+    Evidence: "Dominican teachers, Bonushomo and Elias"
+
+[ Robert Grosseteste ] --(Lives In)--> [ Lincoln ]
+    Evidence: "Robert Grossetestc of Lincoln"
+
+[ Archbishop Henry ] --(Attended)--> [ Rodolph of Hapsburg ]
+    Evidence: "Archbishop Henry at- tended the coronation of Rodolph of Ilapsburg, in 1273"
+
+[ Urban IV. ] --(Employer Of)--> [ William ]
+    Evidence: "Then, in 1262, Urban sent another
+commission to William and Roric"
+
+[ Urban IV. ] --(Employer Of)--> [ Bishops of Worms and Spires ]
+    Evidence: "led Urban lY., in 1261, to
+commission the Bishops of "Worms and Spires"
+
+[ Urban IV. ] --(Employer Of)--> [ Roric ]
+    Evidence: "Then, in 1262, Urban sent another
+commission to William and Roric"
+
+[ Henry of Fistigen ] --(Leader Of)--> [ Metz ]
+    Evidence: "The Dean of Metz, Henry of Fistigen"
+
+[ Henry of Fistigen ] --(Subordinate Of)--> [ Alexander IV ]
+    Evidence: "he obtained the appointment
+from Alexander."
+
+[ Urban IV. ] --(Employer Of)--> [ Abbot of Rodenkirk ]
+    Evidence: "led Urban lY., in 1261, to
+commission ... and the Abbot of
+Rodenkirk"
+
+[ Conrad ] --(Child Of)--> [ Frederic ]
+    Evidence: "after his death, against his son Conrad"
+
+[ Ezzelin da Romano ] --(Subordinate Of)--> [ Frederic ]
+    Evidence: "Ezzelin da Romano, his vicar in the March of Treviso"
+
+[ Innocent IV ] --(Employer Of)--> [ Franciscans ]
+    Evidence: "Innocent lY. sent a circular brief of instruc- tions to the Franciscans to use every opportunity, public or secret, to advocate his cause"
+
+[ Count of Caserta ] --(Parent Of)--> [ Frederic ]
+    Evidence: "Frederic instruct- ed his son-in-law, the Count of Caserta"
+
+[ Jean Sarrasin ] --(Graduate Of)--> [ University of Paris ]
+    Evidence: "condemnation, by the University of Paris, in 1429, of the Franciscan Jean Sarrasin for publicly teaching"
+
+[ Gregory ] --(Superior Of)--> [ Franciscan ]
+    Evidence: "it was to the Franciscan priors that he communicated it... and ordered them to pubhsh it"
+
+[ Papacy ] --(Adversary Of)--> [ Frederic II ]
+    Evidence: "long and mortal struggle of the papacy with Frederic II."
+
+[ Franciscan ] --(Ally Of)--> [ Kingdom of Naples ]
+    Evidence: "banishment of all the Franciscans from the kingdom of K'a-ples, as papal emissaries seeking to withdraw from the emperor the allegiance of his subjects"
+
+[ Gregory IX. ] --(Superior Of)--> [ Mendicants ]
+    Evidence: "1241 Gregory IX. granted to the friars the privilege"
+
+[ Uberto Pallavicino ] --(Lives In)--> [ Milan ]
+    Evidence: "Uberto Pallavicino took effectual means of keeping the Flagellants out of his city of Milan"
+
+[ apparition of the Flagellants ] --(Same Place Same Time)--> [ Perugia ]
+    Evidence: "the first apparition of the Flagellants. Suddenly, in 1259, in Perugia"
+
+[ Queen Blanche ] --(Parent Of)--> [ King Louis ]
+    Evidence: "Even Queen Blanche, eager for any means that
+promised to liberate her son"
+
+[ St. Louis ] --(Member Of)--> [ St. Francis ]
+    Evidence: "St. Louis and Catherine de Medicis were Ter-tiaries of St. Francis"
+
+[ Berthold of Ratisbon ] --(Member Of)--> [ Franciscan ]
+    Evidence: "Franciscan Berthold of Ratisbon"
+
+[ Catherine de Medicis ] --(Member Of)--> [ St. Francis ]
+    Evidence: "St. Louis and Catherine de Medicis were Ter-tiaries of St. Francis"
+
+[ Constantine ] --(Child Of)--> [ Helena ]
+    Evidence: "Helena, mother of Constantine"
+
+[ Francis ] --(Founder Of)--> [ Tertiary Orders ]
+    Evidence: "Francis, however... bethought him of framing a Rule by which persons... could be... connected with the fraternity"
+
+[ Lateran Council ] --(Founder Of)--> [ Crucigeri ]
+    Evidence: "revived in 1215 by the Lateran Council"
+
+[ Dominic ] --(Founder Of)--> [ Militia Jesu Christi ]
+    Evidence: "" Mditia Jesu Christi," or Soldiery of Christ, Dominic founded a"
+
+[ Helena ] --(Parent Of)--> [ Constantine ]
+    Evidence: "Helena, mother of Constantine"
+
+[ William of Esseby ] --(Subordinate Of)--> [ Gregory ]
+    Evidence: "Gregory, the Provincial Minister of France, asked Friar William of Esseby if he Avished to go. William replied that he did not know whether he wished it or not, because his will was not his own, but the minister's"
+
+[ Friar Peter of Catania ] --(Leader Of)--> [ Order ]
+    Evidence: "Friar Peter of Catania, at that time the minister-general of the Order"
+
+[ Francis ] --(Founder Of)--> [ the order ]
+    Evidence: "Rules drawn up by Francis"
+
+[ Francis ] --(Founder Of)--> [ the order ]
+    Evidence: "spirit which the founder infused in it and in his brethren"
+
+[ St. Francis ] --(Founder Of)--> [ Order ]
+    Evidence: "This behef passed into the traditions of the Order"
+
+[ Bonaventura ] --(Leader Of)--> [ Franciscan Order ]
+    Evidence: "when, in the General Chapter of 1260, under Bonaventura, the Order was redistributed"
+
+[ Blessed Bernard of Quintavalle ] --(Associate Of)--> [ Francis ]
+    Evidence: "the Blessed Bernard of Quintavalle asked to be associated with him."
+
+[ Francis ] --(Rival Of)--> [ Dominic ]
+    Evidence: "His great colleague, or rival, Francis"
+
+[ Moneta ] --(Associate Of)--> [ Dominic ]
+    Evidence: "it was in the bed of Friar Moneta... and in Moneta's gown"
+
+[ Honorius III ] --(Employer Of)--> [ Innocent ]
+    Evidence: "Innocent had died, but his successor, Hono- rius III., entered fully into his views"
+
+[ Foulques of Toulouse ] --(Associate Of)--> [ Dominic ]
+    Evidence: "Foulques of Toulouse on his voyage thither took with him Dominic"
+
+[ Pierre Cella ] --(Supporter Of)--> [ Dominic ]
+    Evidence: "In 1214: Pierre Cella, a rich citizen of Toulouse, moved by his earnestness, resolved to join him in his mission-work"
+
+[ Dominic ] --(Founder Of)--> [ Monastery of Prouille ]
+    Evidence: "his founding the Monastery of Prouille"
+
+[ Bishop Foulques ] --(Collaborator Of)--> [ Dominic ]
+    Evidence: "with the aid of Bishop Foulques of Toulouse he carried it out"
+
+[ Dominic ] --(Student Of)--> [ University of Palencia ]
+    Evidence: "Ten years of training in the University of Palencia made of
+Dominic an accomplished theologian"
+
+[ The monk of Vaux-Cernay ] --(Supporter Of)--> [ Bishop Diego ]
+    Evidence: "The monk of Yaux-
+Cernay alludes to him but once, as a follower of Bishop Diego"
+
+[ Dominic ] --(Subordinate Of)--> [ Bishop Diego ]
+    Evidence: "accompany his bishop, w^ho from 1203
+onward for some years was employed on missions"
+
+[ Dominic ] --(Member Of)--> [ Chapter of Osma ]
+    Evidence: "Entering
+the Chapter of Osma, he was speedily made sub-prior"
+
+[ Philip III ] --(Lives In)--> [ Calaruega ]
+    Evidence: "In 1605 Philip III. transported it with much pomp from Calaruega to Valladolid."
+
+[ Infante Juan Manuel of Castile ] --(Founder Of)--> [ Dominican convent of San Pablo de Penafiel ]
+    Evidence: "the Infante Juan Manuel of Castile obtained the body of Juana to enrich the Dominican convent of San Pablo de Penafiel which he had founded"
+
+[ Domingo de Guzman ] --(Child Of)--> [ St. Juana de Aga ]
+    Evidence: "his sainthness was so penetrating that it reflected back upon his mother, who is rev- erenced as St. Juana de Aga"
+
+[ Francis ] --(Lives In)--> [ Italy ]
+    Evidence: "Francis in Italy"
+
+[ Dominic ] --(Lives In)--> [ France ]
+    Evidence: "Dominic in France"
+
+[ Duran de Iluesca ] --(Lives In)--> [ Aragon ]
+    Evidence: "the Waldensian heresy had taken deep root in Aragon. Duran was one of its leaders"
+
+[ Foulques ] --(Associate Of)--> [ Pierre de Roissi ]
+    Evidence: "Pierre de Roissi, whom he had taken as an associate"
+
+[ Foulques ] --(Founder Of)--> [ Latin Empire of Constantinople ]
+    Evidence: "Latin Empire of Constantinople... was his work."
+
+=========================================================
+

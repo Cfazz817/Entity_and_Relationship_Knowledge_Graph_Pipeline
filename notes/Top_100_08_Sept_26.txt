@@ -1,0 +1,438 @@
+
+================ KNOWLEDGE GRAPH SUMMARY ================
+Total Unique Entities: 28070
+Total Entity Mentions: 68691
+Total Relationship Assertions: 11423
+
+--- Top 100 Most Mentioned Entities ---
+- Rome (Location): 894 mentions
+- Vatican (Institution): 599 mentions
+- France (Location): 415 mentions
+- CIA (Institution): 353 mentions
+- Jesuits (Institution): 334 mentions
+- Catholic Church (Institution): 334 mentions
+- Italy (Location): 328 mentions
+- England (Location): 295 mentions
+- United States (Location): 266 mentions
+- Church (Institution): 239 mentions
+- Germany (Location): 237 mentions
+- Inquisition (Institution): 203 mentions
+- Paris (Location): 189 mentions
+- Spain (Location): 166 mentions
+- Europe (Location): 166 mentions
+- Luther (Person): 164 mentions
+- America (Location): 154 mentions
+- London (Location): 145 mentions
+- Hitler (Person): 145 mentions
+- Roman Catholic Church (Institution): 144 mentions
+- New York (Location): 141 mentions
+- Papacy (Institution): 135 mentions
+- Barack Obama (Person): 128 mentions
+- Russia (Location): 125 mentions
+- pope (Person): 122 mentions
+- Holy See (Institution): 117 mentions
+- Pius XII (Person): 115 mentions
+- Toulouse (Person): 114 mentions
+- Jesus Christ (Person): 113 mentions
+- FBI (Institution): 112 mentions
+- Christ (Person): 109 mentions
+- Austria (Location): 105 mentions
+- Croatia (Location): 104 mentions
+- Society of Jesus (Institution): 103 mentions
+- US (Location): 102 mentions
+- Martin Luther (Person): 97 mentions
+- Paul (Person): 93 mentions
+- Ustashi (Institution): 93 mentions
+- Washington (Location): 90 mentions
+- Wikipedia (Institution): 87 mentions
+- Pope Pius XII (Person): 83 mentions
+- Congress (Institution): 80 mentions
+- Milan (Location): 80 mentions
+- Florence (Location): 79 mentions
+- Dominicans (Institution): 77 mentions
+- John (Person): 77 mentions
+- Jesus (Person): 77 mentions
+- Ireland (Location): 76 mentions
+- Diem (Person): 75 mentions
+- New York Times (Institution): 75 mentions
+- Henry (Person): 74 mentions
+- Mussolini (Person): 73 mentions
+- Carcassonne (Location): 71 mentions
+- Mary (Person): 68 mentions
+- Raymond (Person): 68 mentions
+- John Paul II (Person): 67 mentions
+- Vietnam (Location): 67 mentions
+- Johnny Cirucci (Person): 66 mentions
+- Languedoc (Location): 66 mentions
+- Daniel (Person): 66 mentions
+- Lorenzo Ricci (Person): 65 mentions
+- Central Intelligence Agency (Institution): 65 mentions
+- Poland (Location): 65 mentions
+- White House (Institution): 64 mentions
+- World War II (Event): 63 mentions
+- Innocent (Person): 63 mentions
+- Bill Clinton (Person): 62 mentions
+- Portugal (Location): 62 mentions
+- Reformation (Event): 59 mentions
+- Washington, DC (Location): 59 mentions
+- Israel (Location): 58 mentions
+- God (Person): 58 mentions
+- Jerusalem (Location): 57 mentions
+- California (Location): 57 mentions
+- P2 (Institution): 55 mentions
+- Sicily (Location): 55 mentions
+- Zagreb (Location): 55 mentions
+- Constantine (Person): 55 mentions
+- Waldenses (Institution): 55 mentions
+- Yugoslavia (Location): 54 mentions
+- The Guardian (Institution): 54 mentions
+- Adolf Hitler (Person): 54 mentions
+- United States government (Institution): 54 mentions
+- Church of Rome (Institution): 53 mentions
+- Opus Dei (Institution): 52 mentions
+- Georgetown (Institution): 52 mentions
+- Roman Empire (Institution): 52 mentions
+- Hungary (Location): 52 mentions
+- The Vatican (Institution): 52 mentions
+- Pavelic (Person): 51 mentions
+- Sindona (Person): 51 mentions
+- Charles (Person): 50 mentions
+- The Church (Institution): 50 mentions
+- Donald Trump (Person): 50 mentions
+- CNN (Institution): 49 mentions
+- China (Location): 49 mentions
+- Turkey (Location): 49 mentions
+- Babylon (Location): 49 mentions
+- USA (Location): 49 mentions
+- Lombardy (Location): 48 mentions
+
+--- 100 Most Recent Relationships ---
+
+[ Filippo Eegis ] --(Lives In)--> [ Savoy valleys ]
+    Evidence: "Fihppo Eegis was tried by the Inquisition... among the Waldenses of the Savoy valleys"
+
+[ Giovanni Alberto ] --(Enemy Of)--> [ Guillelmo ]
+    Evidence: "When Fra Giovanni Alberto, the Inquisitor of Turin, had recently made an effort to repress them, they boldly rose in arms. On the public square of Angrogna they slew the parish priest Guillelmo... and Alberto himseif they besieged"
+
+[ Fra Antonio ] --(Interacted With)--> [ Antonio Galosna ]
+    Evidence: "In Pignerol, Fra Antonio had, in ]^ovember, 1387, arrested a suspected heretic named Antonio Galosna"
+
+[ Fra Antonio ] --(Collaborator Of)--> [ Cathari ]
+    Evidence: "Fra Antonio's labors had been already rewarded by the discovery of another sect of Cathari"
+
+[ Fra Tommaso da Casacho ] --(Interacted With)--> [ Giacomo Bech ]
+    Evidence: "In 1370 Bech had fallen into the hands of the inquisitor, Fra Tommaso da Casacho"
+
+[ Martino del Prete ] --(Leader Of)--> [ Cathari ]
+    Evidence: "Their heresiarch was Martino del Prete"
+
+[ Giacomo Bech ] --(Attended)--> [ Bosnia ]
+    Evidence: "sent him to Bosnia to perfect himself in the doctrines"
+
+[ Amadeo YII. ] --(Leader Of)--> [ Savoy ]
+    Evidence: "Count of Savoy, Amadeo YII."
+
+[ Fra Antonio Secco of Savigliano ] --(Interacted With)--> [ Giacomo Bech of Chieri ]
+    Evidence: "In 1388 Fra Antonio Secco of Savigliano had the good-fortune to lay hands on one of the active members of the sect, Giacomo Bech of Chieri"
+
+[ Gerald ] --(Lives In)--> [ Corsica ]
+    Evidence: "In 1340 we hear of them in Corsica, when Gerald, the Franciscan general, sent his friars thither"
+
+[ Fra Mondino da Bologna ] --(Leader Of)--> [ Franciscans ]
+    Evidence: "In 1369 we again find Franciscans, under Fra Mondino da Bologna"
+
+[ Giovanni Dandolo ] --(Subordinate Of)--> [ Senate ]
+    Evidence: "empowered the doge, Giovanni Dandolo, to give assistance to the inquisitor, when called upon, without referring each case to the Senate."
+
+[ Piero Gradenigo ] --(Leader Of)--> [ The Inquisition ]
+    Evidence: "official oath of the next doge, Piero Gradenigo."
+
+[ Fra Filippo of Mantua ] --(Employee Of)--> [ Inquisition ]
+    Evidence: "Fra FiUppo of Mantua, the Inquisitor of Treviso, was sent by Honorius lY."
+
+[ Honorius IV ] --(Superior Of)--> [ Fra Filippo of Mantua ]
+    Evidence: "Fra FiUppo of Mantua, the Inquisitor of Treviso, was sent by Honorius lY."
+
+[ Marino Morosini ] --(Leader Of)--> [ Venice ]
+    Evidence: "taken
+in 1249 by the Doge Marino Morosini"
+
+[ Giacopo Tiepoli ] --(Leader Of)--> [ Venice ]
+    Evidence: "In 1229 the oiRoial oath of the Doge Giacopo
+Tiepoli"
+
+[ Frederic of Aragon ] --(Leader Of)--> [ Trinacria ]
+    Evidence: "It was not
+Till 1302 that Boniface YIII. was brought to
+Accept the accomplished fact, and to acknowledge Frederic of Ara-
+Gon as King
+Of Trinacria."
+
+[ Pedro III of Aragon ] --(Leader Of)--> [ Sicily ]
+    Evidence: "Sicilian Yespers in 1282, the Island
+Of Sicily passed into the hands of Pedro
+III. of Aragon"
+
+[ Robert ] --(Child Of)--> [ Charles II ]
+    Evidence: "though Charles 11. was an eager persecutor who stimulated the zeal of his inquisitors, and his son Robert earned the name of the Pious."
+
+[ Fra Benvenuto ] --(Member Of)--> [ Franciscan ]
+    Evidence: "at least one Franciscan, Fra Benvenuto."
+
+[ Charles ] --(Founder Of)--> [ San Piero Martire ]
+    Evidence: "Charles's devotion is seen in his found- ing, in 1274:, and richly endowing for the Dominicans the splendid church of San Piero Martire"
+
+[ Fra Adamo da Como ] --(Adversary Of)--> [ Giovanni Ferraloco ]
+    Evidence: "ordered Fra Adamo da Como, the inquisitor of the Eo-man province, to desist from molesting Giovanni Ferraloco"
+
+[ Giovanni Ferraloco ] --(Lives In)--> [ Orvieto ]
+    Evidence: "Giovanni Ferraloco, a cit-izen of Orvieto"
+
+[ Pierre d'Aragon ] --(Lives In)--> [ Carcassonne ]
+    Evidence: "Pierre d'Aragon, a gentleman
+of Carcassonne"
+
+[ Eainerio Gatti ] --(Lives In)--> [ Viterbo ]
+    Evidence: "Eainerio Gatti, a noble of Viterbo"
+
+[ Fra Guido da Tusis ] --(Employer Of)--> [ Eomagnola ]
+    Evidence: "Fra Guido da Tusis, Inquisitor of Eomagnola"
+
+[ Fra Donato da Sant' Agata ] --(Employer Of)--> [ Eomagnola ]
+    Evidence: "Fra Donato da Sant' Agata had been appointed Inquisitor of Eomagnola"
+
+[ Prof. Felice Tocco ] --(Lives In)--> [ Florence ]
+    Evidence: "Prof. Felice Tocco, of Florence"
+
+[ Azzo X. ] --(Lives In)--> [ Ferrara ]
+    Evidence: "the Lord of Ferrara, Azzo X."
+
+[ Fra Florio ] --(Interacted With)--> [ Honorius IV ]
+    Evidence: "Fra Florio, the next inquisitor, sent to Kome expressly to urge Honorius lY. to come to a decision"
+
+[ Fra Guido da Vicenza ] --(Interacted With)--> [ Boniface VIII ]
+    Evidence: "On the accession of Boniface VIII. , in 1294, Fra Guido da Yicenza, then inquisitor, again visited Eome to procure a termination of the affair."
+
+[ Fra Aldobrandini ] --(Opponent Of)--> [ Armanno ]
+    Evidence: "Fra Aldobrandini, the inquisitor who had tried him in 1254"
+
+[ Amiel de Perles ] --(Interacted With)--> [ Bernard Audoyn de Montaigu ]
+    Evidence: "When Amiel de Perles had forfeited his ordination a conference was held in which it was determined that he should be sent with an associate to ' the Ancient of the Heretics,' Bernard Audoyn de Montaigu, in Lombardy for reconciliation"
+
+[ ISTicholas III ] --(Employer Of)--> [ Master Benedict ]
+    Evidence: "ISTicholas III. sent his notary, Master Benedict"
+
+[ Spera ] --(Employee Of)--> [ Marchesa d'Este ]
+    Evidence: "a lady-in-waiting of the Marchesa d'Este, named Spera"
+
+[ Orso Orsini ] --(Lives In)--> [ Tuscany ]
+    Evidence: "Orso Or- sini. Marshal of the Church in Tuscany"
+
+[ podesta and people of Bergamo ] --(Enemy Of)--> [ Corrado da Yenosta ]
+    Evidence: "the podesta and
+people of Bergamo succeeded in capturing Corrado"
+
+[ Nicholas III ] --(Ally Of)--> [ Eodolf of Hapsburg ]
+    Evidence: "Nicholas
+III. made every
+effort to avenge the
+murder, even invoking the assistance of Eodolf of Hapsburg"
+
+[ Bortolamio ] --(Colleague Of)--> [ St. Louis ]
+    Evidence: "St. Louis, whose confessor he had been"
+
+[ Alticlero ] --(Child Of)--> [ Gieremia ]
+    Evidence: "Gieremia... with his son Alticlero"
+
+[ Pallavicino ] --(Lives In)--> [ Gusaliggio ]
+    Evidence: "besieged in his castle
+of Gusaliggio"
+
+[ Ottoboni of San Adriano ] --(Works For)--> [ England ]
+    Evidence: "Cardinal Ottoboni of San Adriano, his legate in England"
+
+[ Edmond ] --(Child Of)--> [ Henry III. of England ]
+    Evidence: "Edmond, son of Henry III. of England"
+
+[ Henry III. of England ] --(Lives In)--> [ England ]
+    Evidence: "Henry III. of England"
+
+[ Uberto ] --(Lives In)--> [ Milan ]
+    Evidence: "By intrigues with the Torriani and other powerful nobles of Milan, IJberto ci^ated for himself a party in that city"
+
+[ Alberico ] --(Sibling Of)--> [ Ezzelin ]
+    Evidence: "Ezzelin's brother
+Alberico"
+
+[ Buoso di Dovara ] --(Lives In)--> [ Cremona ]
+    Evidence: "Buoso di Dovara,
+lords of Cremona"
+
+[ Uberto Pallavicino ] --(Lives In)--> [ Cremona ]
+    Evidence: "Uberto Pallavicino and Buoso di Dovara,
+lords of Cremona"
+
+[ Filippo ] --(Works For)--> [ Ravenna ]
+    Evidence: "Archbishop-elect of Eavenna"
+
+[ Ezzelin ] --(Member Of)--> [ Ghibelline faction ]
+    Evidence: "Ezzelin... where he had relations with the GhibeUine faction"
+
+[ Ezzelin ] --(Owner Of)--> [ Padua ]
+    Evidence: "Padua, Ezzelin's most important city"
+
+[ Everard ] --(Associate Of)--> [ Filippo ]
+    Evidence: "the legate was utterly routed near Brescia and captured, together with his astrologer, the Dominican Everard"
+
+[ Innocent ] --(Opponent Of)--> [ Ezzelin ]
+    Evidence: "In March, 1248, Innocent pronounced his condemnation as a manifest heretic"
+
+[ Alberico ] --(Child Of)--> [ Ezzehn ]
+    Evidence: "In 1231 his sons, Ezzelin and Alberico"
+
+[ Ezzelin ] --(Child Of)--> [ Ezzehn ]
+    Evidence: "In 1231 his sons, Ezzelin and Alberico"
+
+[ Selvaggia ] --(Child Of)--> [ Frederic II ]
+    Evidence: "his natural daughter Selvaggia"
+
+[ Selvaggia ] --(Spouse Of)--> [ Ezzehn ]
+    Evidence: "in 1238, his natural daughter Selvaggia to Ezzelin in marriage"
+
+[ Bernardo Nicelli ] --(Subordinate Of)--> [ Bortolamio di Breganze ]
+    Evidence: "his archdeacon, Bernardo NiceUi"
+
+[ Uberto ] --(Leader Of)--> [ Piacenza ]
+    Evidence: "Piacenza, which ]iad fallen un- der control of Uberto"
+
+[ Piero Gallo ] --(Lives In)--> [ Borgo di San Piero ]
+    Evidence: "Piero GaUo, of the Borgo di San Piero"
+
+[ Alberto ] --(Leader Of)--> [ Piacenza ]
+    Evidence: "its bishop, Al- berto, was transferred to Ferrara."
+
+[ Bortolamio di Breganze ] --(Student Of)--> [ St. Dominic ]
+    Evidence: "Bortolamio di Breganze, one of the immediate disciples of St. Dominic"
+
+[ Bortolamio di Breganze ] --(Leader Of)--> [ Vicenza ]
+    Evidence: "was made Bishop of Vicenza, in 1256"
+
+[ Ezzelin ] --(Leader Of)--> [ Vicenza ]
+    Evidence: "Vicenza, which was ruled by Ezzelin"
+
+[ Rainerio ] --(Lives In)--> [ Milan ]
+    Evidence: "Under this impulsion Rainerio assembled the people of Milan"
+
+[ Roberto Patta da Giussano ] --(Owner Of)--> [ Gatta ]
+    Evidence: "At his castle of Gatta"
+
+[ Innocent IV ] --(Superior Of)--> [ Gatta ]
+    Evidence: "he ordered the castle of Gatta and all the heretic houses to be destroyed by fire"
+
+[ Bernard de Caux ] --(Works For)--> [ Languedoc ]
+    Evidence: "active work carried on in Languedoc by Bernard de Caux"
+
+[ Manfred ] --(Child Of)--> [ Frederic ]
+    Evidence: "Manfred, Frederic's illegitimate son"
+
+[ Uberto Pallavicino ] --(Subordinate Of)--> [ Conrad IV ]
+    Evidence: "he appointed as his Lom-
+bard vicar -general Uberto Pallavicino"
+
+[ Egidio, Count of Cortenuova ] --(Owner Of)--> [ Mongano ]
+    Evidence: "the count had seized the castle of Mongano"
+
+[ Manfred ] --(Leader Of)--> [ Ghibelline faction ]
+    Evidence: "Manfred ... became the chief of the Ghi-
+belline faction"
+
+[ Eainerio Saccone da Yicenza ] --(Member Of)--> [ Catharan Church ]
+    Evidence: "The latter had been high in the Catharan Church"
+
+[ Eainerio Saccone da Yicenza ] --(Member Of)--> [ Order of Dominic ]
+    Evidence: "entering the strict Dominican Order"
+
+[ Fra Pier-Tommaso Campana ] --(Employee Of)--> [ Crema ]
+    Evidence: "Fra Pier-Tommaso Campana, who was inquisitor at Crema"
+
+[ Fra Pier-Tommaso Campana ] --(Lives In)--> [ Milan ]
+    Evidence: "in 1738, he presided over such a ceremony in Milan"
+
+[ Innocent ] --(Interacted With)--> [ General Chapter of the Order ]
+    Evidence: "When the 
+General Chapter of the Order assembled at Bologna in May, In- 
+nocent wrote to them"
+
+[ Fra Piero ] --(Employer Of)--> [ Como ]
+    Evidence: "Fra Piero at that time was Prior of Como"
+
+[ Daniele da Giussano ] --(Member Of)--> [ Dominican order ]
+    Evidence: "entered the Dominican Order"
+
+[ Domenico ] --(Subordinate Of)--> [ Fra Piero ]
+    Evidence: "accompanied only by a single friar, Domenico"
+
+[ Manfredo Cltoro ] --(Associate Of)--> [ Carino da Balsamo ]
+    Evidence: "who agreed to do it, and associated with him Carino da Balsamo"
+
+[ Piero ] --(Lives In)--> [ San Giovanni in Canah at Piacenza ]
+    Evidence: "Piero at the convent of San Giovanni in Canah at Piacenza, of which he was prior in 1250"
+
+[ Stefano Confaloniero ] --(Lives In)--> [ Aliate ]
+    Evidence: "Stefano Confaloniero, a noble of Aliate"
+
+[ Piero ] --(Friend Of)--> [ Matteo da Correggio ]
+    Evidence: "begged his friend, Matteo da Correggio"
+
+[ Manfredo Cltoro ] --(Lives In)--> [ Giussano ]
+    Evidence: "Manfredo CUtoro
+of Giussano"
+
+[ Fra Piero ] --(Leader Of)--> [ Compagnia della Fede ]
+    Evidence: "Piero then placed himself at the head of the Compagnia della Fede"
+
+[ Ruggieri ] --(Works For)--> [ Castro ]
+    Evidence: "Ruggieri, for his steadfast courage, was rewarded, before the close of 1245, with the bishopric of Castro"
+
+[ Ser Pace di Pesannola ] --(Employee Of)--> [ Frederic II ]
+    Evidence: "podesta, Ser Pace di Pesannola of Bergamo, recently appointed by Frederic II."
+
+[ Jordan ] --(Founder Of)--> [ Knights of Jesus Christ ]
+    Evidence: "Knights of Jesus Christ were instituted with the same object by Jordan"
+
+[ Fra Giovanni di Salerno ] --(Employee Of)--> [ Santa Maria Novella ]
+    Evidence: "Fra Giovanni di Salerno, Prior of Santa Maria Novella"
+
+[ Piero da Verona ] --(Founder Of)--> [ Milan ]
+    Evidence: "Piero likewise founded in Milan a company, or association, for the
+suppression of heresy"
+
+[ Piero da Verona ] --(Lives In)--> [ Milan ]
+    Evidence: "All
+this was changed when Piero da Yerona made his influence felt."
+
+[ Piero da Yerona ] --(Member Of)--> [ Dominican order ]
+    Evidence: "in 1221 he entered the Dominican Order"
+
+[ Ezzelin da Eomano ] --(Lives In)--> [ Trevisan ]
+    Evidence: "the tyrant of the Trevisan"
+
+[ Piero da Yerona ] --(Lives In)--> [ Yerona ]
+    Evidence: "Born at
+Yerona in 1203 or 1206"
+
+[ Uguccione Pileo ] --(Enemy Of)--> [ Schia family ]
+    Evidence: "Uguccione Pileo, an enemy of the Schia family"
+
+[ Marquis of Este ] --(Leader Of)--> [ Mantua ]
+    Evidence: "Marquis of
+Este, who was Lord of Mantua"
+
+[ Lantelmo ] --(Lives In)--> [ Lodi ]
+    Evidence: "Lantelmo, a noble who sheltered heretics in his castle near Lodi"
+
+[ Moneta ] --(Student Of)--> [ St. Dominic ]
+    Evidence: "Moneta, the disciple of St. Dominic"
+
+=========================================================
+
